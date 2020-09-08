@@ -1,8 +1,11 @@
 import re
 import requests
 import imgkit
+import time
+from xml.sax import saxutils as su
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
+from datetime import datetime
 
 
 headers = {
@@ -37,27 +40,35 @@ titles = ['National_responses_to_the_COVID-19_pandemic',
 mostRecent = {}
 
 
-def createTweet(curr):
+def checkSize(curr):
     diffBytes = curr.find('span', class_='mw-diff-bytes', dir='ltr')
 
     if diffBytes:
         size = diffBytes.get_text()
+        return abs(int(size)) >= 300
     else:
         return
-    print(size)
-    if size and abs(int(size)) >= 100:
+
+
+def createTweet(curr):
+
+    if checkSize(curr) == True:
         link = curr.span.find('a', href=True)
         href = 'https://en.wikipedia.org/' + link['href']
 
         req = requests.get(href, headers)
-        soup = BeautifulSoup(req.content, 'html.parser')
+
+        soup = BeautifulSoup(req.content, 'lxml')
 
     # find table
+        title = soup.find("h1", id="firstHeading").get_text()
         table = soup.find('table')
         tableRows = table.find_all('tr')
 
-        # loop through table rows
-        counter = 0
+        # loop   through table rows
+        now = datetime.now()
+        dt_string = now.strftime("%d/%m/%Y%H:%M:%S")
+
         for tableRow in tableRows:
             deletedLine = tableRow.find(class_='diff-deletedline')
             addedLine = tableRow.find(class_='diff-addedline')
@@ -67,16 +78,29 @@ def createTweet(curr):
                 addedLine = None
 
             if deletedLine != None and addedLine != None:
-                imgkit.from_string(
-                    str(deletedLine) + str(addedLine), str(counter) + '.png')
+                f = open("%{0}%{1}.txt".format(title, dt_string), "w")
+                addedLine = str(addedLine)
+                deletedLine = str(deletedLine)
+                f.write(deletedLine + "\n" + addedLine)
+                f.close()
+                # imgkit.from_string(
+                #     str(deletedLine) + str(addedLine), str(counter) + '.png')
             elif deletedLine == None and addedLine != None:
-                imgkit.from_string(
-                    str(addedLine), str(counter) + '.png')
-            elif deletedLine != None and addedLine == None:
-                imgkit.from_string(
-                    str(deletedLine), str(counter) + '.png')
+                f = open("%{0}%{1}.txt".format(title, dt_string), "w")
+                addedLine = str(addedLine)
 
-            counter += 1
+                f.write(addedLine)
+                f.close()
+                # imgkit.from_string(
+                #     str(addedLine), str(counter) + '.png')
+            elif deletedLine != None and addedLine == None:
+                f = open("%{0}%{1}.txt".format(title, dt_string), "w")
+                deletedLine = str(deletedLine)
+
+                f.write(deletedLine)
+                f.close()
+                # imgkit.from_string(
+                #     str(deletedLine), str(counter) + '.png')
 
 
 while True:
@@ -86,7 +110,7 @@ while True:
 
         # Query for new revision
         req = requests.get(url, headers)
-        soup = BeautifulSoup(req.content, 'html.parser')
+        soup = BeautifulSoup(req.content, 'lxml')
 
         history = soup.find(id='pagehistory')
 
@@ -96,3 +120,4 @@ while True:
             mostRecent[title] = curr
             # create image
             createTweet(curr)
+    time.sleep(3600)
