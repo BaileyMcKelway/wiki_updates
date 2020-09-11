@@ -2,9 +2,8 @@ import re
 import requests
 import imgkit
 import time
-from xml.sax import saxutils as su
+import sys
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
 from datetime import datetime
 
 
@@ -38,6 +37,7 @@ titles = ['National_responses_to_the_COVID-19_pandemic',
           'List_of_unproven_methods_against_COVID-19']
 
 mostRecent = {}
+queue = []
 
 
 def checkSize(curr):
@@ -50,10 +50,11 @@ def checkSize(curr):
         return
 
 
-def createTweet(curr):
-
+def addQueue(curr):
     if checkSize(curr) == True:
         link = curr.span.find('a', href=True)
+        if link == None:
+            return
         href = 'https://en.wikipedia.org/' + link['href']
 
         req = requests.get(href, headers)
@@ -61,14 +62,12 @@ def createTweet(curr):
         soup = BeautifulSoup(req.content, 'lxml')
 
     # find table
-        title = soup.find("h1", id="firstHeading").get_text()
+        title = soup.find("h1", id="firstHeading").get_text().split(":")[0]
         table = soup.find('table')
         tableRows = table.find_all('tr')
 
+        res = []
         # loop   through table rows
-        now = datetime.now()
-        dt_string = now.strftime("%d/%m/%Y%H:%M:%S")
-
         for tableRow in tableRows:
             deletedLine = tableRow.find(class_='diff-deletedline')
             addedLine = tableRow.find(class_='diff-addedline')
@@ -77,33 +76,20 @@ def createTweet(curr):
             if addedLine != None and addedLine.find('div') == None:
                 addedLine = None
 
-            if deletedLine != None and addedLine != None:
-                f = open("%{0}%{1}.txt".format(title, dt_string), "w")
-                addedLine = str(addedLine)
-                deletedLine = str(deletedLine)
-                f.write(deletedLine + "\n" + addedLine)
-                f.close()
-                # imgkit.from_string(
-                #     str(deletedLine) + str(addedLine), str(counter) + '.png')
-            elif deletedLine == None and addedLine != None:
-                f = open("%{0}%{1}.txt".format(title, dt_string), "w")
-                addedLine = str(addedLine)
-
-                f.write(addedLine)
-                f.close()
-                # imgkit.from_string(
-                #     str(addedLine), str(counter) + '.png')
-            elif deletedLine != None and addedLine == None:
-                f = open("%{0}%{1}.txt".format(title, dt_string), "w")
-                deletedLine = str(deletedLine)
-
-                f.write(deletedLine)
-                f.close()
-                # imgkit.from_string(
-                #     str(deletedLine), str(counter) + '.png')
+            # CREATE ARRAY FOR  OBJECT
+            # revision = {
+            #     id,
+            #     fullText
+            #     changedText
+            #     urlOfRevision
+            # }
+            # res.push(revision)
+        return res
 
 
 while True:
+    # CREATE OBJECT FOR QUE HERE
+    revisionAll = {}
     for title in titles:
         print(title)
         url = 'https://en.wikipedia.org/w/index.php?title=' + title + '&action=history'
@@ -114,10 +100,50 @@ while True:
 
         history = soup.find(id='pagehistory')
 
-        curr = history.find('li')
+        allRevisions = history.find_all('li').reverse()
+        allRevisionsLength = len(allRevisions)
 
-        if title not in mostRecent or curr != mostRecent[title]:
-            mostRecent[title] = curr
-            # create image
-            createTweet(curr)
+        check = allRevisions[allRevisionsLength - 1]
+        checkFullDate = check.find(
+            class_="mw-changeslist-date").get_text()
+
+        mostRecentTime = None
+
+        if title not in mostRecent:
+            mostRecentTime = allRevisions[0].find(
+                class_="mw-changeslist-date").get_text()
+        else:
+            mostRecentTime = mostRecent[title]
+
+        i = allRevisionsLength - 1
+        startChecking = False
+
+        while i >= 0:
+            if mostRecentTime == checkFullDate:
+                startChecking = True
+
+            if startChecking == True:
+                revisions = addQueue(check)
+                if title in revisionAll:
+                    revisionAll[title] = revisionAll[title] + revisions
+                else:
+                    revisionAll[title] = revisions
+
+            i -= 1
+            check = allRevisions[i]
+            checkFullDate = check.find(class_="mw-changeslist-date").get_text()
+
+        mostRecent[title] = allRevisions[allRevisionsLength - 1].find(
+            class_="mw-changeslist-date").get_text()
+
+        allRevisions = []
+        startChecking = False
+
+    print(mostRecent)
+    # if len(queue) == 5:
+    #     CHECK IF REVERT
+    #         IF NOT TWEET
+
+    queue.append(revisionAll)
+
     time.sleep(3600)
