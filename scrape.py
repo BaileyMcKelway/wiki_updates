@@ -51,17 +51,24 @@ def checkSize(curr):
 
 
 def addQueue(curr):
-    if checkSize(curr) == True:
-        link = curr.span.find('a', href=True)
-        if link == None:
-            return
-        href = 'https://en.wikipedia.org/' + link['href']
 
-        req = requests.get(href, headers)
+    if checkSize(curr) == True:
+
+        prevLink = curr.span.find('a', text='prev', href=True)
+        currLink = curr.span.find('a', text='cur', href=True)
+
+        if prevLink == None or currLink == None:
+            return
+
+        prevHref = 'https://en.wikipedia.org/' + prevLink['href']
+        curHref = 'https://en.wikipedia.org/' + currLink['href']
+
+        req = requests.get(prevHref, headers)
 
         soup = BeautifulSoup(req.content, 'lxml')
 
-    # find table
+        # find table
+        revisionId = curr['data-mw-revid']
         title = soup.find("h1", id="firstHeading").get_text().split(":")[0]
         table = soup.find('table')
         tableRows = table.find_all('tr')
@@ -76,19 +83,26 @@ def addQueue(curr):
             if addedLine != None and addedLine.find('div') == None:
                 addedLine = None
 
+            if addedLine == None:
+                continue
+
+            # changedText = addedLine.find_all(class_="diffchange-inline")
+
             # CREATE ARRAY FOR  OBJECT
-            # revision = {
-            #     id,
-            #     fullText
-            #     changedText
-            #     urlOfRevision
-            # }
-            # res.push(revision)
+            revision = {
+                'revisionId': revisionId,
+                'title': title,
+                'fullText': addedLine,
+                'changedText': 'changedText',
+                'curLink': curHref,
+                'prevLink': prevHref
+            }
+
+            res.append(revision)
         return res
 
 
 while True:
-    # CREATE OBJECT FOR QUE HERE
     revisionAll = {}
     for title in titles:
         print(title)
@@ -100,7 +114,8 @@ while True:
 
         history = soup.find(id='pagehistory')
 
-        allRevisions = history.find_all('li').reverse()
+        allRevisions = history.find_all('li')
+
         allRevisionsLength = len(allRevisions)
 
         check = allRevisions[allRevisionsLength - 1]
@@ -119,21 +134,23 @@ while True:
         startChecking = False
 
         while i >= 0:
-            if mostRecentTime == checkFullDate:
+            if mostRecentTime == checkFullDate or title not in mostRecent:
                 startChecking = True
 
             if startChecking == True:
                 revisions = addQueue(check)
+                print(revisions)
                 if title in revisionAll:
-                    revisionAll[title] = revisionAll[title] + revisions
+                    revisionAll[title] = revisionAll[title].append(revisions)
                 else:
-                    revisionAll[title] = revisions
+                    revisionAll[title] = []
+                    revisionAll[title].append(revisions)
 
             i -= 1
             check = allRevisions[i]
             checkFullDate = check.find(class_="mw-changeslist-date").get_text()
 
-        mostRecent[title] = allRevisions[allRevisionsLength - 1].find(
+        mostRecent[title] = allRevisions[0].find(
             class_="mw-changeslist-date").get_text()
 
         allRevisions = []
@@ -145,5 +162,5 @@ while True:
     #         IF NOT TWEET
 
     queue.append(revisionAll)
-
+    print(queue)
     time.sleep(3600)
