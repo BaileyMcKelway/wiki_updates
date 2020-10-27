@@ -46,8 +46,9 @@ class WikiUpdate:
 
     def mainFunc(self):
         while True:
-            # object will be pushed to queue
+            # Main Data Structure for every revision
             revisionAll = {}
+
             # Loop Titles
             for title in self.titles:
                 print('TITLE', title)
@@ -58,23 +59,20 @@ class WikiUpdate:
                 soup = BeautifulSoup(req.content, 'lxml')
                 history = soup.find(id='pagehistory')
 
+                # Finds all revisions on history page for specific article
                 allRevisions = history.find_all('li')
                 allRevisionsLength = len(allRevisions)
 
-                # check = allRevisions[allRevisionsLength - 1]
-                # checkFullDate = check.find(
-                #     class_="mw-changeslist-date").get_text()
-
                 mostRecentTime = None
-
                 if title not in self.mostRecent:
                     mostRecentTime = allRevisions[allRevisionsLength - 1].find(
                         class_="mw-changeslist-date").get_text()
                 else:
                     mostRecentTime = self.mostRecent[title]
 
-                i = allRevisionsLength - 1
+                # Loops through every revision
                 startChecking = False
+                i = allRevisionsLength - 1
                 while i >= 0:
                     currDate = allRevisions[i].find(
                         class_="mw-changeslist-date").get_text()
@@ -91,10 +89,8 @@ class WikiUpdate:
                                 revisionAll[title] = revisions
 
                     i -= 1
-                    # check = allRevisions[i]
-                    # checkFullDate = check.find(
-                    #     class_="mw-changeslist-date").get_text()
 
+                # Stores most recent revision and resets variables
                 self.mostRecent[title] = allRevisions[0].find(
                     class_="mw-changeslist-date").get_text()
                 allRevisions = []
@@ -119,7 +115,6 @@ class WikiUpdate:
             curHref = 'https://en.wikipedia.org/' + currLink['href']
 
             req = requests.get(prevHref, self.headers)
-
             soup = BeautifulSoup(req.content, 'lxml')
 
             # find table
@@ -146,11 +141,11 @@ class WikiUpdate:
                 addedLineCleaned = re.sub(clean, '', addedLineCleaned)
                 addedLineCleaned = BeautifulSoup(
                     addedLineCleaned, 'html.parser')
-                # CHECK IF ADDED BLOCK OR HIGHLIGHTED TEXT
 
                 highlightedLines = addedLineCleaned.find_all(
                     'ins', {"class": "diffchange-inline"})
 
+                # Temp file maker
                 pre = str(addedLine)
                 now = datetime.now()
                 dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
@@ -174,6 +169,7 @@ class WikiUpdate:
                 f.write('\n')
                 f.close()
 
+                # Determines if edit is substantial
                 maxLength = 0
                 if len(highlightedLines) == 0 and deletedLine == None:
                     maxLength += len(addedLineCleaned.get_text())
@@ -184,9 +180,7 @@ class WikiUpdate:
 
                 if maxLength <= 30:
                     continue
-                # CHECK FOR SIZE OF HIGHLIGHTED TEXT
 
-                # CREATE ARRAY FOR  OBJECT
                 revision = {
                     'revisionId': revisionId,
                     'title': title,
@@ -199,7 +193,6 @@ class WikiUpdate:
             return res
 
     def checkDeleted(self):
-        # CHECK IF REVERT
         checkRevisions = self.queue.pop(0)
         for title in self.titles:
             mainUrl = 'https://en.wikipedia.org/wiki/' + title
@@ -217,8 +210,8 @@ class WikiUpdate:
                     fuzzy = process.extract(
                         query, paragraphs, limit=3, scorer='ratio')
 
-                    # fuzzyMatch > 50
                     if(fuzzy[0][1] > 50):
+                        # Temp file maker
                         now = datetime.now()
                         dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
                         fileName = title + "_Post" + '.txt'

@@ -75,7 +75,7 @@ def addQueue(prevHref):
     return res
 
 
-def checkDeleted(fullText, url):
+def checkDeleted(fullText, url, paragraph):
     titles = ['National_responses_to_the_COVID-19_pandemic',
               'COVID-19_vaccine',
               'Workplace_hazard_controls_for_COVID-19',
@@ -110,9 +110,9 @@ def checkDeleted(fullText, url):
     article = requests.get(mainUrl, headers)
     urlsoup = BeautifulSoup(article.content, 'lxml')
 
-    paragraphs = urlsoup.find_all('p')
-    for i in range(len(paragraphs)):
-        paragraphs[i] = paragraphs[i].text
+    paragraphs = [paragraph]
+    # for i in range(len(paragraphs)):
+    #     paragraphs[i] = paragraphs[i].text
 
     query = fullText
     fuzzy = process.extract(
@@ -120,9 +120,10 @@ def checkDeleted(fullText, url):
     print('FUZZY', fuzzy)
 
 
-# print(addQueue('https://en.wikipedia.org/w/index.php?title=National_responses_to_the_COVID-19_pandemic&diff=985417966&oldid=985052321'))
+# print(addQueue('https://en.wikipedia.org//w/index.php?title=Coronavirus&diff=977846836&oldid=977765636'))
 
-testFullText = 'At a Sunday mass at [[St. Peter\'s Square]] in Vatican City on 26 January, [[Pope Francis]] praised "the great commitment by the Chinese community that has already been put in place to combat the epidemic" and commenced a closing prayer for "the people who are sick because of the virus that has spread through China". Microsoft co-founder [[Bill Gates]] defended the nation\'s COVID-19 response amidst criticism from the Trump administration, saying "China did a lot of things right at the beginning" and that "they got to zero" with "an effective lockdown". '
-testUrl = 'https://en.wikipedia.org/wiki/National_responses_to_the_COVID-19_pandemic'
+testFullText = 'The M protein is the main structural protein of the envelope and is a type III membrane protein. It consists of 218 to 263 amino acid residues and form a layer of 7.8 nm thick.'
+testUrl = 'https://en.wikipedia.org/wiki/Coronavirus'
+testParagraph = 'The M protein is the main structural protein of the envelope that provides the overall shape and is a type III membrane protein. It consists of 218 to 263 amino acid residues and forms a layer of 7.8 nm thickness.[46] It has three domains such as a short N-terminal ectodomain, a triple-spanning transmembrane domain, and a C-terminal endodomain. The C-terminal domain forms a matrix-like lattice that adds to the extra-thickness of the envelope. Different species can have either N- or O-linked glycans in their protein amino-terminal domain. The M protein is crucial in the life cycle of the virus such as during assembly'
 
-print(checkDeleted(testFullText, testUrl))
+print(checkDeleted(testFullText, testUrl, testParagraph))
