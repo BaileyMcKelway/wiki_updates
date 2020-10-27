@@ -1,0 +1,20 @@
+POSTTitle: COVID-19_pandemic_in_the_United_Kingdom
+ID: 984531024
+All four national health services worked to raise hospital capacity and set up [[NHS COVID-19 critical care hospitals|temporary critical care hospitals]], including the [[NHS Nightingale Hospitals]]. By mid-April it was reported that social distancing had "[[Flatten the curve|flattened the curve]]" of the epidemic. In late April, Prime Minister [[Boris Johnson]] said that the UK had passed the peak of its outbreak.<ref name=bbc52493500/> Daily cases and deaths slowly declined in May and June, and continued at a relatively low level in Juyl and August. The total number of [[excess death]]s in the UK from the start of the outbreak to mid-June was just over 65,000.<ref name=bbc2020-06-30 />
+<td class="diff-addedline"><div>All four national health services worked to raise hospital capacity and set up [[NHS COVID-19 critical care hospitals|temporary critical care hospitals]], including the [[NHS Nightingale Hospitals]]. By mid-April it was reported that social distancing had "[[Flatten the curve|flattened the curve]]" of the epidemic.&lt;ref&gt;[https://www.reuters.com/article/us-health-coronavirus-britain-curve/uks-social-distancing-has-flattened-covid-19-curve-science-official-idUSKCN21X2MT "UK's social distancing has flattened COVID-19 curve: science official"]. Reuters, 15 April 2020.&lt;/ref&gt; In late April, Prime Minister [[Boris Johnson]] said that the UK had passed the peak of its outbreak.&lt;ref name=bbc52493500/&gt; Daily cases and deaths slowly declined in May and June<ins class="diffchange diffchange-inline">, and continued at a relatively low level in Juyl and August</ins>. The total number of [[excess death]]s in the UK from the start of the outbreak to mid-June was just over 65,000.&lt;ref name=bbc2020-06-30 /&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985399582&oldid=984531024
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=984531024&oldid=984501027
+Fuzzy: All four national health services worked to raise hospital capacity and set up temporary critical care hospitals, including the NHS Nightingale Hospitals. By mid-April it was reported that social distancing had "flattened the curve" of the epidemic.[17] In late April, Prime Minister Boris Johnson said that the UK had passed the peak of its outbreak.[18] Daily cases and deaths slowly declined in May and June, and continued at a relatively low level in July and August. The total number of excess deaths in the UK from the start of the outbreak to mid-June was just over 65,000.[19]
+
+
+
+POSTTitle: COVID-19_pandemic_in_the_United_Kingdom
+ID: 984531024
+Cases rose significantly from late August onwards, although this was partly a reflection of higher testing rates than before. The government responded with a [[COVID-19 tier regulations in England|"tiered" lockdown in England]], and the Scottish and Welsh governments introduced similar restrictions.
+<td class="diff-addedline"><div>Cases rose significantly from late August onwards, although this was partly a reflection of higher testing rates than before. The government responded with a [[COVID-19 tier regulations in England|"tiered" lockdown in England]], and the Scottish and Welsh governments introduced similar restrictions.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985399582&oldid=984531024
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=984531024&oldid=984501027
+Fuzzy: Cases rose significantly from late August onwards (by a factor of 3.2 from Aug 15 - Sept 15), partly due to higher testing rates than before (testing increased by a factor of ~1.3 in the same period). The government responded with a "tiered" regional lockdown in England, and the devolved governments introduced similar restrictions.
+
+
+

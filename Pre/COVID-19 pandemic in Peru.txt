@@ -1,0 +1,560 @@
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 982930465
+FULLTEXT: <td class="diff-addedline"><div>'''Note 1:''' On July 22 and August 13, updates were made adding more deaths from previous dates to those already reported, which is why there is an abrupt increase in deaths.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=982930465
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=982930465&oldid=982929995
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 982930465
+FULLTEXT: <td class="diff-addedline"><div>'''Note 2:''' The number of deaths reported on September 23 was 284, of which 98 are from that day and 186 correspond to September 20.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=982930465
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=982930465&oldid=982929995
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12<ins class="diffchange diffchange-inline"> Oct, 13 Oct, 14 Oct, 15</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 1, 6, 7, 9, 11, 17, 22, 38, 43, 71, 86, 117, 145, 234, 263, 318, 363, 395, 416, 480, 580, 635, 671, 852, 950, 1065, 1323, 1414, 1595, 1746, 2281, 2561, 2954, 4342, 5256, 5897, 6848, 7519, 9784, 10303, 11475, 12491, 13489, 14420, 15628, 16325, 17837, 19250, 20914, 21648, 25331, 27517, 28699, 31190, 33931, 36976, 40459, 42534, 45928, 47372, 51189, 54817, 58526, 61847, 65015, 67307, 68822, 72059, 76306, 80604, 84495, 88541, 92273, 94933, 99483, 104020, 108769, 111698, 115754, 119959, 123979, 129751, 135905, 141779, 148285, 155671, 164476, 170039, 174884, 178914, 183198, 187400, 191758, 196515, 199696, 203736, 208823, 214788, 220749, 225132, 229736, 232992, 237156, 240908, 244388, 247925, 251338, 254936, 257447, 260810, 264689, 268602, 272364, 275989, 279419, 282365, 285213, 288477, 292004, 295599, 299080, 302718, 305703, 309278, 312911, 316448, 319646, 322710, 326326, 330123, 333867, 337724, 341586, 345537, 349500, 353590, 357681, 362087, 366550, 371096, 375961, 379884, 384797, 389717, 395005, 400683, 407492, 414735, 422183, 428850, 433100, 439890, 447624, 455409, 463875, 471012, 478024, 483133, 489680, 498555, 507996, 516296, 525803, 535946, 541493, 549321, 558420, 567059, 576067, 585236, 594326, 600438, 607382, 613378, 621997, 629961, 639435, 647166, 652037, 657129, 663437, 670145, 676848, 683702, 689977, 691575, 696190, 702776, 710067, 716670, 722832, 729619, 733860, 738020, 744400, 750098, 756412, 762865, 768895, 772896, 776546, 782695, 788930, 794584, 800142, 805302, 808714, 811768, 814829, 818297, 821564, 824985, 828169, 829999, 832929, 835662, 838614, 843355, 846088, 849371, 851171<ins class="diffchange diffchange-inline">, 853974, 856951, 859740</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y2 = 1, 6, 7, 9, 11, 17, 22, 38, 43, 71, 85, 116, 144, 230, 258, 309, 357, 389, 405, 465, 557, 608, 639, 818, 657, 641, 829, 822, 907, 759, 1209, 1472, 1616, 2888, 3680, 4159, 4928, 5528, 6926, 7204, 8113, 6097, 6648, 7388, 8417, 8912, 10371, 11693, 12920, 13518, 16834, 18701, 19492, 21157, 22951, 25520, 28206, 28900, 31092, 31601, 34332, 35757, 38511, 41121, 42955, 44069, 44455, 46678, 49813, 53186, 54956, 57746, 61004, 61838, 60045, 59028, 62034, 63606, 64468, 66664, 69401, 73057, 75753, 78238, 81264, 84853, 92762, 96898, 100860, 101701, 101939, 103024, 103726, 104831, 104569, 105069, 104889, 106250, 107308, 106910, 107469, 106723, 104895, 105029, 105737, 104745, 104714, 104924, 103904, 103969, 104514, 103767, 103619, 102830, 102104, 101702, 101001, 100372, 99862, 99521, 99047, 98172, 97312, 97388, 97030, 97332, 97508, 96876, 97345, 97061, 98377, 98907, 97977, 98756, 98416, 98448, 99216, 99762, 96849, 97497, 98695, 98724, 98718, 98752, 99941, 101823, 104556, 108391, 111940, 115049, 115198, 117426, 120966, 124648, 128894, 130997, 132932, 132453, 132423, 134904, 134342, 136208, 139947, 144298, 144295, 148644, 154133, 159295, 163914, 166639, 167306, 165324, 164804, 163377, 164058, 163473, 164153, 162921, 160764, 156462, 154001, 150854, 148771, 147593, 145100, 139348, 136316, 135581, 134978, 133986, 132918, 132113, 129684, 126340, 125632, 124439, 124334, 123659, 122271, 119004, 115866, 114336, 112647, 111599, 110164, 108550, 105401, 102447, 98551, 95234, 93310, 91452, 89204, 84277, 81950, 79047, 77300, 77197, 74676, 72097, 69717<ins class="diffchange diffchange-inline">, 66596, 63842, 61413</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y3 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 4, 6, 14, 16, 16, 16, 269, 394, 447, 537, 627, 914, 989, 997, 1231, 1333, 1438, 1569, 1739, 1798, 2642, 2869, 3108, 6120, 6541, 6684, 6811, 6968, 6982, 7027, 7422, 7496, 7797, 8088, 8425, 9179, 10037, 10405, 11129, 12434, 13550, 14427, 15413, 17527, 18388, 19012, 20246, 21349, 22406, 23324, 24324, 25151, 27147, 28272, 28621, 30306, 36524, 41968, 43587, 44848, 47915, 49795, 50949, 52906, 56169, 59442, 62791, 66447, 67208, 68507, 69257, 72319, 76228, 79214, 82731, 86219, 89556, 92929, 98031, 102429, 107133, 111724, 115579, 119409, 125206, 128622, 131190, 135520, 138763, 141967, 145320, 148437, 151589, 156074, 159806, 164024, 167998, 171159, 174535, 178245, 182097, 185852, 189621, 193957, 197619, 200938, 204748, 207802, 210638, 214152, 217111, 221008, 223261, 226400, 230994, 233982, 238036, 241955, 245081, 248746, 252246, 255945, 259423, 263130, 267850, 272547, 276452, 280044, 283915, 287127, 290835, 294187, 298091, 302457, 306430, 310337, 314332, 319171, 324020, 329404, 335756, 341938, 348006, 354232, 359781, 365367, 370717, 374019, 377453, 380730, 384908, 391144, 399357, 407301, 414577, 421877, 429662, 438017, 446675, 455457, 462329, 471599, 480177, 489886, 498523, 506422, 515039, 522251, 529751, 536959, 544745, 552214, 559321, 566796, 573364, 580753, 587717, 594513, 600795, 607837, 615255, 622418, 629094, 636489, 644345, 650948, 657836, 664490, 670989, 676925, 683815, 690528, 695645, 700868, 706223, 712888, 718065, 723606, 728216, 733000, 738189, 743969, 748097<ins class="diffchange diffchange-inline">, 753959, 759597, 764750</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y4 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 5, 5, 5, 7, 9, 9, 11, 16, 18, 24, 30, 47, 55, 61, 73, 83, 92, 107, 121, 138, 169, 181, 193, 216, 230, 254, 274, 300, 348, 400, 445, 484, 530, 572, 634, 700, 728, 782, 854, 943, 1051, 1124, 1200, 1286, 1344, 1444, 1533, 1627, 1714, 1814, 1889, 1961, 2057, 2169, 2267, 2392, 2523, 2648, 2789, 2914, 3024, 3148, 3244, 3371, 3500, 3629, 3788, 3983, 4099, 4230, 4371, 4506, 4634, 4767, 4894, 5031, 5162, 5301, 5465, 5571, 5738, 5903, 6109, 6308, 6498, 6688, 6860, 7056, 7257, 7461, 7660, 7861, 8045, 8223, 8404, 8586, 8761, 8939, 9135, 9317, 9504, 9677, 9860, 10045, 10226, 10412, 10589, 10772, 10952, 11133, 11314, 11500, 11682, 11870, 12054, 12229, 12417, 12615, 12799, 12998, 13187, 13384, 13579, 17455, 17654, 17843, 18030, 18229, 18418, 18612, 18816, 19021, 19217, 19408, 19614, 19811, 20007, 20228, 20424, 20649, 20844, 21072, 21276, 21501, 21713, 25648, 25856, 26075, 26281, 26481, 26658, 26834, 27034, 27245, 27453, 27663, 27813, 28001, 28124, 28277, 28471, 28607, 28788, 28944, 29068, 29259, 29405, 29554, 29687, 29838, 29976, 30123, 30236, 30344, 30470, 30593, 30710, 30812, 30927, 31051, 31146, 31283, 31369,      , 31474, 31586, 31870, 31938, 32037, 32142, 32262, 32324, 32396, 32463, 32535, 32609, 32665, 32742, 32834, 32914, 33009, 33098, 33158, 33223, 33305, 33357<ins class="diffchange diffchange-inline">, 33419, 33512, 33577</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12<ins class="diffchange diffchange-inline"> Oct, 13 Oct, 14 Oct, 15</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 1, 5, 1, 2, 2, 6, 5, 16, 5, 28, 15, 31, 28, 89, 29, 52, 48, 32, 21, 64, 100, 55, 36, 181, 98, 115, 258, 91, 181, 151, 535, 280, 393, 1388, 914, 641, 951, 671, 2265, 519, 1172, 1016, 998, 931, 1208, 697, 1512, 1413, 1664, 734, 3683, 2186, 1182, 2491, 2741, 3045, 3483, 2075, 3394, 1444, 3817, 3628, 3709, 3321, 3168, 2292, 1515, 3237, 4247, 4298, 3891, 4046, 3732, 2660, 4550, 4537, 4749, 2929, 4056, 4205, 4020, 5772, 6154, 5874, 6506, 7386, 8805, 5563, 4845, 4030, 4284, 4202, 4358, 4757, 3181, 4040, 5087, 5965, 5961, 4383, 4604, 3256, 4164, 3752, 3480, 3537, 3413, 3598, 2511, 3363, 3879, 3913, 3762, 3625, 3430, 2946, 2848, 3264, 3527, 3595, 3481, 3638, 2985, 3575, 3633, 3537, 3198, 3064, 3616, 3797, 3744, 3857, 3862, 3951, 3963, 4090, 4091, 4406, 4463, 4546, 4865, 3923, 4913, 4920, 5288, 5678, 6809, 7243, 7448, 6667, 4250, 6790, 7734, 7785, 8466, 7137, 7012, 5109, 6547, 8875, 9441, 8300, 9507, 10143, 5547, 7828, 9099, 8639, 9008, 9169, 9090, 6112, 6944, 5996, 8619, 7964, 9474, 7731, 4871, 5092, 6308, 6708, 6703, 6854, 6275, 1598, 4615, 6586, 7291, 6603, 6162, 6787, 4241, 4160, 6380, 5698, 6314, 6453, 6030, 4001, 3650, 6149, 6235, 5654, 5558, 5160, 3412, 3054, 3061, 3468, 3267, 3421, 3184, 1830, 2930, 2733, 2952, 4741, 2733, 3283, 1800<ins class="diffchange diffchange-inline">, 2803, 2977, 2789</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12<ins class="diffchange diffchange-inline"> Oct, 13 Oct, 14 Oct, 15</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 2, 8, 2, 0, 0, 253, 125, 53, 90, 90, 287, 75, 8, 234, 102, 105, 131, 170, 59, 844, 227, 239, 3012, 421, 143, 127, 157, 14, 45, 395, 74, 301, 291, 337, 754, 858, 368, 724, 1305, 1116, 877, 986, 2114, 861, 624, 1234, 1103, 1057, 918, 1000, 827, 1996, 1125, 349, 1685, 6218, 5444, 1619, 1261, 3067, 1880, 1154, 1957, 3263, 3273, 3349, 3656, 761, 1299, 750, 3062, 3909, 2986, 3517, 3488, 3337, 3373, 5102, 4398, 4704, 4591, 3855, 3830, 5796, 3417, 2568, 4330, 3243, 3204, 3353, 3117, 3152, 4485, 3732, 4218, 3974, 3161, 3376, 3710, 3852, 3755, 3769, 4336, 3662, 3319, 3810, 3054, 2836, 3514, 2959, 3897, 2253, 3139, 4594, 2988, 4104, 3869, 3126, 3665, 3500, 3699, 3478, 3707, 4720, 4697, 3905, 3592, 3871, 3212, 3708, 3352, 3904, 4366, 3973, 3907, 3995, 4839, 4849, 5384, 6352, 6182, 6068, 6226, 5549, 5586, 5350, 3302, 3434, 3277, 4178, 6236, 8213, 7944, 7276, 7300, 7785, 8355, 8658, 8782, 6872, 9270, 8578, 9709, 8637, 7899, 8617, 7212, 7500, 7208, 7786, 7469, 7107, 7475, 6568, 7389, 6964, 6796, 6282, 7042, 7418, 7163, 6676, 7395, 7856, 6603, 6888, 6654, 6499, 5936, 6890, 6713, 5117, 5223, 5355, 6665, 5177, 5541, 4610, 4784, 5189, 5780, 4128<ins class="diffchange diffchange-inline">, 5862, 5638, 5153</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12<ins class="diffchange diffchange-inline"> Oct, 13 Oct, 14 Oct, 15</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 1, 0, 0, 2, 2, 0, 2, 5, 2, 6, 6, 17, 8, 6, 12, 10, 9, 15, 14, 17, 31, 12, 12, 23, 14, 24, 20, 26, 48, 52, 45, 39, 46, 42, 62, 66, 28, 54, 72, 89, 108, 73, 76, 86, 58, 100, 89, 94, 87, 100, 75, 72, 96, 112, 98, 125, 131, 125, 141, 125, 110, 124, 96, 127, 129, 129, 159, 195, 116, 131, 141, 135, 128, 133, 127, 137, 131, 139, 164, 106, 167, 165, 206, 199, 190, 190, 172, 196, 201, 204, 199, 201, 184, 178, 181, 182, 175, 178, 196, 182, 187, 173, 183, 185, 181, 186, 177, 183, 180, 181, 181, 186, 182, 188, 184, 175, 188, 198, 184, 199, 189, 197, 195, 3876, 199, 189, 187, 199, 189, 194, 204, 205, 196, 191, 206, 197, 196, 221, 196, 225, 195, 228, 204, 225, 212, 3935, 208, 219, 206, 200, 177, 176, 200, 211, 208, 210, 150, 188, 123, 153, 194, 136, 181, 156, 124, 191, 146, 149, 133, 151, 138, 147, 113, 108, 126, 123, 117, 102, 115, 124, 95, 137, 86, 0, 105, 112, 284, 68, 99, 105, 120, 62, 72, 67, 72, 74, 56, 77, 92, 80, 95, 89, 60, 65, 82, 52<ins class="diffchange diffchange-inline">, 62, 93, 65</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12<ins class="diffchange diffchange-inline"> Oct, 13 Oct, 14 Oct, 15</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 13, 19, 19, 28, 28, 31, 36, 23, 38, 58, 79, 84, 107, 238, 190, 198, 189, 243, 286, 321, 387, 490, 512, 600, 687, 788, 815, 901, 914, 1113, 1277, 1219, 1268, 1349, 1682, 2419, 2434, 2786, 3194, 3532, 3622, 3968, 4088, 4289, 4978, 5287, 5098, 5281, 5435, 5509, 5729, 5980, 6155, 6220, 6601, 6648, 6862, 6979, 6941, 7085, 7275, 7408, 7509, 7526, 7533, 7455, 7545, 7674, 7779, 8097, 8207, 8267, 8395, 8433, 8465, 8882, 8868, 8930, 10101, 9063, 9198, 9500, 9583, 9661, 9903, 9916, 10026, 10121, 10342, 10297, 10295, 10177, 10204, 10240, 10445, 10577, 10566, 10714, 10588, 10599, 10587, 10964, 10762, 10861, 11000, 11049, 11108, 11179, 11131, 11273, 11302, 11399, 11646, 11626, 11770, 11894, 11932, 11723, 11897, 11962, 12048, 12396, 12539, 12210, 12309, 12772, 12747, 12821, 12985, 12920, 13043, 13304, 13450, 13408, 13491, 13438, 13577, 13700, 13743, 13772, 13798, 13751, 13659, 13820, 13680, 13768, 13808, 13775, 13823, 13987, 14175, 13947, 14074, 14181, 14092, 13888, 13779, 13773, 13661, 13363, 13367, 12950, 13051, 12871, 12595, 12537, 12364, 12374, 12162, 11830, 11699, 11411, 11362, 11327, 11242, 11087, 10727, 10641, 10490, 10251, 10122, 10002, 9962, 9749, 9534, 9400, 9269, 9156, 9087, 8520, 8691, 8594, 8397, 8282, 8054, 8054, 7911, 7609, 7511, 7383, 7222, 7074, 6983, 6831, 6735, 6647, 6544, 6334, 6291, 6272<ins class="diffchange diffchange-inline">, 6274, 6237, 6222</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12<ins class="diffchange diffchange-inline"> Oct, 13 Oct, 14 Oct, 15</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 5, 7, 5, 5, 5, 7, 9, 18, 14, 21, 33, 40, 49, 57, 56, 51, 72, 88, 81, 89, 109, 113, 124, 130, 142, 134, 143, 132, 146, 169, 137, 117, 167, 385, 380, 396, 467, 505, 545, 554, 598, 600, 623, 651, 658, 671, 679, 694, 709, 717, 722, 730, 748, 774, 785, 797, 806, 842, 851, 840, 850, 866, 883, 869, 886, 901, 909, 920, 909, 923, 926, 943, 940, 940, 988, 975, 964, 998, 1005, 1041, 1062, 1062, 1072, 1077, 1065, 1069, 1089, 1113, 1111, 1121, 1112, 1111, 1130, 1126, 1143, 1137, 1144, 1161, 1166, 1144, 1172, 1169, 1178, 1183, 1185, 1212, 1220, 1210, 1224, 1227, 1236, 1265, 1265, 1292, 1309, 1315, 1316, 1314, 1325, 1323, 1302, 1314, 1311, 1293, 1303, 1342, 1351, 1372, 1389, 1402, 1424, 1439, 1423, 1427, 1421, 1414, 1416, 1410, 1419, 1418, 1419, 1426, 1460, 1474, 1488, 1484, 1496, 1501, 1525, 1553, 1540, 1533, 1524, 1527, 1516, 1519, 1530, 1506, 1515, 1525, 1522, 1512, 1526, 1517, 1524, 1514, 1512, 1493, 1500, 1506, 1497, 1492, 1500, 1488, 1499, 1476, 1460, 1469, 1463, 1448, 1460, 1451, 1452, 1439, 1449, 1421, 1425, 1415, 1405, 1381, 1382, 1368, 1357, 1370, 1354, 1362, 1358, 1353, 1331, 1311, 1287, 1269, 1268, 1247, 1233, 1235, 1207, 1210, 1182<ins class="diffchange diffchange-inline">, 1173, 1163, 1139</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|legend = Total: <ins class="diffchange diffchange-inline">1546</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 2020-10-<ins class="diffchange diffchange-inline">15</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = <ins class="diffchange diffchange-inline">407</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y2 = <ins class="diffchange diffchange-inline">1139</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12<ins class="diffchange diffchange-inline"> Oct, 13 Oct, 14 Oct, 15</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 155, 219, 250, 318, 346, 714, 905, 1232, 1545, 1822, 2315, 2797, 3075, 3841, 4298, 5185, 6184, 6664, 7013, 8040, 9219, 10065, 10896, 12669, 13452, 14463, 15587, 16518, 17334, 17841, 19410, 20414, 21555, 39599, 48469, 56681, 65712, 76506, 87116, 102216, 109385, 121468, 127513, 135895, 143745, 148011, 155724, 170400, 185238, 198349, 218195, 232747, 239563, 267612, 296262, 318252, 342498, 355604, 375096, 385492, 406579, 429458, 448020, 473190, 494250, 504930, 512869, 532169, 553302, 587292, 605383, 630482, 650613, 661132, 679582, 715423, 736500, 750526, 788341, 820967, 840922, 875721, 905278, 928797, 963617, 1012708, 1058874, 1076659, 1092646, 1115615, 1135831, 1154468, 1173003, 1191956, 1203985, 1227691, 1255756, 1282478, 1315417, 1338477, 1360839, 1376478, 1396605, 1417911, 1439767, 1461266, 1482563, 1504209, 1517930, 1539746, 1561653, 1583605, 1604521, 1625135, 1645112, 1661324, 1679386, 1699369, 1720261, 1740969, 1761910, 1782846, 1800690, 1821328, 1842316, 1863278, 1883326, 1904242, 1925231, 1943679, 1963921, 1983932, 2003963, 2023996, 2042218, 2063240, 2084311, 2109202, 2133775, 2158770, 2183763, 2206105, 2230247, 2250256, 2270717, 2293612, 2318254, 2348396, 2377948, 2404046, 2417857, 2440184, 2466745, 2493429, 2522993, 2548439, 2573691, 2590078, 2612599, 2643464, 2677014, 2705122, 2738229, 2773412, 2793614, 2818943, 2852011, 2883862, 2915372, 2950589, 2985782, 3006993, 3032744, 3055850, 3089459, 3124076, 3156679, 3191850, 3215842, 3233034, 3256711, 3286526, 3320012, 3353435, 3379580, 3386625, 3403397, 3428910, 3457205, 3482894, 3509997, 3534937, 3552710, 3567927, 3592221, 3614738, 3640863, 3667968, 3693813, 3710694, 3724872, 3751583, 3778648, 3804340, 3827824, 3850122, 3865360, 3878323, 3892353, 3908125, 3922567, 3939873, 3952298, 3961345, 3975007, 3988070, 4003363, 4027591, 4050681, 4077357, 4092566<ins class="diffchange diffchange-inline">, 4111951, 4135223, 4158359</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12<ins class="diffchange diffchange-inline"> Oct, 13 Oct, 14 Oct, 15</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 155, 64, 31, 68, 28, 368, 141, 377, 313, 277, 493, 365, 395, 766, 457, 687, 1199, 480, 349, 1027, 1179, 846, 831, 1773, 783, 1011, 1124, 931, 816, 507, 1569, 1004, 1141, 18044, 8870, 8212, 9031, 10794, 10610, 15100, 7169, 12083, 6045, 8382, 7850, 4266, 7713, 14676, 14838, 13111, 19846, 14552, 6816, 28049, 28650, 21990, 24246, 13106, 19492, 10396, 21087, 22879, 18562, 25170, 21060, 10680, 7939, 19300, 21133, 33990, 18091, 25099, 20131, 10519, 18450, 35841, 21077, 14026, 37815, 32626, 19955, 34799, 29577, 23519, 34820, 49091, 46166, 17785, 15987, 22969, 20216, 18637, 18535, 18953, 12029, 23706, 28065, 26722, 32939, 23060, 22362, 15639, 20127, 21306, 21856, 21499, 21297, 21646, 13721, 21816, 21907, 21952, 20916, 20614, 19977, 16212, 18062, 19983, 20892, 20708, 20941, 20936, 17844, 20638, 20988, 20962, 20048, 20916, 20989, 18448, 20242, 20011, 20031, 20033, 18222, 21022, 21071, 24891, 24573, 24995, 24993, 22342, 24142, 20009, 20461, 22895, 24642, 30142, 29552, 26098, 13811, 22327, 26561, 26684, 29564, 25446, 25252, 16387, 22521, 30865, 33550, 28108, 33107, 35183, 20202, 25329, 33068, 31851, 31510, 35217, 35193, 21211, 25751, 23106, 33609, 34617, 32603, 35171, 23992, 17192, 23677, 29815, 33486, 33423, 26145, 7045, 16772, 25513, 28295, 25689, 27103, 24940, 17773, 15217, 24294, 22517, 26125, 27105, 25845, 16881, 14178, 26711, 27065, 25692, 23484, 22298, 15238, 12963, 14030, 15772, 14442, 17306, 12425, 9047, 13662, 13063, 15293, 24228, 23090, 26676, 15209<ins class="diffchange diffchange-inline">, 19385, 23272, 23136</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12<ins class="diffchange diffchange-inline"> Oct, 13 Oct, 14 Oct, 15</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 983789253
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0.01, 0.08, 0.03, 0.03, 0.07, 0.02, 0.03, 0.05, 0.02, 0.10, 0.03, 0.06, 0.10, 0.12, 0.06, 0.06, 0.05, 0.07, 0.06, 0.06, 0.09, 0.07, 0.04, 0.10, 0.13, 0.11, 0.23, 0.10, 0.22, 0.30, 0.34, 0.28, 0.34, 0.08, 0.10, 0.08, 0.11, 0.06, 0.21, 0.03, 0.16, 0.08, 0.17, 0.11, 0.15, 0.16, 0.20, 0.10, 0.11, 0.06, 0.19, 0.15, 0.17, 0.09, 0.10, 0.14, 0.14, 0.16, 0.17, 0.14, 0.18, 0.16, 0.20, 0.13, 0.15, 0.22, 0.19, 0.17, 0.20, 0.13, 0.22, 0.16, 0.19, 0.25, 0.25, 0.13, 0.23, 0.21, 0.11, 0.13, 0.20, 0.17, 0.21, 0.25, 0.19, 0.15, 0.19, 0.31, 0.30, 0.18, 0.21, 0.23, 0.24, 0.25, 0.26, 0.17, 0.18, 0.22, 0.18, 0.19, 0.21, 0.21, 0.21, 0.18, 0.16, 0.17, 0.16, 0.17, 0.18, 0.15, 0.18, 0.18, 0.18, 0.18, 0.17, 0.18, 0.16, 0.16, 0.17, 0.17, 0.17, 0.17, 0.17, 0.17, 0.17, 0.17, 0.16, 0.15, 0.17, 0.21, 0.19, 0.19, 0.19, 0.20, 0.22, 0.20, 0.19, 0.18, 0.18, 0.18, 0.20, 0.18, 0.20, 0.25, 0.26, 0.25, 0.28, 0.24, 0.25, 0.26, 0.31, 0.30, 0.29, 0.29, 0.29, 0.28, 0.28, 0.31, 0.29, 0.29, 0.28, 0.30, 0.29, 0.29, 0.27, 0.31, 0.28, 0.27, 0.29, 0.26, 0.26, 0.29, 0.27, 0.26, 0.26, 0.23, 0.29, 0.22, 0.20, 0.30, 0.27, 0.22, 0.20, 0.21, 0.24, 0.23, 0.28, 0.26, 0.26, 0.26, 0.23, 0.27, 0.24, 0.27, 0.26, 0.25, 0.24, 0.24, 0.23, 0.24, 0.26, 0.23, 0.23, 0.22, 0.24, 0.23, 0.22, 0.24, 0.22, 0.22, 0.23, 0.20, 0.26, 0.20, 0.21, 0.21, 0.19, 0.20, 0.12, 0.12<ins class="diffchange diffchange-inline">, 0.12, 0.14, 0.13</ins>, 0.12</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=983789253
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=983789253&oldid=983787007
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12 Oct, 13 Oct, 14 Oct, 15<ins class="diffchange diffchange-inline"> Oct, 16 Oct, 17</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 1, 6, 7, 9, 11, 17, 22, 38, 43, 71, 86, 117, 145, 234, 263, 318, 363, 395, 416, 480, 580, 635, 671, 852, 950, 1065, 1323, 1414, 1595, 1746, 2281, 2561, 2954, 4342, 5256, 5897, 6848, 7519, 9784, 10303, 11475, 12491, 13489, 14420, 15628, 16325, 17837, 19250, 20914, 21648, 25331, 27517, 28699, 31190, 33931, 36976, 40459, 42534, 45928, 47372, 51189, 54817, 58526, 61847, 65015, 67307, 68822, 72059, 76306, 80604, 84495, 88541, 92273, 94933, 99483, 104020, 108769, 111698, 115754, 119959, 123979, 129751, 135905, 141779, 148285, 155671, 164476, 170039, 174884, 178914, 183198, 187400, 191758, 196515, 199696, 203736, 208823, 214788, 220749, 225132, 229736, 232992, 237156, 240908, 244388, 247925, 251338, 254936, 257447, 260810, 264689, 268602, 272364, 275989, 279419, 282365, 285213, 288477, 292004, 295599, 299080, 302718, 305703, 309278, 312911, 316448, 319646, 322710, 326326, 330123, 333867, 337724, 341586, 345537, 349500, 353590, 357681, 362087, 366550, 371096, 375961, 379884, 384797, 389717, 395005, 400683, 407492, 414735, 422183, 428850, 433100, 439890, 447624, 455409, 463875, 471012, 478024, 483133, 489680, 498555, 507996, 516296, 525803, 535946, 541493, 549321, 558420, 567059, 576067, 585236, 594326, 600438, 607382, 613378, 621997, 629961, 639435, 647166, 652037, 657129, 663437, 670145, 676848, 683702, 689977, 691575, 696190, 702776, 710067, 716670, 722832, 729619, 733860, 738020, 744400, 750098, 756412, 762865, 768895, 772896, 776546, 782695, 788930, 794584, 800142, 805302, 808714, 811768, 814829, 818297, 821564, 824985, 828169, 829999, 832929, 835662, 838614, 843355, 846088, 849371, 851171, 853974, 856951, 859740<ins class="diffchange diffchange-inline">, 862417, 865549</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y2 = 1, 6, 7, 9, 11, 17, 22, 38, 43, 71, 85, 116, 144, 230, 258, 309, 357, 389, 405, 465, 557, 608, 639, 818, 657, 641, 829, 822, 907, 759, 1209, 1472, 1616, 2888, 3680, 4159, 4928, 5528, 6926, 7204, 8113, 6097, 6648, 7388, 8417, 8912, 10371, 11693, 12920, 13518, 16834, 18701, 19492, 21157, 22951, 25520, 28206, 28900, 31092, 31601, 34332, 35757, 38511, 41121, 42955, 44069, 44455, 46678, 49813, 53186, 54956, 57746, 61004, 61838, 60045, 59028, 62034, 63606, 64468, 66664, 69401, 73057, 75753, 78238, 81264, 84853, 92762, 96898, 100860, 101701, 101939, 103024, 103726, 104831, 104569, 105069, 104889, 106250, 107308, 106910, 107469, 106723, 104895, 105029, 105737, 104745, 104714, 104924, 103904, 103969, 104514, 103767, 103619, 102830, 102104, 101702, 101001, 100372, 99862, 99521, 99047, 98172, 97312, 97388, 97030, 97332, 97508, 96876, 97345, 97061, 98377, 98907, 97977, 98756, 98416, 98448, 99216, 99762, 96849, 97497, 98695, 98724, 98718, 98752, 99941, 101823, 104556, 108391, 111940, 115049, 115198, 117426, 120966, 124648, 128894, 130997, 132932, 132453, 132423, 134904, 134342, 136208, 139947, 144298, 144295, 148644, 154133, 159295, 163914, 166639, 167306, 165324, 164804, 163377, 164058, 163473, 164153, 162921, 160764, 156462, 154001, 150854, 148771, 147593, 145100, 139348, 136316, 135581, 134978, 133986, 132918, 132113, 129684, 126340, 125632, 124439, 124334, 123659, 122271, 119004, 115866, 114336, 112647, 111599, 110164, 108550, 105401, 102447, 98551, 95234, 93310, 91452, 89204, 84277, 81950, 79047, 77300, 77197, 74676, 72097, 69717, 66596, 63842, 61413<ins class="diffchange diffchange-inline">, 59692, 57491</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y3 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 4, 6, 14, 16, 16, 16, 269, 394, 447, 537, 627, 914, 989, 997, 1231, 1333, 1438, 1569, 1739, 1798, 2642, 2869, 3108, 6120, 6541, 6684, 6811, 6968, 6982, 7027, 7422, 7496, 7797, 8088, 8425, 9179, 10037, 10405, 11129, 12434, 13550, 14427, 15413, 17527, 18388, 19012, 20246, 21349, 22406, 23324, 24324, 25151, 27147, 28272, 28621, 30306, 36524, 41968, 43587, 44848, 47915, 49795, 50949, 52906, 56169, 59442, 62791, 66447, 67208, 68507, 69257, 72319, 76228, 79214, 82731, 86219, 89556, 92929, 98031, 102429, 107133, 111724, 115579, 119409, 125206, 128622, 131190, 135520, 138763, 141967, 145320, 148437, 151589, 156074, 159806, 164024, 167998, 171159, 174535, 178245, 182097, 185852, 189621, 193957, 197619, 200938, 204748, 207802, 210638, 214152, 217111, 221008, 223261, 226400, 230994, 233982, 238036, 241955, 245081, 248746, 252246, 255945, 259423, 263130, 267850, 272547, 276452, 280044, 283915, 287127, 290835, 294187, 298091, 302457, 306430, 310337, 314332, 319171, 324020, 329404, 335756, 341938, 348006, 354232, 359781, 365367, 370717, 374019, 377453, 380730, 384908, 391144, 399357, 407301, 414577, 421877, 429662, 438017, 446675, 455457, 462329, 471599, 480177, 489886, 498523, 506422, 515039, 522251, 529751, 536959, 544745, 552214, 559321, 566796, 573364, 580753, 587717, 594513, 600795, 607837, 615255, 622418, 629094, 636489, 644345, 650948, 657836, 664490, 670989, 676925, 683815, 690528, 695645, 700868, 706223, 712888, 718065, 723606, 728216, 733000, 738189, 743969, 748097, 753959, 759597, 764750<ins class="diffchange diffchange-inline">, 769077, 774356</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y4 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 5, 5, 5, 7, 9, 9, 11, 16, 18, 24, 30, 47, 55, 61, 73, 83, 92, 107, 121, 138, 169, 181, 193, 216, 230, 254, 274, 300, 348, 400, 445, 484, 530, 572, 634, 700, 728, 782, 854, 943, 1051, 1124, 1200, 1286, 1344, 1444, 1533, 1627, 1714, 1814, 1889, 1961, 2057, 2169, 2267, 2392, 2523, 2648, 2789, 2914, 3024, 3148, 3244, 3371, 3500, 3629, 3788, 3983, 4099, 4230, 4371, 4506, 4634, 4767, 4894, 5031, 5162, 5301, 5465, 5571, 5738, 5903, 6109, 6308, 6498, 6688, 6860, 7056, 7257, 7461, 7660, 7861, 8045, 8223, 8404, 8586, 8761, 8939, 9135, 9317, 9504, 9677, 9860, 10045, 10226, 10412, 10589, 10772, 10952, 11133, 11314, 11500, 11682, 11870, 12054, 12229, 12417, 12615, 12799, 12998, 13187, 13384, 13579, 17455, 17654, 17843, 18030, 18229, 18418, 18612, 18816, 19021, 19217, 19408, 19614, 19811, 20007, 20228, 20424, 20649, 20844, 21072, 21276, 21501, 21713, 25648, 25856, 26075, 26281, 26481, 26658, 26834, 27034, 27245, 27453, 27663, 27813, 28001, 28124, 28277, 28471, 28607, 28788, 28944, 29068, 29259, 29405, 29554, 29687, 29838, 29976, 30123, 30236, 30344, 30470, 30593, 30710, 30812, 30927, 31051, 31146, 31283, 31369,      , 31474, 31586, 31870, 31938, 32037, 32142, 32262, 32324, 32396, 32463, 32535, 32609, 32665, 32742, 32834, 32914, 33009, 33098, 33158, 33223, 33305, 33357, 33419, 33512, 33577<ins class="diffchange diffchange-inline">, 33648, 33702</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 16, Week 17, Week 18, Week 19, Week 20, Week 21, Week 22, Week 23, Week 24, Week 25, Week 26, Week 27, Week 28, Week 29, Week 30, Week 31, Week 32<ins class="diffchange diffchange-inline">, Week 33</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 6, 37, 272, 356, 1075, 5102, 7572, 10911, 17203, 22481, 23526, 27213, 39917, 36087, 33374, 26206, 24651, 23091, 23630, 26790, 30384, 42299, 48829, 54791, 59433, 54199, 44267, 39130, 40033, 37277, 24843, 21103<ins class="diffchange diffchange-inline">, 19461</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 16, Week 17, Week 18, Week 19, Week 20, Week 21, Week 22, Week 23, Week 24, Week 25, Week 26, Week 27, Week 28, Week 29, Week 30, Week 31, Week 32<ins class="diffchange diffchange-inline">, Week 33</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 3, 5, 39, 51, 154, 729, 1082, 1559, 2458, 3212, 3361, 3888, 5702, 5155, 4768, 3744, 3522, 3299, 3376, 3827, 4341, 6043, 6976, 7827, 8490, 7743, 6324, 5590, 5719, 5325, 3549, 3015<ins class="diffchange diffchange-inline">, 2780</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12 Oct, 13 Oct, 14 Oct, 15<ins class="diffchange diffchange-inline"> Oct, 16 Oct, 17</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 1, 5, 1, 2, 2, 6, 5, 16, 5, 28, 15, 31, 28, 89, 29, 52, 48, 32, 21, 64, 100, 55, 36, 181, 98, 115, 258, 91, 181, 151, 535, 280, 393, 1388, 914, 641, 951, 671, 2265, 519, 1172, 1016, 998, 931, 1208, 697, 1512, 1413, 1664, 734, 3683, 2186, 1182, 2491, 2741, 3045, 3483, 2075, 3394, 1444, 3817, 3628, 3709, 3321, 3168, 2292, 1515, 3237, 4247, 4298, 3891, 4046, 3732, 2660, 4550, 4537, 4749, 2929, 4056, 4205, 4020, 5772, 6154, 5874, 6506, 7386, 8805, 5563, 4845, 4030, 4284, 4202, 4358, 4757, 3181, 4040, 5087, 5965, 5961, 4383, 4604, 3256, 4164, 3752, 3480, 3537, 3413, 3598, 2511, 3363, 3879, 3913, 3762, 3625, 3430, 2946, 2848, 3264, 3527, 3595, 3481, 3638, 2985, 3575, 3633, 3537, 3198, 3064, 3616, 3797, 3744, 3857, 3862, 3951, 3963, 4090, 4091, 4406, 4463, 4546, 4865, 3923, 4913, 4920, 5288, 5678, 6809, 7243, 7448, 6667, 4250, 6790, 7734, 7785, 8466, 7137, 7012, 5109, 6547, 8875, 9441, 8300, 9507, 10143, 5547, 7828, 9099, 8639, 9008, 9169, 9090, 6112, 6944, 5996, 8619, 7964, 9474, 7731, 4871, 5092, 6308, 6708, 6703, 6854, 6275, 1598, 4615, 6586, 7291, 6603, 6162, 6787, 4241, 4160, 6380, 5698, 6314, 6453, 6030, 4001, 3650, 6149, 6235, 5654, 5558, 5160, 3412, 3054, 3061, 3468, 3267, 3421, 3184, 1830, 2930, 2733, 2952, 4741, 2733, 3283, 1800, 2803, 2977, 2789<ins class="diffchange diffchange-inline">, 2677, 3132</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 16, Week 17, Week 18, Week 19, Week 20, Week 21, Week 22, Week 23, Week 24, Week 25, Week 26, Week 27, Week 28, Week 29, Week 30, Week 31, Week 32<ins class="diffchange diffchange-inline">, Week 33</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 1, 15, 898, 825, 4945, 1113, 4637, 7812, 8026, 19643, 18532, 16284, 28993, 27039, 25261, 25597, 24531, 23934, 25044, 27705, 28336, 40610, 31363, 55531, 59747, 52899, 48516, 49999, 43032, 37321<ins class="diffchange diffchange-inline">, 36167</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 16, Week 17, Week 18, Week 19, Week 20, Week 21, Week 22, Week 23, Week 24, Week 25, Week 26, Week 27, Week 28, Week 29, Week 30, Week 31, Week 32<ins class="diffchange diffchange-inline">, Week 33</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 0, 2, 128, 118, 706, 159, 662, 1116, 1147, 2806, 2647, 2326, 4142, 3863, 3609, 3657, 3504, 3419, 3578, 3958, 4048, 5801, 4480, 7933, 8535, 7557, 6931, 7143, 6147, 5332<ins class="diffchange diffchange-inline">, 5167</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12 Oct, 13 Oct, 14 Oct, 15<ins class="diffchange diffchange-inline"> Oct, 16 Oct, 17</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 2, 8, 2, 0, 0, 253, 125, 53, 90, 90, 287, 75, 8, 234, 102, 105, 131, 170, 59, 844, 227, 239, 3012, 421, 143, 127, 157, 14, 45, 395, 74, 301, 291, 337, 754, 858, 368, 724, 1305, 1116, 877, 986, 2114, 861, 624, 1234, 1103, 1057, 918, 1000, 827, 1996, 1125, 349, 1685, 6218, 5444, 1619, 1261, 3067, 1880, 1154, 1957, 3263, 3273, 3349, 3656, 761, 1299, 750, 3062, 3909, 2986, 3517, 3488, 3337, 3373, 5102, 4398, 4704, 4591, 3855, 3830, 5796, 3417, 2568, 4330, 3243, 3204, 3353, 3117, 3152, 4485, 3732, 4218, 3974, 3161, 3376, 3710, 3852, 3755, 3769, 4336, 3662, 3319, 3810, 3054, 2836, 3514, 2959, 3897, 2253, 3139, 4594, 2988, 4104, 3869, 3126, 3665, 3500, 3699, 3478, 3707, 4720, 4697, 3905, 3592, 3871, 3212, 3708, 3352, 3904, 4366, 3973, 3907, 3995, 4839, 4849, 5384, 6352, 6182, 6068, 6226, 5549, 5586, 5350, 3302, 3434, 3277, 4178, 6236, 8213, 7944, 7276, 7300, 7785, 8355, 8658, 8782, 6872, 9270, 8578, 9709, 8637, 7899, 8617, 7212, 7500, 7208, 7786, 7469, 7107, 7475, 6568, 7389, 6964, 6796, 6282, 7042, 7418, 7163, 6676, 7395, 7856, 6603, 6888, 6654, 6499, 5936, 6890, 6713, 5117, 5223, 5355, 6665, 5177, 5541, 4610, 4784, 5189, 5780, 4128, 5862, 5638, 5153<ins class="diffchange diffchange-inline">, 4327, 5279</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 16, Week 17, Week 18, Week 19, Week 20, Week 21, Week 22, Week 23, Week 24, Week 25, Week 26, Week 27, Week 28, Week 29, Week 30, Week 31, Week 32<ins class="diffchange diffchange-inline">, Week 33</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 5, 11, 57, 108, 167, 352, 500, 614, 709, 848, 1000, 930, 1197, 1363, 1274, 1277, 1270, 1316, 5032, 1378, 1436, 5231, 1378, 1154, 1080, 906, 776, 773, 523, 558<ins class="diffchange diffchange-inline">, 479</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 16, Week 17, Week 18, Week 19, Week 20, Week 21, Week 22, Week 23, Week 24, Week 25, Week 26, Week 27, Week 28, Week 29, Week 30, Week 31, Week 32<ins class="diffchange diffchange-inline">, Week 33</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 1, 2, 8, 15, 24, 50, 71, 88, 101, 121, 143, 133, 171, 195, 182, 182, 181, 188, 719, 197, 205, 747, 197, 165, 154, 129, 111, 110, 75, 80<ins class="diffchange diffchange-inline">, 68</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12 Oct, 13 Oct, 14 Oct, 15<ins class="diffchange diffchange-inline"> Oct, 16 Oct, 17</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 1, 0, 0, 2, 2, 0, 2, 5, 2, 6, 6, 17, 8, 6, 12, 10, 9, 15, 14, 17, 31, 12, 12, 23, 14, 24, 20, 26, 48, 52, 45, 39, 46, 42, 62, 66, 28, 54, 72, 89, 108, 73, 76, 86, 58, 100, 89, 94, 87, 100, 75, 72, 96, 112, 98, 125, 131, 125, 141, 125, 110, 124, 96, 127, 129, 129, 159, 195, 116, 131, 141, 135, 128, 133, 127, 137, 131, 139, 164, 106, 167, 165, 206, 199, 190, 190, 172, 196, 201, 204, 199, 201, 184, 178, 181, 182, 175, 178, 196, 182, 187, 173, 183, 185, 181, 186, 177, 183, 180, 181, 181, 186, 182, 188, 184, 175, 188, 198, 184, 199, 189, 197, 195, 3876, 199, 189, 187, 199, 189, 194, 204, 205, 196, 191, 206, 197, 196, 221, 196, 225, 195, 228, 204, 225, 212, 3935, 208, 219, 206, 200, 177, 176, 200, 211, 208, 210, 150, 188, 123, 153, 194, 136, 181, 156, 124, 191, 146, 149, 133, 151, 138, 147, 113, 108, 126, 123, 117, 102, 115, 124, 95, 137, 86, 0, 105, 112, 284, 68, 99, 105, 120, 62, 72, 67, 72, 74, 56, 77, 92, 80, 95, 89, 60, 65, 82, 52, 62, 93, 65<ins class="diffchange diffchange-inline">, 71, 54</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12 Oct, 13 Oct, 14 Oct, 15<ins class="diffchange diffchange-inline"> Oct, 16 Oct, 17</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 13, 19, 19, 28, 28, 31, 36, 23, 38, 58, 79, 84, 107, 238, 190, 198, 189, 243, 286, 321, 387, 490, 512, 600, 687, 788, 815, 901, 914, 1113, 1277, 1219, 1268, 1349, 1682, 2419, 2434, 2786, 3194, 3532, 3622, 3968, 4088, 4289, 4978, 5287, 5098, 5281, 5435, 5509, 5729, 5980, 6155, 6220, 6601, 6648, 6862, 6979, 6941, 7085, 7275, 7408, 7509, 7526, 7533, 7455, 7545, 7674, 7779, 8097, 8207, 8267, 8395, 8433, 8465, 8882, 8868, 8930, 10101, 9063, 9198, 9500, 9583, 9661, 9903, 9916, 10026, 10121, 10342, 10297, 10295, 10177, 10204, 10240, 10445, 10577, 10566, 10714, 10588, 10599, 10587, 10964, 10762, 10861, 11000, 11049, 11108, 11179, 11131, 11273, 11302, 11399, 11646, 11626, 11770, 11894, 11932, 11723, 11897, 11962, 12048, 12396, 12539, 12210, 12309, 12772, 12747, 12821, 12985, 12920, 13043, 13304, 13450, 13408, 13491, 13438, 13577, 13700, 13743, 13772, 13798, 13751, 13659, 13820, 13680, 13768, 13808, 13775, 13823, 13987, 14175, 13947, 14074, 14181, 14092, 13888, 13779, 13773, 13661, 13363, 13367, 12950, 13051, 12871, 12595, 12537, 12364, 12374, 12162, 11830, 11699, 11411, 11362, 11327, 11242, 11087, 10727, 10641, 10490, 10251, 10122, 10002, 9962, 9749, 9534, 9400, 9269, 9156, 9087, 8520, 8691, 8594, 8397, 8282, 8054, 8054, 7911, 7609, 7511, 7383, 7222, 7074, 6983, 6831, 6735, 6647, 6544, 6334, 6291, 6272, 6274, 6237, 6222<ins class="diffchange diffchange-inline">, 6172, 5940</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12 Oct, 13 Oct, 14 Oct, 15<ins class="diffchange diffchange-inline"> Oct, 16 Oct, 17</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 5, 7, 5, 5, 5, 7, 9, 18, 14, 21, 33, 40, 49, 57, 56, 51, 72, 88, 81, 89, 109, 113, 124, 130, 142, 134, 143, 132, 146, 169, 137, 117, 167, 385, 380, 396, 467, 505, 545, 554, 598, 600, 623, 651, 658, 671, 679, 694, 709, 717, 722, 730, 748, 774, 785, 797, 806, 842, 851, 840, 850, 866, 883, 869, 886, 901, 909, 920, 909, 923, 926, 943, 940, 940, 988, 975, 964, 998, 1005, 1041, 1062, 1062, 1072, 1077, 1065, 1069, 1089, 1113, 1111, 1121, 1112, 1111, 1130, 1126, 1143, 1137, 1144, 1161, 1166, 1144, 1172, 1169, 1178, 1183, 1185, 1212, 1220, 1210, 1224, 1227, 1236, 1265, 1265, 1292, 1309, 1315, 1316, 1314, 1325, 1323, 1302, 1314, 1311, 1293, 1303, 1342, 1351, 1372, 1389, 1402, 1424, 1439, 1423, 1427, 1421, 1414, 1416, 1410, 1419, 1418, 1419, 1426, 1460, 1474, 1488, 1484, 1496, 1501, 1525, 1553, 1540, 1533, 1524, 1527, 1516, 1519, 1530, 1506, 1515, 1525, 1522, 1512, 1526, 1517, 1524, 1514, 1512, 1493, 1500, 1506, 1497, 1492, 1500, 1488, 1499, 1476, 1460, 1469, 1463, 1448, 1460, 1451, 1452, 1439, 1449, 1421, 1425, 1415, 1405, 1381, 1382, 1368, 1357, 1370, 1354, 1362, 1358, 1353, 1331, 1311, 1287, 1269, 1268, 1247, 1233, 1235, 1207, 1210, 1182, 1173, 1163, 1139<ins class="diffchange diffchange-inline">, 1149, 1133</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|legend = Total: <ins class="diffchange diffchange-inline">1545</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 2020-10-<ins class="diffchange diffchange-inline">17</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = <ins class="diffchange diffchange-inline">412</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y2 = <ins class="diffchange diffchange-inline">1133</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12 Oct, 13 Oct, 14 Oct, 15<ins class="diffchange diffchange-inline"> Oct, 16 Oct, 17</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 155, 219, 250, 318, 346, 714, 905, 1232, 1545, 1822, 2315, 2797, 3075, 3841, 4298, 5185, 6184, 6664, 7013, 8040, 9219, 10065, 10896, 12669, 13452, 14463, 15587, 16518, 17334, 17841, 19410, 20414, 21555, 39599, 48469, 56681, 65712, 76506, 87116, 102216, 109385, 121468, 127513, 135895, 143745, 148011, 155724, 170400, 185238, 198349, 218195, 232747, 239563, 267612, 296262, 318252, 342498, 355604, 375096, 385492, 406579, 429458, 448020, 473190, 494250, 504930, 512869, 532169, 553302, 587292, 605383, 630482, 650613, 661132, 679582, 715423, 736500, 750526, 788341, 820967, 840922, 875721, 905278, 928797, 963617, 1012708, 1058874, 1076659, 1092646, 1115615, 1135831, 1154468, 1173003, 1191956, 1203985, 1227691, 1255756, 1282478, 1315417, 1338477, 1360839, 1376478, 1396605, 1417911, 1439767, 1461266, 1482563, 1504209, 1517930, 1539746, 1561653, 1583605, 1604521, 1625135, 1645112, 1661324, 1679386, 1699369, 1720261, 1740969, 1761910, 1782846, 1800690, 1821328, 1842316, 1863278, 1883326, 1904242, 1925231, 1943679, 1963921, 1983932, 2003963, 2023996, 2042218, 2063240, 2084311, 2109202, 2133775, 2158770, 2183763, 2206105, 2230247, 2250256, 2270717, 2293612, 2318254, 2348396, 2377948, 2404046, 2417857, 2440184, 2466745, 2493429, 2522993, 2548439, 2573691, 2590078, 2612599, 2643464, 2677014, 2705122, 2738229, 2773412, 2793614, 2818943, 2852011, 2883862, 2915372, 2950589, 2985782, 3006993, 3032744, 3055850, 3089459, 3124076, 3156679, 3191850, 3215842, 3233034, 3256711, 3286526, 3320012, 3353435, 3379580, 3386625, 3403397, 3428910, 3457205, 3482894, 3509997, 3534937, 3552710, 3567927, 3592221, 3614738, 3640863, 3667968, 3693813, 3710694, 3724872, 3751583, 3778648, 3804340, 3827824, 3850122, 3865360, 3878323, 3892353, 3908125, 3922567, 3939873, 3952298, 3961345, 3975007, 3988070, 4003363, 4027591, 4050681, 4077357, 4092566, 4111951, 4135223, 4158359<ins class="diffchange diffchange-inline">, 4181976, 4206371</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 16, Week 17, Week 18, Week 19, Week 20, Week 21, Week 22, Week 23, Week 24, Week 25, Week 26, Week 27, Week 28, Week 29, Week 30, Week 31, Week 32<ins class="diffchange diffchange-inline">, Week 33</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 219, 1326, 3640, 5711, 6945, 47871, 70183, 82300, 137409, 138646, 136232, 157859, 224367, 160295, 165474, 144086, 142572, 136775, 142332, 137976, 163887, 171843, 170491, 189790, 212360, 206090, 196756, 156562, 157971, 159856, 112049, 110808<ins class="diffchange diffchange-inline">, 155690</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 16, Week 17, Week 18, Week 19, Week 20, Week 21, Week 22, Week 23, Week 24, Week 25, Week 26, Week 27, Week 28, Week 29, Week 30, Week 31, Week 32<ins class="diffchange diffchange-inline">, Week 33</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 110, 189, 520, 816, 992, 6839, 10026, 11757, 19630, 19807, 19462, 22551, 32052, 22899, 23639, 20584, 20367, 19539, 20333, 19711, 23412, 24549, 24356, 27113, 30337, 29441, 28108, 22366, 22567, 22837, 16007, 15830<ins class="diffchange diffchange-inline">, 22241</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12 Oct, 13 Oct, 14 Oct, 15<ins class="diffchange diffchange-inline"> Oct, 16 Oct, 17</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 155, 64, 31, 68, 28, 368, 141, 377, 313, 277, 493, 365, 395, 766, 457, 687, 1199, 480, 349, 1027, 1179, 846, 831, 1773, 783, 1011, 1124, 931, 816, 507, 1569, 1004, 1141, 18044, 8870, 8212, 9031, 10794, 10610, 15100, 7169, 12083, 6045, 8382, 7850, 4266, 7713, 14676, 14838, 13111, 19846, 14552, 6816, 28049, 28650, 21990, 24246, 13106, 19492, 10396, 21087, 22879, 18562, 25170, 21060, 10680, 7939, 19300, 21133, 33990, 18091, 25099, 20131, 10519, 18450, 35841, 21077, 14026, 37815, 32626, 19955, 34799, 29577, 23519, 34820, 49091, 46166, 17785, 15987, 22969, 20216, 18637, 18535, 18953, 12029, 23706, 28065, 26722, 32939, 23060, 22362, 15639, 20127, 21306, 21856, 21499, 21297, 21646, 13721, 21816, 21907, 21952, 20916, 20614, 19977, 16212, 18062, 19983, 20892, 20708, 20941, 20936, 17844, 20638, 20988, 20962, 20048, 20916, 20989, 18448, 20242, 20011, 20031, 20033, 18222, 21022, 21071, 24891, 24573, 24995, 24993, 22342, 24142, 20009, 20461, 22895, 24642, 30142, 29552, 26098, 13811, 22327, 26561, 26684, 29564, 25446, 25252, 16387, 22521, 30865, 33550, 28108, 33107, 35183, 20202, 25329, 33068, 31851, 31510, 35217, 35193, 21211, 25751, 23106, 33609, 34617, 32603, 35171, 23992, 17192, 23677, 29815, 33486, 33423, 26145, 7045, 16772, 25513, 28295, 25689, 27103, 24940, 17773, 15217, 24294, 22517, 26125, 27105, 25845, 16881, 14178, 26711, 27065, 25692, 23484, 22298, 15238, 12963, 14030, 15772, 14442, 17306, 12425, 9047, 13662, 13063, 15293, 24228, 23090, 26676, 15209, 19385, 23272, 23136<ins class="diffchange diffchange-inline">, 23617, 24395</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = Week 1, Week 2, Week 3, Week 4, Week 5, Week 6, Week 7, Week 8, Week 9, Week 10, Week 11, Week 12, Week 13, Week 14, Week 15, Week 16, Week 17, Week 18, Week 19, Week 20, Week 21, Week 22, Week 23, Week 24, Week 25, Week 26, Week 27, Week 28, Week 29, Week 30, Week 31, Week 32<ins class="diffchange diffchange-inline">, Week 33</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0.04, 0.03, 0.08, 0.06, 0.17, 0.19, 0.12, 0.14, 0.14, 0.16, 0.18, 0.19, 0.18, 0.24, 0.21, 0.18, 0.17, 0.17, 0.17, 0.19, 0.19, 0.25, 0.29, 0.29, 0.28, 0.26, 0.23, 0.25, 0.25, 0.24, 0.22, 0.20<ins class="diffchange diffchange-inline">, 0.13</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|x = 6 Mar, 7 Mar, 8 Mar, 9 Mar, 10 Mar, 11 Mar, 12 Mar, 13 Mar, 14 Mar, 15 Mar, 16 Mar, 17 Mar, 18 Mar, 19 Mar, 20 Mar, 21 Mar, 22 Mar, 23 Mar, 24 Mar, 25 Mar, 26 Mar, 27 Mar, 28 Mar, 29 Mar, 30 Mar, 31 Mar, 1 Apr, 2 Apr, 3 Apr, 4 Apr, 5 Apr, 6 Apr, 7 Apr, 8 Apr, 9 Apr, 10 Apr, 11 Apr, 12 Apr, 13 Apr, 14 Apr, 15 Apr, 16 Apr, 17 Apr, 18 Apr, 19 Apr, 20 Apr, 21 Apr, 22 Apr, 23 Apr, 24 Apr, 25 Apr, 26 Apr, 27 Apr, 28 Apr, 29 Apr, 30 Apr, 1 May, 2 May, 3 May, 4 May, 5 May, 6 May, 7 May, 8 May, 9 May, 10 May, 11 May, 12 May, 13 May, 14 May, 15 May, 16 May, 17 May, 18 May, 19 May, 20 May, 21 May, 22 May, 23 May, 24 May, 25 May, 26 May, 27 May, 28 May, 29 May, 30 May, 31 May, 1 Jun, 2 Jun, 3 Jun, 4 Jun, 5 Jun, 6 Jun, 7 Jun, 8 Jun, 9 Jun, 10 Jun, 11 Jun, 12 Jun, 13 Jun, 14 Jun, 15 Jun, 16 Jun, 17 Jun, 18 Jun, 19 Jun, 20 Jun, 21 Jun, 22 Jun, 23 Jun, 24 Jun, 25 Jun, 26 Jun, 27 Jun, 28 Jun, 29 Jun, 30 Jun, 1 Jul, 2 Jul, 3 Jul, 4 Jul, 5 Jul, 6 Jul, 7 Jul, 8 Jul, 9 Jul, 10 Jul, 11 Jul, 12 Jul, 13 Jul, 14 Jul, 15 Jul, 16 Jul, 17 Jul, 18 Jul, 19 Jul, 20 Jul, 21 Jul, 22 Jul, 23 Jul, 24 Jul, 25 Jul, 26 Jul, 27 Jul, 28 Jul, 29 Jul, 30 Jul, 31 Jul, 1 Aug, 2 Aug, 3 Aug, 4 Aug, 5 Aug, 6 Aug, 7 Aug, 8 Aug, 9 Aug, 10 Aug, 11 Aug, 12 Aug, 13 Aug, 14 Aug, 15 Aug, 16 Aug, 17 Aug, 18 Aug, 19 Aug, 20 Aug, 21 Aug, 22 Aug, 23 Aug, 24 Aug, 25 Aug, 26 Aug, 27 Aug, 28 Aug, 29 Aug, 30 Aug, 31 Aug, 1 Sep, 2 Sep, 3 Sep, 4 Sep, 5 Sep, 6 Sep, 7 Sep, 8 Sep, 9 Sep, 10 Sep, 11 Sep, 12 Sep, 13 Sep, 14 Sep, 15 Sep, 16 Sep, 17 Sep, 18 Sep, 19 Sep, 20 Sep, 21 Sep, 22 Sep, 23 Sep, 24 Sep, 25 Sep, 26 Sep, 27 Sep, 28 Sep, 29 Sep, 30 Sep, 1 Oct, 2 Oct, 3 Oct, 4 Oct, 5 Oct, 6 Oct, 7 Oct, 8 Oct, 9 Oct, 10 Oct, 11 Oct, 12 Oct, 13 Oct, 14 Oct, 15<ins class="diffchange diffchange-inline"> Oct, 16 Oct, 17</ins> Oct</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+
+PRE
+Title: COVID-19 pandemic in Peru
+ID: 984197434
+FULLTEXT: <td class="diff-addedline"><div>|y1 = 0.01, 0.08, 0.03, 0.03, 0.07, 0.02, 0.03, 0.05, 0.02, 0.10, 0.03, 0.06, 0.10, 0.12, 0.06, 0.06, 0.05, 0.07, 0.06, 0.06, 0.09, 0.07, 0.04, 0.10, 0.13, 0.11, 0.23, 0.10, 0.22, 0.30, 0.34, 0.28, 0.34, 0.08, 0.10, 0.08, 0.11, 0.06, 0.21, 0.03, 0.16, 0.08, 0.17, 0.11, 0.15, 0.16, 0.20, 0.10, 0.11, 0.06, 0.19, 0.15, 0.17, 0.09, 0.10, 0.14, 0.14, 0.16, 0.17, 0.14, 0.18, 0.16, 0.20, 0.13, 0.15, 0.22, 0.19, 0.17, 0.20, 0.13, 0.22, 0.16, 0.19, 0.25, 0.25, 0.13, 0.23, 0.21, 0.11, 0.13, 0.20, 0.17, 0.21, 0.25, 0.19, 0.15, 0.19, 0.31, 0.30, 0.18, 0.21, 0.23, 0.24, 0.25, 0.26, 0.17, 0.18, 0.22, 0.18, 0.19, 0.21, 0.21, 0.21, 0.18, 0.16, 0.17, 0.16, 0.17, 0.18, 0.15, 0.18, 0.18, 0.18, 0.18, 0.17, 0.18, 0.16, 0.16, 0.17, 0.17, 0.17, 0.17, 0.17, 0.17, 0.17, 0.17, 0.16, 0.15, 0.17, 0.21, 0.19, 0.19, 0.19, 0.20, 0.22, 0.20, 0.19, 0.18, 0.18, 0.18, 0.20, 0.18, 0.20, 0.25, 0.26, 0.25, 0.28, 0.24, 0.25, 0.26, 0.31, 0.30, 0.29, 0.29, 0.29, 0.28, 0.28, 0.31, 0.29, 0.29, 0.28, 0.30, 0.29, 0.29, 0.27, 0.31, 0.28, 0.27, 0.29, 0.26, 0.26, 0.29, 0.27, 0.26, 0.26, 0.23, 0.29, 0.22, 0.20, 0.30, 0.27, 0.22, 0.20, 0.21, 0.24, 0.23, 0.28, 0.26, 0.26, 0.26, 0.23, 0.27, 0.24, 0.27, 0.26, 0.25, 0.24, 0.24, 0.23, 0.24, 0.26, 0.23, 0.23, 0.22, 0.24, 0.23, 0.22, 0.24, 0.22, 0.22, 0.23, 0.20, 0.26, 0.20, 0.21, 0.21, 0.19, 0.20, 0.12, 0.12, 0.12, 0.14, 0.13, 0.12<ins class="diffchange diffchange-inline">, 0.11, 0.13</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=985455230&oldid=984197434
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Peru&diff=984197434&oldid=984196049
+
+

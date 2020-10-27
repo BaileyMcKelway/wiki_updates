@@ -1,0 +1,16 @@
+PRE
+Title: Coronavirus disease
+ID: 976481860
+FULLTEXT: <td class="diff-addedline"><div>The [[COVID-19 pandemic|2019–20 coronavirus outbreak]], caused by [[COVID-19]], was declared a [[pandemic]] by the [[World Health Organization]] (WHO) on 11 March 2020.{{R|"WHOPandemic"}} [[Local transmission]] of the disease has been recorded in many countries across all six [[WHO regions]].{{R|"SituationReport65"}} COVID-19 is caused by the [[SARS-CoV-2]] coronavirus{{R|"Naming the coronavirus disease"}}<ins class="diffchange diffchange-inline"> and the [[provenance]] is contested.&lt;ref name=CovidPSA&gt;Paull, John (2020). [https://www.academia.edu/43707046/Science_Versus_Public_Sentiment_Covid-19_is_not_a_Bioweapon_Created_in_a_Laboratory_Say_UK_Scientists_Nope_Don_t_Believe_It_Say_UK_Public  Science Versus Public Sentiment: “Covid-19 is not a Bioweapon Created in a Laboratory, Say UK Scientists”, “Nope, Don’t Believe It”, Say UK Public],  International Journal of Clinical and Experimental Medicine Research. 4 (3): 93-100&lt;/ref&gt;</ins> SARS-CoV-2 is the third [[zoonosis|zoonotic]] coronavirus to be identified, after SARS-CoV and MERS-CoV.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Coronavirus_disease&diff=984923659&oldid=976481860
+Previous Link: https://en.wikipedia.org//w/index.php?title=Coronavirus_disease&diff=976481860&oldid=975413058
+
+
+PRE
+Title: Coronavirus disease
+ID: 976599638
+FULLTEXT: <td class="diff-addedline"><div>The [[COVID-19 pandemic|2019–20 coronavirus outbreak]], caused by [[COVID-19]], was declared a [[pandemic]] by the [[World Health Organization]] (WHO) on 11 March 2020.{{R|"WHOPandemic"}} [[Local transmission]] of the disease has been recorded in many countries across all six [[WHO regions]].{{R|"SituationReport65"}} COVID-19 is caused by the [[SARS-CoV-2]] coronavirus<ins class="diffchange diffchange-inline">.</ins>{{R|"Naming the coronavirus disease"}} SARS-CoV-2 is the third [[zoonosis|zoonotic]] coronavirus to be identified, after SARS-CoV and MERS-CoV.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Coronavirus_disease&diff=984923659&oldid=976599638
+Previous Link: https://en.wikipedia.org//w/index.php?title=Coronavirus_disease&diff=976599638&oldid=976481860
+
+

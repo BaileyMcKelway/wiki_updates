@@ -1,0 +1,40 @@
+PRE
+Title: Severe acute respiratory syndrome coronavirus 2
+ID: 977308129
+FULLTEXT: <td class="diff-addedline"><div>Human-to-human [[Transmission (medicine)|transmission]] of SARS-CoV-2 was confirmed on 20 January 2020, during the [[COVID-19 pandemic]].&lt;ref name="Chan24Jan2020" /&gt;&lt;ref name="LiMar2020" /&gt;&lt;ref name="Kessler17Apr2020" /&gt;&lt;ref name="Kuo21Jan2020" /&gt; Transmission was initially assumed to occur primarily via [[respiratory droplet]]s from coughs and sneezes within a range of about {{convert|1.8|m|ft|0|adj=ri1}}.&lt;ref name="CDCTrans" /&gt;&lt;ref name="NBCSpread" /&gt; Laser light scattering experiments suggest speaking as an additional mode of transmission.&lt;ref name="Anfrinrud 2020" /&gt;&lt;ref name="Stadnytskyi et al 2020" /&gt;  Other studies have suggested that the virus may be airborne as well<ins class="diffchange diffchange-inline">, with [[aerosols]] potentially being able to transmit the virus</ins>.&lt;ref name="NYT-20200704am" /&gt;<ins class="diffchange diffchange-inline">&lt;ref&gt;{{cite</ins> <ins class="diffchange diffchange-inline">web|url=https://www.theatlantic.com/health/archive/2020/07/why-arent-we-talking-more-about-airborne-transmission/614737/|title=We Need to Talk About Ventilation|author=Zeynep Tufekci|publisher=[[The Atlantic]]|date=July 30, 2020|accessdate=September 8, 2020}}&lt;/ref&gt;</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=985088717&oldid=977308129
+Previous Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=977308129&oldid=977045836
+
+
+PRE
+Title: Severe acute respiratory syndrome coronavirus 2
+ID: 981927166
+FULLTEXT: <td class="diff-addedline"><div>Bats <ins class="diffchange diffchange-inline">are</ins> considered the most likely natural reservoir of SARS-CoV-2,&lt;ref name="WHOChinaJoint" /&gt;&lt;ref name="LancetBinding" /&gt; <ins class="diffchange diffchange-inline">but</ins> differences between the bat coronavirus and SARS-CoV-2 <ins class="diffchange diffchange-inline">suggest</ins> that humans were infected via an intermediate host.&lt;ref name="nature feb2020" /&gt; Although studies <ins class="diffchange diffchange-inline">have</ins> suggested some likely candidates, the number and identities of intermediate hosts <ins class="diffchange diffchange-inline">remain</ins> uncertain.&lt;ref name="IJID-interm-host" /&gt; Nearly half of the strain's genome <ins class="diffchange diffchange-inline">has</ins> a phylogenetic lineage distinct from known relatives.&lt;ref name="Rejects" /&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=985088717&oldid=981927166
+Previous Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=981927166&oldid=981926716
+
+
+PRE
+Title: Severe acute respiratory syndrome coronavirus 2
+ID: 982656054
+FULLTEXT: <td class="diff-addedline"><div>There are still a lot of questions about reinfection and long-term immunity.&lt;ref name=led-rei&gt;{{cite web |last1=Ledford |first1=Heidi |title=Coronavirus reinfections: three questions scientists are asking |url=https://www.nature.com/articles/d41586-020-02506-y |website=Nature |pages=168–169 |language=en |doi=10.1038/d41586-020-02506-y |date=4 September 2020}}&lt;/ref&gt; It is not known how common reinfection is, but reports have indicated that it is occurring.&lt;ref name=led-rei/&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=985088717&oldid=982656054
+Previous Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=982656054&oldid=982225100
+
+
+PRE
+Title: Severe acute respiratory syndrome coronavirus 2
+ID: 982819362
+FULLTEXT: <td class="diff-addedline"><div>A [[phylogenetics]] study published in 2020 <ins class="diffchange diffchange-inline">indicates</ins> <ins class="diffchange diffchange-inline">that</ins> [[pangolin]]<ins class="diffchange diffchange-inline">s</ins> <ins class="diffchange diffchange-inline">are</ins> <ins class="diffchange diffchange-inline">a</ins> <ins class="diffchange diffchange-inline">reservoir</ins> host of SARS-CoV-2<ins class="diffchange diffchange-inline">-like coronaviruses.</ins>&lt;ref name="BMJ-Best-Practice" /&gt; <ins class="diffchange diffchange-inline">However,</ins> there is no direct evidence<ins class="diffchange diffchange-inline"> to link pangolins as an intermediate host of SARS-CoV-2</ins> at this moment.&lt;ref name="Ortiz-Prado2020" /&gt;<ins class="diffchange diffchange-inline"> While there is scientific consensus that bats are the ultimate source of coronaviruses, the pangolin CoV is sister to both RaTG13 as well as SARS-CoV-2.</ins> Based on whole genome sequence similarity, a pangolin coronavirus candidate strain was found to be less similar than RaTG13, but more similar than other bat coronaviruses to SARS-CoV-2.&lt;ref name="CurrentOrigin<ins class="diffchange diffchange-inline">" /&gt; Therefore, based on [[maximum parsimony]], a specific population of bats is more likely to have directly transmitted SARS-CoV-2 to humans than a pangolin, while an evolutionary ancestor to bats was the source of general coronaviruses.&lt;ref name="ForbesOrigin</ins>" /&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=985088717&oldid=982819362
+Previous Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=982819362&oldid=982659892
+
+
+PRE
+Title: Severe acute respiratory syndrome coronavirus 2
+ID: 983075754
+FULLTEXT: <td class="diff-addedline"><div>In October 2020, medical researchers concluded the Covid-19 virus can remain on common surfaces for 28 days.&lt;ref name="VJ-20201007"&gt;{{cite journal |author=Riddell, Shane |display-authors=et al. |title=The effect of temperature on persistence of SARS-CoV-2 on common surfaces |url=https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-01418-7 |date=7 October 2020 |journal=[[Virology Journal]] |volume=17 |issue=145 |doi=10.1186/s12985-020-01418-7 |accessdate=11 October 2020 }}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=985088717&oldid=983075754
+Previous Link: https://en.wikipedia.org//w/index.php?title=Severe_acute_respiratory_syndrome_coronavirus_2&diff=983075754&oldid=982953798
+
+

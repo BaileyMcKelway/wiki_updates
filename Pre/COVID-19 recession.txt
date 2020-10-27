@@ -1,0 +1,96 @@
+PRE
+Title: COVID-19 recession
+ID: 978174222
+FULLTEXT: <td class="diff-addedline"><div>Since August 2019, [[Lebanon]] had been experiencing a major economic crisis that was caused by an increase in the official exchange rate between the [[Lebanese pound]] and the [[United States dollar]].&lt;ref&gt;{{cite web|url=https://www.bdl.gov.lb/statistics/table.php?name=t5282usd |title=Data Series |publisher=Bdl.gov.lb |date= |accessdate=23 April 2020}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.dailystar.com.lb/Business/Local/2020/Mar-11/502598-lebanons-gdp-declines-to-44-billion-from-55-billion.ashx |title=Lebanon's GDP declines to $44 billion from $55 billion &amp;#124; Business, Local |publisher=The Daily Star |date=11 March 2020 |accessdate=23 April 2020}}&lt;/ref&gt;<ins class="diffchange diffchange-inline"> This was further escalated by a large [[2020 Beirut explosion|explosion]] in [[Beirut]], and [[2019–20 Lebanese protests|protests]] throughout the country. </ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=978174222
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=978174222&oldid=977910141
+
+
+PRE
+Title: COVID-19 recession
+ID: 978174222
+FULLTEXT: <td class="diff-addedline"><div>The economic impact of the protests in the U.S. has exacerbated the COVID-19 recession by sharply curtailing [[consumer confidence]], straining local businesses, and overwhelming public infrastructure with large-scale property damage,&lt;ref name=":62"&gt;{{Cite web|last=Alberight|first=Amanda|date=31 May 2020|title=George Floyd protests hammer cities as they reopen from coronavirus lockdowns|url=https://fortune.com/2020/05/31/george-floyd-protests-cities-reopen/|access-date=6 June 2020|website=Fortune|language=en}}&lt;/ref&gt; costing an estimated $<ins class="diffchange diffchange-inline">550</ins> million.&lt;ref&gt;{{Cite web|url=https://www.marketwatch.com/story/the-insurance-bill-for-damage-and-looting-during-protests-over-george-floyds-death-will-be-at-least-25-million-and-thats-just-in-minnesota-2020-06-04|title=This is the insurance bill for damage and looting during protests over George Floyd’s death — and that’s just in Minnesota|first=Andrew|last=Keshner|website=MarketWatch<ins class="diffchange diffchange-inline">}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|last=Casiano|first=Louis|date=2020-09-10|title=Damage blamed on rioting in Kenosha tops $50 million, county asks for federal help to rebuild|url=https://www.foxbusiness.com/economy/damage-rioting-kenosha-50-million|access-date=2020-09-13|website=FOXBusiness|language=en-US</ins>}}&lt;/ref&gt; A number of small businesses, already suffering from the [[economic impact of the COVID-19 pandemic]], were harmed by vandalism, property destruction, and looting.&lt;ref&gt;Leticia Miranda, [https://www.nbcnews.com/business/business-news/first-came-pandemic-then-looting-small-businesses-pick-pieces-their-n1224776 First came a pandemic. Then, looting. Small businesses pick up the pieces as their debt mounts.], NBC News (4 June 2020).&lt;/ref&gt;&lt;ref&gt;Russell Lynch, [https://www.telegraph.co.uk/business/2020/06/06/us-riots-set-scar-economy-years-come/ US riots set to scar economy for years to come], ''The Telegraph (6 June 2020).''&lt;/ref&gt; Curfews instated by local governments – in response to both the pandemic and protests – have also "restricted access to the downtown [areas]" to essential workers, lowering [[Output (economics)|economic output]].&lt;ref name=":62" /&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=978174222
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=978174222&oldid=977910141
+
+
+PRE
+Title: COVID-19 recession
+ID: 978799439
+FULLTEXT: <td class="diff-addedline"><div>The GDP of New Zealand contracted 1.6 percent in the first quarter of 2020.&lt;ref&gt;{{Cite web|date=17 June 2020|title=Covid-19 took 1.6 per cent chunk out of GDP by end of March|url=https://www.stuff.co.nz/business/300037447/covid19-took-16-per-cent-chunk-out-of-gdp-by-end-of-march|access-date=18 June 2020|website=Stuff<ins class="diffchange diffchange-inline">}}&lt;/ref&gt; The country officially entered a recession in September after a GDP contraction of 12.2% in the second quarter of 2020 was reported by [[Statistics New Zealand]].&lt;ref&gt;{{cite news|url=https://www.stuff.co.nz/business/122796028/nz-in-recession-as-covid-shrinks-gdp-by-122|title=NZ in recession as Covid shrinks GDP by 12.2%|first=Tom|last=Pullar-Strecker|work=Stuff|publisher=[[Stuff Ltd]]|date=2020-09-17|accessdate=2020-09-17</ins>}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=978799439
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=978799439&oldid=978671215
+
+
+PRE
+Title: COVID-19 recession
+ID: 978939488
+FULLTEXT: <td class="diff-addedline"><div>== U.S Impact by occupation and demographic ==<ins class="diffchange diffchange-inline">h</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=978939488
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=978939488&oldid=978878712
+
+
+PRE
+Title: COVID-19 recession
+ID: 978939488
+FULLTEXT: <td class="diff-addedline"><div>Differences across occupations caused difference in the economic effects across groups. Certain jobs were less suitable for remote work, e.g. because they involve working with people closely or with particular materials.  Women tended to be affected more than men.&lt;ref&gt;[https://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2020/policy-brief-the-impact-of-covid-19-on-women-en.pdf?la=en&amp;vs=1406 The impact of COVID-19 on women: UN Secretary-General’s policy brief]. 9 April 2020.&lt;/ref&gt; The employment of immigrants in the U.S. declined more than for the native-born partly because the kinds of job immigrants held.&lt;ref&gt;George J. Borjas; Hugh Cassidy. 2020. [https://www.nber.org/papers/w27243.pdf The Adverse Effect of the COVID-19 Labor Market Shock on Immigrant Employment]. NBER Working paper 27243.&lt;/ref&gt;<ins class="diffchange diffchange-inline"> Inequity in economic impact on workers in similar professions occurred when employees laid-off completely were awarded both State unemployment benefits and up to $600/week in federal pandemic assistance - which together could equal or exceed pre-layoff income - while peers reduced to part-time employment struggled, ineligible for either unemployment insurance compensation or the accompanying pandemic payments. </ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=978939488
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=978939488&oldid=978878712
+
+
+PRE
+Title: COVID-19 recession
+ID: 984929593
+FULLTEXT: <td class="diff-addedline"><div>|-</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=984929593
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=984929593&oldid=984888002
+
+
+PRE
+Title: COVID-19 recession
+ID: 984929593
+FULLTEXT: <td class="diff-addedline"><div>|{{PHI}}</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=984929593
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=984929593&oldid=984888002
+
+
+PRE
+Title: COVID-19 recession
+ID: 984929593
+FULLTEXT: <td class="diff-addedline"><div>|21.45</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=984929593
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=984929593&oldid=984888002
+
+
+PRE
+Title: COVID-19 recession
+ID: 984929593
+FULLTEXT: <td class="diff-addedline"><div>|5.83</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=984929593
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=984929593&oldid=984888002
+
+
+PRE
+Title: COVID-19 recession
+ID: 984929593
+FULLTEXT: <td class="diff-addedline"><div>|</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=984929593
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=984929593&oldid=984888002
+
+
+PRE
+Title: COVID-19 recession
+ID: 984929593
+FULLTEXT: <td class="diff-addedline"><div>|</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=984929593
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=984929593&oldid=984888002
+
+
+PRE
+Title: COVID-19 recession
+ID: 984929593
+FULLTEXT: <td class="diff-addedline"><div>|&lt;ref&gt;{{cite news |last1=de Vera |first1=Ben |title=Bayanihan 2 raises COVID-19 response fund to $21.45B |url=https://business.inquirer.net/308270/bayanihan-2-raises-covid-19-response-fund-to-21-45b |accessdate=22 October 2020 |work=Philippine Daily Inquirer |date=26 September 2020 |language=en}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=985279212&oldid=984929593
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_recession&diff=984929593&oldid=984888002
+
+

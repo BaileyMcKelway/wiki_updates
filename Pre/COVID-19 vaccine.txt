@@ -1,0 +1,24 @@
+PRE
+Title: COVID-19 vaccine
+ID: 982231713
+FULLTEXT: <td class="diff-addedline"><div>In June, the [[Serum Institute of India]] (SII) – a major manufacturer of global vaccines – reached a licensing agreement with AstraZeneca to make {{nowrap |1 billion doses}} of vaccine for low-and-middle income countries;&lt;ref name="kyle" /&gt; <ins class="diffchange diffchange-inline">of</ins> <ins class="diffchange diffchange-inline">which</ins> <ins class="diffchange diffchange-inline">half</ins> <ins class="diffchange diffchange-inline">of</ins> the doses <ins class="diffchange diffchange-inline">would</ins> <ins class="diffchange diffchange-inline">go</ins> <ins class="diffchange diffchange-inline">to</ins> <ins class="diffchange diffchange-inline">India</ins>.&lt;ref <ins class="diffchange diffchange-inline">name</ins>=<ins class="diffchange diffchange-inline">unequal</ins>/&gt; Similar preferential homeland distribution may exist if a vaccine is manufactured in Australia.&lt;ref name="khamsi"&gt;{{Cite journal|last=Khamsi|first=Roxanne|date=2020-04-09|title=If a coronavirus vaccine arrives, can the world make enough?|url=https://www.nature.com/articles/d41586-020-01063-8|journal=Nature|volume=580|issue=7805|pages=578–80|doi=10.1038/d41586-020-01063-8|pmid=32273621|bibcode=2020Natur.580..578K|doi-access=free|access-date=10 June 2020|archive-url=https://web.archive.org/web/20200513023042/https://www.nature.com/articles/d41586-020-01063-8|archive-date=13 May 2020|url-status=live | name-list-format = vanc }}&lt;/ref&gt; <ins class="diffchange diffchange-inline">The</ins> Chinese government pledged in May that a successful Chinese vaccine would become a "global, public good," implying enough doses would be manufactured for both national and global distribution.&lt;ref&gt;{{Cite news|last=Gretler|first=Corinne|title=China pledges to make its coronavirus vaccine a 'public good'|work=The National Post|publisher=Bloomberg|url=https://nationalpost.com/news/world/china-pledges-to-make-its-coronavirus-vaccine-a-public-good|access-date=2020-06-09|date=2020-05-18 | name-list-format = vanc }}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_vaccine&diff=985444369&oldid=982231713
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_vaccine&diff=982231713&oldid=982186183
+
+
+PRE
+Title: COVID-19 vaccine
+ID: 983355029
+FULLTEXT: <td class="diff-addedline"><div>Temporarily paused on October 13 2020 due to an unexplained illness in a participant.&lt;ref&gt;{{Cite we|title=Johnson &amp; Johnson Temporarily Pauses All Dosing in Our Janssen COVID-19 Vaccine Candidate Clinical Trials|url=https://www.jnj.com/our-company/johnson-johnson-temporarily-pauses-all-dosing-in-our-janssen-covid-19-vaccine-candidate-clinical-trials}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_vaccine&diff=985444369&oldid=983355029
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_vaccine&diff=983355029&oldid=983352748
+
+
+PRE
+Title: COVID-19 vaccine
+ID: 985114201
+FULLTEXT: <td class="diff-addedline"><div>|{{ClinicalStudyInfo|align=left|phase=1|participants=131|description=[[Preprint]]. [[Immunoglobulin G|IgG]] and [[neutralizing antibody]] response with adjuvant after [[booster dose]]. '''Adverse effects''': short-duration, low grade, local pain, headache, fatigue, [[myalgia|myalgia]]&lt;ref&gt;{{cite journal |last1=Keech |first1=Cheryl |last2=Albert |first2=Gary |last3=Reed |first3=Patricia |last4=Neal |first4=Susan |last5=Plested |first5=Joyce |last6=Zhu |first6=Mingzhu |last7=Cloney-Clark |first7=Shane |last8=Zhou |first8=Haixia |last9=Patel |first9=Nita |last10=Frieman |first10=Matthew |last11=Haupt |first11=Robert |last12=Logue |first12=James |last13=McGrath |first13=Marisa |last14=Weston |first14=Stuart |last15=Piedra |first15=Pedro |last16=Cho |first16=Iksung |last17=Robertson |first17=Andreana |last18=Desai |first18=Chinar |last19=Callahan |first19=Kathleen |last20=Lewis |first20=Maggie |last21=Price-Abbott |first21=Patricia |last22=Formica |first22=Neil |last23=Shinde |first23=Vivek |last24=Fries |first24=Louis |last25=Linkliter |first25=Jason |last26=Griffin |first26=Paul |last27=Wilkinson |first27=Bethanie |last28=Smith |first28=Gale |last29=Glenn |first29=Gregory |s2cid=221004959 |display-authors=6 |date=6 August 2020 |title=First-in-Human Trial of a SARS CoV 2 Recombinant Spike Protein Nanoparticle Vaccine |url=https://www.medrxiv.org/content/10.1101/2020.08.05.20168435v1.full.pdf |journal=MedRxiv |type=[[Preprint]] |doi=10.1101/2020.08.05.20168435 |access-date=7 August 2020}}&lt;/ref&gt;|name-list-format=vanc}}</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_vaccine&diff=985444369&oldid=985114201
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_vaccine&diff=985114201&oldid=985113822
+
+
