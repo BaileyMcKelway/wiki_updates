@@ -6,6 +6,7 @@ import sys
 from bs4 import BeautifulSoup
 from datetime import datetime
 from fuzzy_matcher import process
+from datetime import datetime
 
 
 class WikiUpdate:
@@ -18,6 +19,7 @@ class WikiUpdate:
             'Access-Control-Max-Age': '3600',
             'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'
         }
+
         self.titles = ['National_responses_to_the_COVID-19_pandemic',
                        'COVID-19_vaccine',
                        'Workplace_hazard_controls_for_COVID-19',
@@ -73,7 +75,6 @@ class WikiUpdate:
 
                 i = allRevisionsLength - 1
                 startChecking = False
-                # print("Start", mostRecentTime)
                 while i >= 0:
                     currDate = allRevisions[i].find(
                         class_="mw-changeslist-date").get_text()
@@ -96,16 +97,15 @@ class WikiUpdate:
 
                 self.mostRecent[title] = allRevisions[0].find(
                     class_="mw-changeslist-date").get_text()
-                # print("End", self.mostRecent[title], allRevisions)
                 allRevisions = []
                 startChecking = False
 
             self.queue.append(revisionAll)
-            print(revisionAll)
+
             if len(self.queue) >= 5:
                 self.checkDeleted()
-            # print(self.queue)
-            # time.sleep(3600)
+
+            time.sleep(3600)
 
     def addQueue(self, curr):
         if self.checkSize(curr) == True:
@@ -142,54 +142,45 @@ class WikiUpdate:
 
                 addedLineCleaned = str(addedLine)
 
-                # clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
-                # addedLineCleaned = re.sub(clean, '', addedLineCleaned)
-                # addedLineCleaned = BeautifulSoup(
-                #     addedLineCleaned, 'html.parser')
-                # CHECK IF ADDED BLOCK OR HIGHLIGHTED TEXT
-
-                highlightedLines = addedLine.find_all(
-                    'ins', {"class": "diffchange-inline"})
-
-                # pre = str(addedLine)
-                # fileName = title + '.txt'
-                # f = open(fileName, "a")
-                # f.write("PRE")
-                # f.write('\n')
-                # f.write("Title: " + title)
-                # f.write('\n')
-                # f.write("ID: " + revisionId)
-                # f.write('\n')
-                # f.write('FULLTEXT: ' + pre)
-                # f.write('\n')
-                # f.write("Current Link: " + curHref)
-                # f.write('\n')
-                # f.write("Previous Link: " + prevHref)
-                # f.write('\n')
-                # f.write('\n')
-                # f.write('\n')
-                # f.close()
-
-                maxLength = 0
-                clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
-                for i in range(len(highlightedLines)):
-                    highlightedLine = str(highlightedLines[i])
-
-                    highlightedLineCleaned = re.sub(clean, '', highlightedLine)
-                    highlightedLineCleaned = re.sub(
-                        '^.*?&lt;/ref&gt;', '', highlightedLineCleaned)
-                    highlightedLineCleaned = re.sub(
-                        '&lt;ref&gt;.*$', '', highlightedLineCleaned)
-                    highlightedLineCleaned = BeautifulSoup(
-                        highlightedLineCleaned, 'html.parser')
-                    maxLength += len(highlightedLineCleaned.get_text())
-
                 clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
                 addedLineCleaned = re.sub(clean, '', addedLineCleaned)
                 addedLineCleaned = BeautifulSoup(
                     addedLineCleaned, 'html.parser')
+                # CHECK IF ADDED BLOCK OR HIGHLIGHTED TEXT
+
+                highlightedLines = addedLineCleaned.find_all(
+                    'ins', {"class": "diffchange-inline"})
+
+                pre = str(addedLine)
+                now = datetime.now()
+                dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+                fileName = title + "_Pre" + '.txt'
+                f = open(fileName, "a")
+                f.write("PRE")
+                f.write('\n')
+                f.write("Title: " + title)
+                f.write('\n')
+                f.write("Date: " + dt_string)
+                f.write('\n')
+                f.write("ID: " + revisionId)
+                f.write('\n')
+                f.write('FULLTEXT: ' + pre)
+                f.write('\n')
+                f.write("Current Link: " + curHref)
+                f.write('\n')
+                f.write("Previous Link: " + prevHref)
+                f.write('\n')
+                f.write('\n')
+                f.write('\n')
+                f.close()
+
+                maxLength = 0
                 if len(highlightedLines) == 0 and deletedLine == None:
                     maxLength += len(addedLineCleaned.get_text())
+                else:
+                    for i in range(len(highlightedLines)):
+                        highlightedLine = highlightedLines[i]
+                        maxLength += len(highlightedLine.get_text())
 
                 if maxLength <= 30:
                     continue
@@ -225,14 +216,17 @@ class WikiUpdate:
                     query = revision['fullText']
                     fuzzy = process.extract(
                         query, paragraphs, limit=3, scorer='ratio')
-                    print('FUZZY', fuzzy)
 
                     # fuzzyMatch > 50
                     if(fuzzy[0][1] > 50):
-                        fileName = title + '.txt'
+                        now = datetime.now()
+                        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+                        fileName = title + "_Post" + '.txt'
                         f = open(fileName, "a")
                         f.write("POST")
                         f.write("Title: " + title)
+                        f.write('\n')
+                        f.write("Date: " + dt_string)
                         f.write('\n')
                         f.write("ID: " + revision['revisionId'])
                         f.write('\n')
@@ -251,11 +245,13 @@ class WikiUpdate:
                         f.close()
 
     def checkSize(self, curr):
-        diffBytes = curr.find('span', class_='mw-diff-bytes', dir='ltr')
+        diffBytes = curr.find_all(
+            ['span', 'strong'], class_='mw-diff-bytes', dir='ltr')[0]
 
         if diffBytes:
             size = diffBytes.get_text()
-            return abs(int(size)) >= 300
+            size = re.sub('[+-,]', '', size)
+            return int(size) >= 300
         else:
             return
 

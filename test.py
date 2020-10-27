@@ -40,29 +40,23 @@ def addQueue(prevHref):
 
         addedLineCleaned = str(addedLine)
 
-        highlightedLines = addedLine.find_all(
-            'ins', {"class": "diffchange-inline"})
-
-        maxLength = 0
-        clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
-        for i in range(len(highlightedLines)):
-            highlightedLine = str(highlightedLines[i])
-
-            highlightedLineCleaned = re.sub(clean, '', highlightedLine)
-            highlightedLineCleaned = re.sub(
-                '^.*?&lt;/ref&gt;', '', highlightedLineCleaned)
-            highlightedLineCleaned = re.sub(
-                '&lt;ref&gt;.*$', '', highlightedLineCleaned)
-            highlightedLineCleaned = BeautifulSoup(
-                highlightedLineCleaned, 'html.parser')
-            maxLength += len(highlightedLineCleaned.get_text())
-
         clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
         addedLineCleaned = re.sub(clean, '', addedLineCleaned)
         addedLineCleaned = BeautifulSoup(
             addedLineCleaned, 'html.parser')
+
+        highlightedLines = addedLineCleaned.find_all(
+            'ins', {"class": "diffchange-inline"})
+
+        maxLength = 0
+
         if len(highlightedLines) == 0 and deletedLine == None:
             maxLength += len(addedLineCleaned.get_text())
+        else:
+            for i in range(len(highlightedLines)):
+                highlightedLine = highlightedLines[i]
+                maxLength += len(highlightedLine.get_text())
+
         print(maxLength)
         if maxLength <= 30:
             continue
@@ -126,9 +120,9 @@ def checkDeleted(fullText, url):
     print('FUZZY', fuzzy)
 
 
-print(addQueue('https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_India&diff=984656969&oldid=984567547'))
+# print(addQueue('https://en.wikipedia.org/w/index.php?title=National_responses_to_the_COVID-19_pandemic&diff=985417966&oldid=985052321'))
 
-# testFullText = 'Brazil reached four million infections and about 125,000 deaths in September.'
-# testUrl = 'https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Brazil'
+testFullText = 'At a Sunday mass at [[St. Peter\'s Square]] in Vatican City on 26 January, [[Pope Francis]] praised "the great commitment by the Chinese community that has already been put in place to combat the epidemic" and commenced a closing prayer for "the people who are sick because of the virus that has spread through China". Microsoft co-founder [[Bill Gates]] defended the nation\'s COVID-19 response amidst criticism from the Trump administration, saying "China did a lot of things right at the beginning" and that "they got to zero" with "an effective lockdown". '
+testUrl = 'https://en.wikipedia.org/wiki/National_responses_to_the_COVID-19_pandemic'
 
-# print(checkDeleted(testFullText, testUrl))
+print(checkDeleted(testFullText, testUrl))

@@ -1,8 +1,48 @@
 PRE
 Title: COVID-19 pandemic in the United Kingdom
+ID: 984227827
+FULLTEXT: <td class="diff-addedline"><div>Genetic sequencing has traced most COVID-19 cases in the United Kingdom to imported cases from Italy, France and Spain, rather than directly from China.<ins class="diffchange diffchange-inline">&lt;ref&gt;{{cite news |last=Devlin |first=Hannah |date=11 June 2020 |title=No 'patient zero' as Covid-19 came into UK at least 1,300 times |url=https://www.theguardian.com/world/2020/jun/11/british-clampdown-on-non-essential-travel-came-a-week-too-late |work=The Guardian |location= |access-date=2020-10-19 |quote=''The analysis, which has yet to be peer reviewed, also suggests that very few cases were introduced from China, where the pandemic started, with the vast majority coming from Spain, France and Italy.''}}&lt;/ref&gt;</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985581069&oldid=984227827
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=984227827&oldid=984222059
+
+
+PRE
+Title: COVID-19 pandemic in the United Kingdom
+ID: 984308682
+FULLTEXT: <td class="diff-addedline"><div>On 12 October, a Three-Tier lockdown system was introduced to help curb the spread of coronavirus in local and regional lockdowns, coming into effect on 14 October. [[Liverpool]] became the first region under a Tier 3, which ordered the closure of pubs. Households were also banned from mixing with each other in parts of the North-East of England and Manchester.<ins class="diffchange diffchange-inline">&lt;ref&gt;{{cite_web|url=https://apnews.com/article/virus-outbreak-international-news-business-travel-ap-top-news-425e1ac3a07642cd2edf3cea31611439|title=UK unveils 3-level lockdown plan; Liverpool at highest risk|accessdate=12 October 2020|website=Associated Press}}&lt;/ref&gt; &lt;ref&gt;{{cite_web|url=https://www.independent.co.uk/news/uk/politics/coronavirus-merseyside-liverpool-lockdown-three-tier-boris-johnson-b991726.html|title=Coronavirus: Liverpool and rest of Merseyside to enter 'very high' tier of lockdown system|accessdate=12 October 2020|website=The Independent}}&lt;/ref&gt;</ins> The [[NHS Nightingale Hospital Yorkshire and the Humber|Harrogate]], [[NHS Nightingale Hospital North West|Manchester]] and [[NHS Nightingale Hospital North East|Sunderland]] Nightingale Hospitals were also told to reopen as hospital admissions had risen above the peak in March.&lt;ref&gt;[https://www.bbc.co.uk/news/health-54506494 Covid: Nightingale hospitals in northern England told to get ready] 12 October 2020, ''www.bbc.co.uk'', accessed  14 October 2020&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985581069&oldid=984308682
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=984308682&oldid=984227827
+
+
+PRE
+Title: COVID-19 pandemic in the United Kingdom
+ID: 984308682
+FULLTEXT: <td class="diff-addedline"><div>On 14 October, the Northern Irish government announced that from 16 October, Pubs, Restaurants and school closures as well as a ban on mixing in households would come into force, essentially putting Northern Ireland in lockdown. Pubs and Restaurants would be closed for 4 weeks whereas schools would only be shut for 2 weeks.<ins class="diffchange diffchange-inline">&lt;ref&gt;{{cite_web|url=https://www.bbc.com/news/uk-northern-ireland-54533643|title=Schools to close and tight new hospitality rules in Northern Ireland|accessdate=14 October 2020|website=BBC}}&lt;/ref&gt;</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985581069&oldid=984308682
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=984308682&oldid=984227827
+
+
+PRE
+Title: COVID-19 pandemic in the United Kingdom
+ID: 984308682
+FULLTEXT: <td class="diff-addedline"><div>On 15 October, the government announced that [[London]] would move to Tier 2 lockdown following a spike in cases<ins class="diffchange diffchange-inline">&lt;ref&gt;{{cite_web|url=https://www.telegraph.co.uk/news/2020/10/19/london-lockdown-tier-2-covid-rules/|title=London in Tier 2 lockdown: what are the new restrictions?|accessdate=19 October 2020|website=The Telegraph}}&lt;/ref&gt;</ins>, banning people from mixing indoors privately, while [[Greater Manchester]] would move to Tier 3, two months after a Major Incident was declared. However, the Tier 3 restrictions on Greater Manchester were delayed hours later as Johnson was in a dispute with the mayor of Manchester, [[Andy Burnham]] who didn't want the lockdown to happen.<ins class="diffchange diffchange-inline">&lt;ref&gt;{{cite_web|url=https://www.bbc.com/news/uk-54594885|title=Covid: Greater Manchester restrictions delay 'puts lives at risk'|accessdate=19 October 2020|website=BCC}}&lt;/ref&gt; &lt;ref&gt;{{cite_web|url=https://www.theguardian.com/uk-news/2020/oct/17/greater-manchester-lockdown-delay-hospitals-tier-3|title=Greater Manchester leaders and No 10 at odds over tier 3 lockdown plans|accessdate=17 October 2020|website=The Guardian}}&lt;/ref&gt;</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985581069&oldid=984308682
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=984308682&oldid=984227827
+
+
+PRE
+Title: COVID-19 pandemic in the United Kingdom
+ID: 984309972
+FULLTEXT: <td class="diff-addedline"><div>On 19 October 2020, Labour MP [[Yasmin Qureshi]] was admitted to the [[Royal Bolton Hospital]] and was being treated for [[pneumonia]], after testing positive for [[COVID-19 pandemic|COVID-19]]. She had been feeling unwell for nearly two weeks, and was also self-isolating before being admitted to the hospital.&lt;ref&gt;{{cite_web|url=https://www.bbc.com/news/uk-england-manchester-54598378|title=Covid: Bolton MP Yasmin Qureshi in hospital after positive test|accessdate=19 October 2020|website=BBC}}&lt;/ref&gt; &lt;ref&gt;{{cite_web|url=https://www.theguardian.com/politics/2020/oct/19/labour-mp-yasmin-qureshi-treated-for-pneumonia-after-positive-covid-test|title=Yasmin Qureshi MP in hospital with pneumonia after positive Covid test|accessdate=19 October 2020|website=The Guardian}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985581069&oldid=984309972
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=984309972&oldid=984308682
+
+
+PRE
+Title: COVID-19 pandemic in the United Kingdom
 ID: 984531024
 FULLTEXT: <td class="diff-addedline"><div>All four national health services worked to raise hospital capacity and set up [[NHS COVID-19 critical care hospitals|temporary critical care hospitals]], including the [[NHS Nightingale Hospitals]]. By mid-April it was reported that social distancing had "[[Flatten the curve|flattened the curve]]" of the epidemic.&lt;ref&gt;[https://www.reuters.com/article/us-health-coronavirus-britain-curve/uks-social-distancing-has-flattened-covid-19-curve-science-official-idUSKCN21X2MT "UK's social distancing has flattened COVID-19 curve: science official"]. Reuters, 15 April 2020.&lt;/ref&gt; In late April, Prime Minister [[Boris Johnson]] said that the UK had passed the peak of its outbreak.&lt;ref name=bbc52493500/&gt; Daily cases and deaths slowly declined in May and June<ins class="diffchange diffchange-inline">, and continued at a relatively low level in Juyl and August</ins>. The total number of [[excess death]]s in the UK from the start of the outbreak to mid-June was just over 65,000.&lt;ref name=bbc2020-06-30 /&gt;</div></td>
-Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985399582&oldid=984531024
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985581069&oldid=984531024
 Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=984531024&oldid=984501027
 
 
@@ -10,7 +50,7 @@ PRE
 Title: COVID-19 pandemic in the United Kingdom
 ID: 984531024
 FULLTEXT: <td class="diff-addedline"><div>Cases rose significantly from late August onwards, although this was partly a reflection of higher testing rates than before. The government responded with a [[COVID-19 tier regulations in England|"tiered" lockdown in England]], and the Scottish and Welsh governments introduced similar restrictions.</div></td>
-Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985399582&oldid=984531024
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=985581069&oldid=984531024
 Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_the_United_Kingdom&diff=984531024&oldid=984501027
 
 

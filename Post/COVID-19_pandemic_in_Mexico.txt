@@ -1,4 +1,14 @@
 POSTTitle: COVID-19_pandemic_in_Mexico
+ID: 980090081
+It was announced on September 24 that the government has spent MXN $59.2 billion on the coronavirus, $35 billion of which was by the federal government and the rest by the states. The greatest expenses were in March as the government bought equipment and supplies and began hiring more personnel.
+<td class="diff-addedline"><div>It was announced on September 24 that the government has spent MXN $59.2 billion on the coronavirus, $35 billion of which was by the federal government and the rest by the states. The greatest expenses were in March as the government bought equipment and supplies and began hiring more personnel.&lt;ref&gt;{{cite news |title=Pandemia cuesta 60 mil mdp a México; compra de insumos y contrataciones |url=https://www.msn.com/es-mx/noticias/mexico/pandemia-cuesta-60-mil-mdp-a-m%c3%a9xico-compra-de-insumos-y-contrataciones/ar-BB19nnbO?ocid=msedgdhp |accessdate=Sep 24, 2020 |work=www.msn.com |publisher=Excelsior |date=September 24, 2020}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Mexico&diff=985452266&oldid=980090081
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Mexico&diff=980090081&oldid=980000659
+Fuzzy: It was announced on September 24 that the government has spent MXN $59.2 billion on the coronavirus, $35 billion of which was by the federal government and the rest by the states. The greatest expenses were in March as the government bought equipment and supplies and began hiring more personnel.[110]
+
+
+
+POSTTitle: COVID-19_pandemic_in_Mexico
 ID: 985259183
 [[Joel Molina Ramírez]], a [[Senate of the Republic (Mexico)|senator]] from Tlaxcala, died on October 24.
 <td class="diff-addedline"><div>[[Joel Molina Ramírez]], a [[Senate of the Republic (Mexico)|senator]] from Tlaxcala, died on October 24.&lt;ref name="molinadeath"&gt;{{Cite news |first1=Andrea|last1= Flores Becerril|first2= José Carlos|last2= Avendaño |date=October 24, 2020 |title=Fallece senador de Morena Joel Molina Ramírez por Covid-19|language=es |url=https://www.jornada.com.mx/ultimas/politica/2020/10/24/fallece-senador-de-morena-joel-molina-ramirez-por-covid-19-984.html |access-date=October 24, 2020}}&lt;/ref&gt;</div></td>

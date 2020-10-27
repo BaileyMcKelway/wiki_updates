@@ -1,5 +1,29 @@
 PRE
 Title: COVID-19 pandemic in Brazil
+ID: 966906185
+FULLTEXT: <td class="diff-addedline"><div>* '''9 June:''' A court order forces the Brazilian government to continue publishing cumulative case and death counts.&lt;ref&gt;{{Cite web|last=|first=|date=9 June 2020|title=Coronavirus: Brazil resumes publishing Covid-19 data after court ruling|url=https://www.bbc.com/news/world-latin-america-52980642|url-status=live|archive-url=|archive-date=|access-date=9 July 2020|website=[[BBC News]]}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|last=Phillips|first=Tom|last2=Briso|first2=Caio Barretto|date=9 June 2020|title=Judge orders Bolsonaro to resume publishing Brazil Covid-19 data|language=en-GB|work=[[The Guardian]]|url=https://www.theguardian.com/world/2020/jun/09/judge-orders-bolsonaro-to-resume-publishing-brazil-covid-19-data|url-status=live|access-date=9 July 2020|issn=0261-3077}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=966906185
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=966906185&oldid=966751518
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 966953784
+FULLTEXT: <td class="diff-addedline"><div>* '''29 June:''' A study reports that two raw [[sewage]] samples collected independently on 27th November 2019 in [[Santa Catarina, Brazil]], detected SARS-CoV-2 (100,000 copies per litre), 66 days in advance of the first COVID19 confirmed case in the Americas. Subsequent samplings were positive on December 11th and February 20th. These samples can show that SARS-CoV-2 has been circulating in Brazil since late November 2019.&lt;ref&gt;{{Cite journal|url=https://www.medrxiv.org/content/10.1101/2020.06.26.20140731v1|title=SARS-CoV-2 in human sewage in Santa Catalina, Brazil, November 2019|first1=Gislaine|last1=Fongaro|first2=Patricia Hermes|last2=Stoco|first3=Doris Sobral Marques|last3=Souza|first4=Edmundo Carlos|last4=Grisard|first5=Maria Elisa|last5=Magri|first6=Paula|last6=Rogovski|first7=Marcos Andre|last7=Schorner|first8=Fernando Hartmann|last8=Barazzetti|first9=Ana Paula|last9=Christoff|first10=Luiz Felipe Valter de|last10=Oliveira|first11=Maria Luiza|last11=Bazzo|first12=Glauber|last12=Wagner|first13=Marta|last13=Hernandez|first14=David|last14=Rodriguez-Lazaro|date=29 June 2020|journal=medRxiv|pages=2020.06.26.20140731|via=www.medrxiv.org|doi=10.1101/2020.06.26.20140731}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=966953784
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=966953784&oldid=966906185
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 973304674
+FULLTEXT: <td class="diff-addedline"><div>On 15 August 2020, three joint-ventures began testing a new Covid-19 vaccine in Brazil. The origin of the research and development became a hugely debated issue, further complicated by conspiracy theories spread by anti-vax groups and renowned political allies of Jair Bolsonaro, Brazilian President along with xenophobia.&lt;ref&gt;{{cite_web|url=https://edition.cnn.com/2020/08/14/americas/brazil-politics-coronavirus-vaccines-fight-intl/index.html|title=Politics and xenophobia cloud the race for a vaccine in Brazil|accessdate=15 August 2020|website=CNN}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=973304674
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=973304674&oldid=973202765
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
 ID: 975401765
 FULLTEXT: <td class="diff-addedline"><div>The pandemic has triggered a variety of responses from federal, state and local governments, having an impact on politics, education, the environment,&lt;ref name="AmazonABC"&gt;{{cite news |title=Deforestation of Amazon rainforest accelerates amid COVID-19 pandemic |url=https://abcnews.go.com/International/deforestation-amazon-rainforest-accelerates-amid-covid-19-pandemic/story?id=70526188 |work=ABC News |date=6 May 2020}}&lt;/ref&gt; and the economy. On 27 March Brazil announced a temporary ban on foreign air travelers&lt;ref&gt;{{cite web |author1=Pedro Fonseca |author2=Jamie McGeever |title=Coronavirus: Brazil bans foreign air travelers |url=https://www.mercurynews.com/2020/03/27/coronavirus-brazil-bans-foreign-air-travelers/ |website=The Mercury News |accessdate=13 April 2020 |date=28 March 2020}}&lt;/ref&gt; and most state governors have imposed quarantines to prevent the spread of the virus.&lt;ref&gt;{{cite web|title=Brazil reports more than 1,000 coronavirus deaths|url=https://www.bbc.com/news/world-latin-america-52251342|website=<ins class="diffchange diffchange-inline">[[</ins>BBC News<ins class="diffchange diffchange-inline">]]</ins>|accessdate=13 April 2020|date=11 April 2020}}&lt;/ref&gt;</div></td>
 Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=975401765
@@ -300,6 +324,142 @@ ID: 977192833
 FULLTEXT: <td class="diff-addedline"><div>Brazil reached four million infections and about 125,000 deaths in September.&lt;ref&gt;{{cite news |title=Brazil Hits 4 Million Covid Cases While Life Gets Back to Normal|url=https://www.bloomberg.com/news/articles/2020-09-03/brazil-hits-4-million-covid-cases-while-life-gets-back-to-normal|work=Bloomberg|date= September 3, 2020}}&lt;/ref&gt;</div></td>
 Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=977192833
 Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=977192833&oldid=977180664
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 977661518
+FULLTEXT: <td class="diff-addedline"><div>*'''25 July:''' President Bolsonaro tests negative for COVID-19.&lt;ref&gt;{{cite news|last=Carvalho|first=Daniel|title=Brazil’s Bolsonaro says he tested negative for coronavirus|url=https://apnews.com/47f81f37904d4d3f8fe8e0a1f97ec8b5 |accessdate=10 September 2020|agency=[[Associated Press]]|date=26 July 2020|location=[[Brasilia]], Brazil}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=977661518
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=977661518&oldid=977490079
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 977661518
+FULLTEXT: <td class="diff-addedline"><div>*'''3 August:''' General Braga Netto, the chief of staff to President Bolsonaro, tests positive for COVID-19.&lt;ref&gt;{{cite news|last=Marcello|first=Maria Carolina|title=Chief of staff to Brazil's Bolsonaro tests positive for COVID-19|url=https://www.reuters.com/article/health-coronavirus-brazil/chief-of-staff-to-brazils-bolsonaro-tests-positive-for-covid-19-idUSL1N2F5136|accessdate=10 September 2020|agency=[[Reuters]]|date=3 August 2020|location=[[Brasilia]]}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=977661518
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=977661518&oldid=977490079
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 977661518
+FULLTEXT: <td class="diff-addedline"><div>*'''8 August:''' Brazil reaches three million infections and 100,000 deaths.&lt;ref&gt;{{cite news|last1=Leite|first1=Julia|last2=Fagundes|first2=Murilo|title=https://www.bloomberg.com/news/articles/2020-08-08/brazil-marks-grim-covid-milestone-with-3-million-confirmed-cases|url=https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html|accessdate=10 September 2020|work=[[Bloomberg News|Bloomberg]]|publisher=[[Bloomberg L.P.]]|date=9 August 2020}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=977661518
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=977661518&oldid=977490079
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 977661518
+FULLTEXT: <td class="diff-addedline"><div>*'''25 August:''' Senator [[Flávio Bolsonaro]], the eldest son of President Bolsonaro, tests positive for COVID-19.&lt;ref&gt;{{cite news|author1=Boadle, Anthony|author2=Mandl, Carolina|title=Eldest son of Brazil's president tests positive for COVID-19|url=https://www.reuters.com/article/us-health-coronavirus-brazil-flaviobolso/eldest-son-of-brazils-president-tests-positive-for-covid-19-idUSKBN25L277|accessdate=10 September 2020|agency=[[Reuters]]|date=26 August 2020|location=[[Brasilia]]}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=977661518
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=977661518&oldid=977490079
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 977661518
+FULLTEXT: <td class="diff-addedline"><div><ins class="diffchange diffchange-inline">*'''3 September:''' </ins>Brazil <ins class="diffchange diffchange-inline">reaches</ins> four million infections and about 125,000 deaths.&lt;ref&gt;{{cite news |title=Brazil Hits 4 Million Covid Cases While Life Gets Back to Normal|url=https://www.bloomberg.com/news/articles/2020-09-03/brazil-hits-4-million-covid-cases-while-life-gets-back-to-normal|work=<ins class="diffchange diffchange-inline">[[</ins>Bloomberg<ins class="diffchange diffchange-inline"> News|Bloomberg]]</ins>|date=September 3, 2020}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=977661518
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=977661518&oldid=977490079
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 977661518
+FULLTEXT: <td class="diff-addedline"><div>On 23 March, a report from [[Fundação Getulio Vargas|FGV]] economist Emerson Marçal predicted a negative 2020 GDP of up to 4.4% due to the effect of the coronavirus.&lt;ref&gt;{{cite web|url=https://noticias.r7.com/economia/pesquisa-preve-pib-negativo-de-ate-44-com-efeito-do-coronavirus-23032020|title=Pesquisa prevê PIB negativo de até 4,4% com efeito do coronavírus<ins class="diffchange diffchange-inline">|work=[[Grupo</ins> <ins class="diffchange diffchange-inline">Record|R7]]|publisher=Rádio e Televisão Record S.A</ins>|date=23 March 2020|<ins class="diffchange diffchange-inline">accessdate</ins>=24 March 2020|archive-url=https://web.archive.org/web/20200324095828/https://noticias.r7.com/economia/pesquisa-preve-pib-negativo-de-ate-44-com-efeito-do-coronavirus-23032020|archive-date=24 March 2020|url-status=live}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=977661518
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=977661518&oldid=977490079
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 977661518
+FULLTEXT: <td class="diff-addedline"><div>Eleven COVID-19 patients died after receiving high doses of the anti-malarial drug [[chloroquine]] in a study in Brazil. This was reported in mid-April. The study was halted.&lt;ref&gt;{{cite news|date=12 April 2020|title=Small Chloroquine Study Halted Over Risk of Fatal Heart Complications|language=en|<ins class="diffchange diffchange-inline">work</ins>=<ins class="diffchange diffchange-inline">[[</ins>The New York Times<ins class="diffchange diffchange-inline">]]|publisher=[[The New York Times Company]]</ins>|url=https://www.nytimes.com/2020/04/12/health/chloroquine-coronavirus-trump.html}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=977661518
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=977661518&oldid=977490079
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 977661518
+FULLTEXT: <td class="diff-addedline"><div>On 15 August 2020, three joint-ventures began testing a new COVID-19 vaccine in Brazil. The origin of the research and development became a hugely debated issue, further complicated by conspiracy theories spread by anti-vax groups and renowned political allies of Jair Bolsonaro, Brazilian President along with xenophobia.&lt;ref&gt;{{<ins class="diffchange diffchange-inline">cite news</ins>|url=https://edition.cnn.com/2020/08/14/americas/brazil-politics-coronavirus-vaccines-fight-intl/index.html|title=Politics and xenophobia cloud the race for a vaccine in Brazil|accessdate=15 August 2020|<ins class="diffchange diffchange-inline">work</ins>=<ins class="diffchange diffchange-inline">[[</ins>CNN<ins class="diffchange diffchange-inline">]]</ins>}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=977661518
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=977661518&oldid=977490079
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 979406547
+FULLTEXT: <td class="diff-addedline"><div>*'''9 September:''' A two month old child dies of COVID-19 in [[São Bernardo do Campo]], possible the youngest death in the [[ABC Region]].&lt;ref&gt;{{Cite web|url=https://saobernardodocampo.info/50554/bebe-meses-coronavirus/|title=Bebê de apenas 2 meses morre por coronavírus em São Bernardo|trans-title=Baby of only two months old dies from coronavirus in São Bernardo|language=pt-BR|date=2020-09-11|archiveurl=https://web.archive.org/web/20200914143811/https://saobernardodocampo.info/50554/bebe-meses-coronavirus/|archivedate=2020-09-14|url-status=live}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=979406547
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=979406547&oldid=978626178
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 982213796
+FULLTEXT: <td class="diff-addedline"><div>*'''1 June:''' Brazil confirmed more than 30.000 deaths.&lt;ref&gt;{{cite<ins class="diffchange diffchange-inline"> web</ins>|url=https://uk.news.yahoo.com/virus-deaths-reach-375-000-latin-america-struggles-064615464.html|title=Brazil toll tops 30,000 as Italy reopens borders|work=Yahoo News |location=UK|access-date=5 June 2020}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=982213796
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=982213796&oldid=981576999
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 982213796
+FULLTEXT: <td class="diff-addedline"><div>*'''9 June:''' A court order forces the Brazilian government to continue publishing cumulative case and death counts.&lt;ref&gt;{{Cite web|last=|first=|date=9 June 2020|title=Coronavirus: Brazil resumes publishing Covid-19 data after court ruling|url=https://www.bbc.com/news/world-latin-america-52980642|url-status=live|archive-url=|archive-date=|access-date=9 July 2020|website=[[BBC News]]}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|<ins class="diffchange diffchange-inline">last1</ins>=Phillips|<ins class="diffchange diffchange-inline">first1</ins>=Tom|last2=Briso|first2=Caio Barretto|date=9 June 2020|title=Judge orders Bolsonaro to resume publishing Brazil Covid-19 data|language=en-GB|work=[[The Guardian]]|url=https://www.theguardian.com/world/2020/jun/09/judge-orders-bolsonaro-to-resume-publishing-brazil-covid-19-data|url-status=live|access-date=9 July 2020|issn=0261-3077}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=982213796
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=982213796&oldid=981576999
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 982213796
+FULLTEXT: <td class="diff-addedline"><div>*'''29 June:''' A study reports that two raw [[sewage]] samples collected independently on 27 November 2019 in [[Santa Catarina (state)|Santa Catarina, Brazil]], detected SARS-CoV-2 (100,000 copies per litre), 66 days in advance of the first COVID-19 confirmed case in the Americas. Subsequent samplings were positive on 11 December and 20 February. These samples can show that SARS-CoV-2 has been circulating in Brazil since late November 2019.&lt;ref&gt;{{Cite journal|url=https://www.medrxiv.org/content/10.1101/2020.06.26.20140731v1|title=SARS-CoV-2 in human sewage in Santa Catalina, Brazil, November 2019|first1=Gislaine|last1=Fongaro|first2=Patricia Hermes|last2=Stoco|first3=Doris Sobral Marques|last3=Souza|first4=Edmundo Carlos|last4=Grisard|first5=Maria Elisa|last5=Magri|first6=Paula|last6=Rogovski|first7=Marcos Andre|last7=Schorner|first8=Fernando Hartmann|last8=Barazzetti|first9=Ana Paula|last9=Christoff|first10=Luiz Felipe Valter de|last10=Oliveira|first11=Maria Luiza|last11=Bazzo|first12=Glauber|last12=Wagner|first13=Marta|last13=Hernandez|first14=David|last14=Rodriguez-Lazaro|date=29 June 2020|journal=<ins class="diffchange diffchange-inline">MedRxiv</ins>|pages=2020.06.26.20140731|via=www.medrxiv.org|doi=10.1101/2020.06.26.20140731<ins class="diffchange diffchange-inline">|s2cid=220244703</ins>}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=982213796
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=982213796&oldid=981576999
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 982213796
+FULLTEXT: <td class="diff-addedline"><div>*'''6 July:''' President Bolsonaro has a fever and was tested for coronavirus.&lt;ref&gt;{{Cite web|<ins class="diffchange diffchange-inline">last1</ins>=Fonseca|<ins class="diffchange diffchange-inline">first1</ins>=Pedro|last2=Slattery|first2=Gram|date=6 July 2020|title=Brazil's Jair Bolsonaro Tested Again For Coronavirus|url=https://www.huffpost.com/entry/jair-bolsonaro-tested-coronavirus_n_5f03bd7dc5b61c37e054bf89|url-status=live|archive-url=|archive-date=|access-date=6 July 2020|website=HuffPost|language=en}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=982213796
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=982213796&oldid=981576999
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 982213796
+FULLTEXT: <td class="diff-addedline"><div>*'''25 July:''' President Bolsonaro tests negative for COVID-19.&lt;ref&gt;{{cite news|last=Carvalho|first=Daniel|title=<ins class="diffchange diffchange-inline">Brazil's</ins> Bolsonaro says he tested negative for coronavirus|url=https://apnews.com/47f81f37904d4d3f8fe8e0a1f97ec8b5 |accessdate=10 September 2020|agency=[[Associated Press]]|date=26 July 2020|location=[[Brasilia]], Brazil}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=982213796
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=982213796&oldid=981576999
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 982213796
+FULLTEXT: <td class="diff-addedline"><div>On 19 March, President Bolsonaro's son [[Eduardo Bolsonaro|Eduardo]] shared a Twitter post that which blamed the [[Communist Party of China]] for the worldwide spread of COVID-19. As China is Brazil's largest trading partner, the post provoked criticism from Chinese diplomats such as Yang Wanming — who argued that Bolsonaro family was "the great poison of this country."&lt;ref&gt;{{Cite news|last=Phillips|first=Tom|date=19 March 2020|title=<ins class="diffchange diffchange-inline">Bolsonaro's</ins> son enrages Beijing by blaming China for coronavirus crisis|language=en-GB|work=The Guardian|url=https://www.theguardian.com/world/2020/mar/19/coronavirus-bolsonaro-son-china-row|access-date=7 July 2020|issn=0261-3077}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=982213796
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=982213796&oldid=981576999
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 982213796
+FULLTEXT: <td class="diff-addedline"><div>In a press briefing on 27 March, Bolsonaro continued to downplay the possibility that COVID-19 could spread rapidly nationwide, arguing that Brazilians "never catch anything", and that there was a possibility that portions of the population were already immune.&lt;ref name=":3" /&gt; In late-March, [[Facebook, Inc.]] and [[Twitter]] pulled social media posts by Bolsonaro that promoted [[hydroxychloroquine]] as an effective treatment for COVID-19, with the companies considering them [[Misinformation related to the COVID-19 pandemic|misinformation]] that could cause physical harm, and a contradiction of authoritative health information respectively. Twitter also pulled a similar post by Bolsonaro that called for the reopening of the economy.&lt;ref&gt;{{Cite web|last=Fried|first=Ina|title=Twitter cracks down on coronavirus misinformation from Giuliani and Bolsonaro|url=https://www.axios.com/twitter-coronavirus-misinformation-giuliani-bolsonaro-91b82076-41eb-40e1-8cae-df8cbbdc175a.html|access-date=7 July 2020|website=Axios|language=en}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|date=31 March 2020|title=World leaders' posts deleted over false virus info|language=en-GB|work=BBC News|url=https://www.bbc.com/news/technology-52106321|access-date=7 July 2020}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=Facebook deletes Brazil <ins class="diffchange diffchange-inline">president's</ins> coronavirus misinfo post|url=https://social.techcrunch.com/2020/03/30/facebook-removes-bolsonaro-video/|access-date=7 July 2020|website=TechCrunch|language=en-US}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|last=Lyons|first=Kim|date=30 March 2020|title=Twitter removes tweets by Brazil, Venezuela presidents for violating COVID-19 content rules|url=https://www.theverge.com/2020/3/30/21199845/twitter-tweets-brazil-venezuela-presidents-covid-19-coronavirus-jair-bolsonaro-maduro|access-date=7 July 2020|website=The Verge|language=en}}&lt;/ref&gt;</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=982213796
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=982213796&oldid=981576999
+
+
+PRE
+Title: COVID-19 pandemic in Brazil
+ID: 982213796
+FULLTEXT: <td class="diff-addedline"><div>[[File:Entradasescgrussai.jpg|right|thumb|300px|A [[Branch office|branch]] of [[Serviço Social do Comércio|SESC Hotels]] in [[São João da Barra]] had to close down due to the [[Impact of the COVID-19 pandemic on tourism|financial crisis]] caused by the pandemic.&lt;ref&gt;{{Cite web|url=https://g1.globo.com/rj/norte-fluminense/noticia/2020/05/06/sesc-mineiro-grussai-no-norte-fluminense-rj-encerra-atividades-depois-de-quase-40-anos.ghtml|title=Sesc Mineiro Grussaí, no Norte Fluminense, RJ, encerra atividades depois de quase 40 anos &amp;#124; G1|date=9 May 2020|<ins class="diffchange diffchange-inline">archive-url</ins>=<ins class="diffchange diffchange-inline">https://</ins>web.archive.org<ins class="diffchange diffchange-inline">/web/20200509220638/https://g1.globo.com/rj/norte-fluminense/noticia/2020/05/06/sesc-mineiro-grussai-no-norte-fluminense-rj-encerra-atividades-depois-de-quase-40-anos.ghtml</ins>|accessdate=22 June<ins class="diffchange diffchange-inline"> 2020|archive-date=9 May</ins> 2020}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://folhadeitalva.com.br/2020/05/06/pandemia-sesc-de-grussai-fecha-as-portas-e-demite-700-funcionarios/|title=Pandemia: Sesc de Grussaí fecha as portas e demite 700 funcionários &amp;#124; Folha de Italva|date=9 May 2020|<ins class="diffchange diffchange-inline">archive-url</ins>=<ins class="diffchange diffchange-inline">https://</ins>web.archive.org<ins class="diffchange diffchange-inline">/web/20200509225304/https://folhadeitalva.com.br/2020/05/06/pandemia-sesc-de-grussai-fecha-as-portas-e-demite-700-funcionarios/</ins>|accessdate=22 June<ins class="diffchange diffchange-inline"> 2020|archive-date=9 May</ins> 2020}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.ururau.com.br/noticias/cidades/sesc-minas-emite-nota-sobre-fechamento-do-sesc-mineiro-de-grussai/32559/|title=Sesc Minas emite nota sobre fechamento do Sesc Mineiro de Grussaí – Portal Ururau – Site de Notícias – Campos dos Goytacazes|date=9 May 2020|<ins class="diffchange diffchange-inline">archive-url</ins>=<ins class="diffchange diffchange-inline">https://</ins>web.archive.org<ins class="diffchange diffchange-inline">/web/20200509220642/https://www.ururau.com.br/noticias/cidades/sesc-minas-emite-nota-sobre-fechamento-do-sesc-mineiro-de-grussai/32559/</ins>|accessdate=22 June<ins class="diffchange diffchange-inline"> 2020|archive-date=9 May</ins> 2020}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://plantaodoslagos.com.br/categoria/cidades/crise-sesc-mineiro-de-grussai-fecha-as-portas-e-demite-cerca-de-700-funcionarios/|title=CRISE: Sesc Mineiro de Grussaí fecha as portas e demite cerca de 700 funcionários – Plantão dos Lagos|date=9 May 2020|<ins class="diffchange diffchange-inline">archive-url</ins>=<ins class="diffchange diffchange-inline">https://</ins>web.archive.org<ins class="diffchange diffchange-inline">/web/20200509220645/https://plantaodoslagos.com.br/categoria/cidades/crise-sesc-mineiro-de-grussai-fecha-as-portas-e-demite-cerca-de-700-funcionarios/</ins>|accessdate=22 June<ins class="diffchange diffchange-inline"> 2020|archive-date=9 May</ins> 2020}}&lt;/ref&gt;]]</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=984710140&oldid=982213796
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Brazil&diff=982213796&oldid=981576999
 
 
 PRE
