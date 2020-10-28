@@ -1,9 +1,0 @@
-PRE
-Title: COVID-19 pandemic in South Africa
-Date: 27/10/2020 00:08:04
-ID: 984210591
-FULLTEXT: <td class="diff-addedline"><div>On 18 October, Minister of Health Zweli Mkhize announced that he had tested positive.&lt;ref&gt;{{Cite web|last=Mkhize|first=Zweli|date=18 October 2020|title=Tweet|url=https://twitter.com/drzwelimkhize/status/1317912421256908801|url-status=live|archive-url=|archive-date=|access-date=2020-10-18|website=Twitter|language=en}}&lt;/ref&gt;</div></td>
-Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_South_Africa&diff=985577820&oldid=984210591
-Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_South_Africa&diff=984210591&oldid=984117664
-
-

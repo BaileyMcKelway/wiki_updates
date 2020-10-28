@@ -3,6 +3,8 @@ import requests
 import imgkit
 import time
 import sys
+import Levenshtein as lev
+from fuzzywuzzy import fuzz
 from bs4 import BeautifulSoup
 from datetime import datetime
 from fuzzy_matcher import process
@@ -75,7 +77,7 @@ def addQueue(prevHref):
     return res
 
 
-def checkDeleted(fullText, url, paragraph):
+def checkDeleted(fullText, url):
     titles = ['National_responses_to_the_COVID-19_pandemic',
               'COVID-19_vaccine',
               'Workplace_hazard_controls_for_COVID-19',
@@ -110,20 +112,39 @@ def checkDeleted(fullText, url, paragraph):
     article = requests.get(mainUrl, headers)
     urlsoup = BeautifulSoup(article.content, 'lxml')
 
-    paragraphs = [paragraph]
-    # for i in range(len(paragraphs)):
-    #     paragraphs[i] = paragraphs[i].text
+    paragraphs = urlsoup.find_all('p')
+    for i in range(len(paragraphs)):
+        paragraphs[i] = paragraphs[i].text
 
-    query = fullText
-    fuzzy = process.extract(
-        query, paragraphs, limit=3, scorer='ratio')
-    print('FUZZY', fuzzy)
+    res = []
+    for paragraph in paragraphs:
+        Ratio = fuzz.ratio(fullText.lower(), paragraph.lower())
+        Partial_Ratio = fuzz.partial_ratio(
+            fullText.lower(), paragraph.lower())
+        Token_Set_Ratio = fuzz.token_set_ratio(fullText, paragraph)
+        resObject = {
+            'paragraph': paragraph,
+            'Ratio': Ratio,
+            'Partial_Ratio': Partial_Ratio,
+            'Token_Set_Ratio': Token_Set_Ratio
+        }
+        res.append(resObject)
+    return sorted(res, key=lambda i: i['Token_Set_Ratio'], reverse=True)
 
 
 # print(addQueue('https://en.wikipedia.org//w/index.php?title=Coronavirus&diff=977846836&oldid=977765636'))
-
 testFullText = 'The M protein is the main structural protein of the envelope and is a type III membrane protein. It consists of 218 to 263 amino acid residues and form a layer of 7.8 nm thick.'
 testUrl = 'https://en.wikipedia.org/wiki/Coronavirus'
 testParagraph = 'The M protein is the main structural protein of the envelope that provides the overall shape and is a type III membrane protein. It consists of 218 to 263 amino acid residues and forms a layer of 7.8 nm thickness.[46] It has three domains such as a short N-terminal ectodomain, a triple-spanning transmembrane domain, and a C-terminal endodomain. The C-terminal domain forms a matrix-like lattice that adds to the extra-thickness of the envelope. Different species can have either N- or O-linked glycans in their protein amino-terminal domain. The M protein is crucial in the life cycle of the virus such as during assembly'
 
-print(checkDeleted(testFullText, testUrl, testParagraph))
+print(checkDeleted(testFullText, testUrl))
+
+# Distance = lev.distance(testParagraph.lower(), testFullText.lower()),
+# print(Distance)
+# Ratio = lev.ratio(testParagraph.lower(), testFullText.lower())
+# print(Ratio)
+
+
+# print(Ratio)
+# print(Partial_Ratio)
+# print(Token_Set_Ratio)
