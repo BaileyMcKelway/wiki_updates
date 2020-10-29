@@ -129,15 +129,16 @@ def checkDeleted(fullText, url):
             'Token_Set_Ratio': Token_Set_Ratio
         }
         res.append(resObject)
-    return sorted(res, key=lambda i: i['Token_Set_Ratio'], reverse=True)
+    res = sorted(res, key=lambda i: i['Token_Set_Ratio'], reverse=True)
+    return res
 
 
 # print(addQueue('https://en.wikipedia.org//w/index.php?title=Coronavirus&diff=977846836&oldid=977765636'))
-testFullText = 'The M protein is the main structural protein of the envelope and is a type III membrane protein. It consists of 218 to 263 amino acid residues and form a layer of 7.8 nm thick.'
-testUrl = 'https://en.wikipedia.org/wiki/Coronavirus'
-testParagraph = 'The M protein is the main structural protein of the envelope that provides the overall shape and is a type III membrane protein. It consists of 218 to 263 amino acid residues and forms a layer of 7.8 nm thickness.[46] It has three domains such as a short N-terminal ectodomain, a triple-spanning transmembrane domain, and a C-terminal endodomain. The C-terminal domain forms a matrix-like lattice that adds to the extra-thickness of the envelope. Different species can have either N- or O-linked glycans in their protein amino-terminal domain. The M protein is crucial in the life cycle of the virus such as during assembly'
+# testFullText = 'Cases rose significantly from late August onwards, although this was partly a reflection of higher testing rates than before. The government responded with a [[COVID-19 tier regulations in England|"tiered" lockdown in England]], and the Scottish and Welsh governments introduced similar restrictions.'
+# testUrl = 'https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_Kingdom'
+# testParagraph = 'The M protein is the main structural protein of the envelope that provides the overall shape and is a type III membrane protein. It consists of 218 to 263 amino acid residues and forms a layer of 7.8 nm thickness.[46] It has three domains such as a short N-terminal ectodomain, a triple-spanning transmembrane domain, and a C-terminal endodomain. The C-terminal domain forms a matrix-like lattice that adds to the extra-thickness of the envelope. Different species can have either N- or O-linked glycans in their protein amino-terminal domain. The M protein is crucial in the life cycle of the virus such as during assembly'
 
-print(checkDeleted(testFullText, testUrl))
+# print(checkDeleted(testFullText, testUrl))
 
 # Distance = lev.distance(testParagraph.lower(), testFullText.lower()),
 # print(Distance)
@@ -148,3 +149,6 @@ print(checkDeleted(testFullText, testUrl))
 # print(Ratio)
 # print(Partial_Ratio)
 # print(Token_Set_Ratio)
+options = {'width': 475, 'disable-smart-width': '', 'quality': 100}
+css = 'styles.css'
+imgkit.from_file('test.html', 'out.jpg', options=options, css=css)

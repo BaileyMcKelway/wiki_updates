@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from fuzzy_matcher import process
 from datetime import datetime
+from fuzzywuzzy import fuzz
 
 
 class WikiUpdate:
@@ -96,12 +97,12 @@ class WikiUpdate:
                 allRevisions = []
                 startChecking = False
 
-            self.queue.append(revisionAll)
+                self.queue.append(revisionAll)
 
-            if len(self.queue) >= 5:
+            # if len(self.queue) >= 5:
                 self.checkDeleted()
 
-            time.sleep(3600)
+            # time.sleep(3600)
 
     def addQueue(self, curr):
         if self.checkSize(curr) == True:
@@ -145,29 +146,29 @@ class WikiUpdate:
                 highlightedLines = addedLineCleaned.find_all(
                     'ins', {"class": "diffchange-inline"})
 
-                # Temp file maker
-                pre = str(addedLine)
-                now = datetime.now()
-                dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-                fileName = title + "_Pre" + '.txt'
-                f = open(fileName, "a")
-                f.write("PRE")
-                f.write('\n')
-                f.write("Title: " + title)
-                f.write('\n')
-                f.write("Date: " + dt_string)
-                f.write('\n')
-                f.write("ID: " + revisionId)
-                f.write('\n')
-                f.write('FULLTEXT: ' + pre)
-                f.write('\n')
-                f.write("Current Link: " + curHref)
-                f.write('\n')
-                f.write("Previous Link: " + prevHref)
-                f.write('\n')
-                f.write('\n')
-                f.write('\n')
-                f.close()
+                # # Temp file maker
+                # pre = str(addedLine)
+                # now = datetime.now()
+                # dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+                # fileName = title + "_Pre" + '.txt'
+                # f = open(fileName, "a")
+                # f.write("PRE")
+                # f.write('\n')
+                # f.write("Title: " + title)
+                # f.write('\n')
+                # f.write("Date: " + dt_string)
+                # f.write('\n')
+                # f.write("ID: " + revisionId)
+                # f.write('\n')
+                # f.write('FULLTEXT: ' + pre)
+                # f.write('\n')
+                # f.write("Current Link: " + curHref)
+                # f.write('\n')
+                # f.write("Previous Link: " + prevHref)
+                # f.write('\n')
+                # f.write('\n')
+                # f.write('\n')
+                # f.close()
 
                 # Determines if edit is substantial
                 maxLength = 0
@@ -207,35 +208,102 @@ class WikiUpdate:
                 checkCurrentTitle = checkRevisions[title]
                 for revision in checkCurrentTitle:
                     query = revision['fullText']
-                    fuzzy = process.extract(
-                        query, paragraphs, limit=3, scorer='ratio')
+                    fuzzyMatches = []
+                    for paragraph in paragraphs:
+                        Token_Set_Ratio = fuzz.token_set_ratio(
+                            query, paragraph)
+                        fuzzyRes = {
+                            'paragraph': paragraph,
+                            'Token_Set_Ratio': Token_Set_Ratio
+                        }
+                        fuzzyMatches.append(fuzzyRes)
 
-                    if(fuzzy[0][1] > 50):
-                        # Temp file maker
-                        now = datetime.now()
-                        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-                        fileName = title + "_Post" + '.txt'
-                        f = open(fileName, "a")
-                        f.write("POST")
-                        f.write("Title: " + title)
-                        f.write('\n')
-                        f.write("Date: " + dt_string)
-                        f.write('\n')
-                        f.write("ID: " + revision['revisionId'])
-                        f.write('\n')
-                        f.write(revision['fullText'])
-                        f.write('\n')
-                        f.write(revision['changedText'])
-                        f.write('\n')
-                        f.write("Current Link: " + revision['curLink'])
-                        f.write('\n')
-                        f.write("Previous Link: " + revision['prevLink'])
-                        f.write('\n')
-                        f.write("Fuzzy: " + fuzzy[0][0])
-                        f.write('\n')
-                        f.write('\n')
-                        f.write('\n')
-                        f.close()
+                    # fuzzy = process.extract(
+                    #     query, paragraphs, limit=3, scorer='ratio')
+                    fuzzyMatches = sorted(
+                        fuzzyMatches, key=lambda i: i['Token_Set_Ratio'], reverse=True)
+                    # if(fuzzy[0][1] > 50):
+                    #     # Temp file maker
+                    #     now = datetime.now()
+                    #     dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+                    #     fileName = title + "_Post" + '.txt'
+                    #     f = open(fileName, "a")
+                    #     f.write("POST")
+                    #     f.write('\n')
+                    #     f.write("FUZZY_MATCHER")
+                    #     f.write('\n')
+                    #     f.write("Title: " + title)
+                    #     f.write('\n')
+                    #     f.write("Date: " + dt_string)
+                    #     f.write('\n')
+                    #     f.write("ID: " + revision['revisionId'])
+                    #     f.write('\n')
+                    #     f.write(revision['fullText'])
+                    #     f.write('\n')
+                    #     f.write(revision['changedText'])
+                    #     f.write('\n')
+                    #     f.write("Current Link: " + revision['curLink'])
+                    #     f.write('\n')
+                    #     f.write("Previous Link: " + revision['prevLink'])
+                    #     f.write('\n')
+                    #     f.write("Fuzzy: " + fuzzy[0][0])
+                    #     f.write('\n')
+                    #     f.write('\n')
+                    #     f.write('\n')
+                    #     f.close()
+                    if(fuzzyMatches[0]['Token_Set_Ratio'] >= 85):
+                        options = {'width': 475,
+                                   'disable-smart-width': '', 'quality': 100}
+                        css = 'styles.css'
+
+                        fullText = revision['changedText']
+                        clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
+                        fullText = re.sub(clean, '', fullText)
+
+                        fileName = revision['revisionId'] + ".jpg"
+                        mainTitles = '''<h2>Article: ARTICLE_NAME</h2><h5>Title_____</h5>'''
+                        html = '''<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-type">
+    <meta content="jpg" name="imgkit-format">   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+    <body>
+        {}
+        {}
+    </body>
+</html>'''.format(mainTitles, fullText)
+                        imgkit.from_string(html, fileName,
+                                           options=options, css=css)
+                        # # Temp file maker
+                        # now = datetime.now()
+                        # dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+                        # fileName = title + "_Post" + '.txt'
+                        # f = open(fileName, "a")
+                        # f.write("POST")
+                        # f.write('\n')
+                        # f.write("FUZZYWUZZY")
+                        # f.write('\n')
+                        # f.write("Title: " + title)
+                        # f.write('\n')
+                        # f.write("Date: " + dt_string)
+                        # f.write('\n')
+                        # f.write("ID: " + revision['revisionId'])
+                        # f.write('\n')
+                        # f.write(revision['fullText'])
+                        # f.write('\n')
+                        # f.write(revision['changedText'])
+                        # f.write('\n')
+                        # f.write("Current Link: " + revision['curLink'])
+                        # f.write('\n')
+                        # f.write("Previous Link: " + revision['prevLink'])
+                        # f.write('\n')
+                        # f.write("Fuzzy: " + fuzzyMatches[0]['paragraph'])
+                        # f.write('\n')
+                        # f.write('\n')
+                        # f.write('\n')
+                        # f.close()
 
     def checkSize(self, curr):
         diffBytes = curr.find_all(
