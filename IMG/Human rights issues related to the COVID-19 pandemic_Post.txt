@@ -1,0 +1,394 @@
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:46
+ID: 965454617
+Fulltext: <td class="diff-addedline"><div>On 1 July 2020, human rights organization and the [[ASEAN Intergovernmental Commission on Human Rights]] (AICHR) sent an open letter to the [[Government of Indonesia|Indonesian government]] to issue a regulation on its [[Coronavirus disease 2019|COVID-19]] contact tracing efforts, including on the data collected and how the data should be treated to protect privacy of individuals.</div></td>
+Changed Text: <td class="diff-addedline"><div>On 1 July 2020, human rights organization and the [[ASEAN Intergovernmental Commission on Human Rights]] (AICHR) sent an open letter to the [[Government of Indonesia|Indonesian government]] to issue a regulation on its [[Coronavirus disease 2019|COVID-19]] contact tracing efforts, including on the data collected and how the data should be treated to protect privacy of individuals.&lt;ref&gt;{{cite_web|url=https://www.thejakartapost.com/news/2020/07/01/human-rights-groups-urge-privacy-protection-in-covid-19-contact-tracing-efforts.html|title=Human rights groups urge privacy protection in COVID-19 contact tracing efforts|accessdate=1 July 2020|website=The Jakartapost}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>On 1 July 2020, human rights organization and the ASEAN Intergovernmental Commission on Human Rights (AICHR) sent an open letter to the Indonesian government to issue a regulation on its COVID-19 contact tracing efforts, including on the data collected and how the data should be treated to protect privacy of individuals.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=965454617
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=965454617&oldid=963829430
+Fuzzy: On 1 July 2020, human rights organization and the ASEAN Intergovernmental Commission on Human Rights (AICHR) sent an open letter to the Indonesian government to issue a regulation on its COVID-19 contact tracing efforts, including on the data collected and how the data should be treated to protect privacy of individuals.[59]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:47
+ID: 969067800
+Fulltext: <td class="diff-addedline"><div>On 20 July 2020, [[Human Rights Watch]] reported [[Egypt]]'s prisons are blowing up with [[Coronavirus|coronavirus]] cases and have killed at least 14 detainees. Authorities seek to stifle news of the virus spreading behind the bars and arresting health workers, journalists and critics who raised their voice regarding concerns over the government’s handling of the pandemic.</div></td>
+Changed Text: <td class="diff-addedline"><div>On 20 July 2020, [[Human Rights Watch]] reported [[Egypt]]'s prisons are blowing up with [[Coronavirus|coronavirus]] cases and have killed at least 14 detainees. Authorities seek to stifle news of the virus spreading behind the bars and arresting health workers, journalists and critics who raised their voice regarding concerns over the government’s handling of the pandemic.&lt;ref&gt;{{cite_web|url=https://abcnews.go.com/Health/wireStory/watchdog-virus-stalks-egypts-prisons-amid-news-blackout-71889574|title=Watchdog: Virus stalks Egypt's prisons amid news blackout|accessdate=20 July 2020|website=ABC News}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>On 20 July 2020, Human Rights Watch reported Egypt's prisons are blowing up with coronavirus cases and have killed at least 14 detainees. Authorities seek to stifle news of the virus spreading behind the bars and arresting health workers, journalists and critics who raised their voice regarding concerns over the government’s handling of the pandemic.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=969067800
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=969067800&oldid=968329913
+Fuzzy: On 20 July 2020, Human Rights Watch reported Egypt's prisons are blowing up with coronavirus cases and have killed at least 14 detainees. Authorities seek to stifle news of the virus spreading behind the bars and arresting health workers, journalists and critics who raised their voice regarding concerns over the government's handling of the pandemic.[65]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:48
+ID: 974720671
+Fulltext: <td class="diff-addedline"><div>On June 30, an article from [[The Wall Street Journal]] revealed that the rates of hospitalization and death in America linked to Covid-19 have been observed to be higher for non-white groups even after adjusting for factors such as age and geography. In a report released by [[Centers for Disease Control and Prevention]] studying the COVID 19 hospitalizations among American children, it was found that 40% of the studied hospitalized children were Hispanic and 33% were Black. The study concluded that minority communities were more at risk due to systemic social inequalities, such as economic instability and insurance status.</div></td>
+Changed Text: <td class="diff-addedline"><div>On June 30, an article from [[The Wall Street Journal]] revealed that the rates of hospitalization and death in America linked to Covid-19 have been observed to be higher for non-white groups even after adjusting for factors such as age and geography. In a report released by [[Centers for Disease Control and Prevention]] studying the COVID 19 hospitalizations among American children, it was found that 40% of the studied hospitalized children were Hispanic and 33% were Black. The study concluded that minority communities were more at risk due to systemic social inequalities, such as economic instability and insurance status.&lt;ref&gt;{{cite_web|url=https://www.cdc.gov/mmwr/volumes/69/wr/mm6932e2.htm?s_cid=mm6932e2_x|title=COVID-19–Associated Multisystem Inflammatory Syndrome in Children — United States, March–July 2020|accessdate=22 August 2020|website=CDC}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>On June 30, an article from The Wall Street Journal revealed that the rates of hospitalization and death in America linked to Covid-19 have been observed to be higher for non-white groups even after adjusting for factors such as age and geography. In a report released by Centers for Disease Control and Prevention studying the COVID 19 hospitalizations among American children, it was found that 40% of the studied hospitalized children were Hispanic and 33% were Black. The study concluded that minority communities were more at risk due to systemic social inequalities, such as economic instability and insurance status.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=974720671
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=974720671&oldid=974720290
+Fuzzy: 
+More
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:49
+ID: 974721787
+Fulltext: <td class="diff-addedline"><div>Despite [[Human Rights Watch]] warnings about the danger of unsanitary prison conditions in the US, the infection rate of prisoners was 5.5 times higher than that of the general population. Consequently, the death rate in prisons was higher compared to outside of prisons. </div></td>
+Changed Text: <td class="diff-addedline"><div>Despite [[Human Rights Watch]] warnings about the danger of unsanitary prison conditions in the US&lt;ref&gt;{{Cite web|date=2020-04-29|title=US: Avoid Covid-19 Catastrophe in Jails, Prisons|url=https://www.hrw.org/news/2020/04/29/us-avoid-covid-19-catastrophe-jails-prisons|access-date=2020-08-24|website=Human Rights Watch|language=en}}&lt;/ref&gt;, the infection rate of prisoners was 5.5 times higher than that of the general population&lt;ref&gt;{{Cite web|last=Jul 09|first=Mary Van Beusekom {{!}} News Writer {{!}} CIDRAP News {{!}}|last2=2020|title=US prison inmates among those hit hard with COVID-19|url=https://www.cidrap.umn.edu/news-perspective/2020/07/us-prison-inmates-among-those-hit-hard-covid-19|access-date=2020-08-24|website=CIDRAP|language=en}}&lt;/ref&gt;. Consequently, the death rate in prisons was higher compared to outside of prisons. </div></td>
+Printed Text: <td class="diff-addedline"><div>Despite Human Rights Watch warnings about the danger of unsanitary prison conditions in the US, the infection rate of prisoners was 5.5 times higher than that of the general population. Consequently, the death rate in prisons was higher compared to outside of prisons. </div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=974721787
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=974721787&oldid=974721351
+Fuzzy: Despite Human Rights Watch warnings about the danger of unsanitary prison conditions in the US,[67] the infection rate of prisoners was 5.5 times higher than that of the general population.[68] Consequently, the death rate in prisons was higher compared to outside of prisons.
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:49
+ID: 974722346
+Fulltext: <td class="diff-addedline"><div>=== Detention of migrants, refugees and asylum seekers ===</div></td>
+Changed Text: <td class="diff-addedline"><div>=== Detention of migrants, refugees and asylum seekers ===</div></td>
+Printed Text: <td class="diff-addedline"><div>=== Detention of migrants, refugees and asylum seekers ===</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=974722346
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=974722346&oldid=974721787
+Fuzzy: Detention of migrants, refugees and asylum seekers[edit]
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:50
+ID: 974722346
+Fulltext: <td class="diff-addedline"><div>Many States unlawfully and arbitrarily hold migrants, refugees and asylum-seekers in detention, constituting a violation of International law and human rights. According to [[Amnesty]], governments of [[USA]], [[Mexico]], [[Canada]], [[Curacao]], and [[Trinidad and Tobago]] continue to detain tens of thousands of adults, families, and children in immigration detention facilities amid COVID-19.</div></td>
+Changed Text: <td class="diff-addedline"><div>Many States unlawfully and arbitrarily hold migrants, refugees and asylum-seekers in detention, constituting a violation of International law and human rights. According to [[Amnesty]], governments of [[USA]], [[Mexico]], [[Canada]], [[Curacao]], and [[Trinidad and Tobago]] continue to detain tens of thousands of adults, families, and children in immigration detention facilities amid COVID-19.&lt;ref&gt;{{cite_web|url=https://www.unhcr.org/news/press/2020/7/5f1569344/unhcr-stresses-urgent-need-states-end-unlawful-detention-refugees-asylum.html|title=UNHCR stresses urgent need for States to end unlawful detention of refugees and asylum-seekers, amidst COVID-19 pandemic|accessdate=22 August 2020|website=UNHCR}}&lt;/ref&gt;&lt;ref&gt;{{cite_web|url=https://www.amnesty.org/en/get-involved/take-action/release-migrants-and-asylum-seekers-from-detention-during-covid-19/|title=Americas: release migrants and asylum-seekers from detention during covid-19 pandemic|accessdate=22 August 2020|website=Amnesty International}}&lt;/ref&gt;&lt;ref&gt;{{cite_web|url=https://www.unicef.org/press-releases/covid-19-immigration-detention-what-can-governments-and-other-stakeholders-do|title=COVID-19 &amp; Immigration Detention: What Can Governments and Other Stakeholders Do? Statement by the United Nations Network on Migration|accessdate=22 August 2020|website=UNICEF}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>Many States unlawfully and arbitrarily hold migrants, refugees and asylum-seekers in detention, constituting a violation of International law and human rights. According to Amnesty, governments of USA, Mexico, Canada, Curacao, and Trinidad and Tobago continue to detain tens of thousands of adults, families, and children in immigration detention facilities amid COVID-19.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=974722346
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=974722346&oldid=974721787
+Fuzzy: Many States unlawfully and arbitrarily hold migrants, refugees and asylum-seekers in detention, constituting a violation of International law and human rights. According to Amnesty, governments of USA, Mexico, Canada, Curacao, and Trinidad and Tobago continue to detain tens of thousands of adults, families, and children in immigration detention facilities amid COVID-19.[47][48][49]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:51
+ID: 974792822
+Fulltext: <td class="diff-addedline"><div>In the United States, [[Filipino-Americans]] have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE. Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease. </div></td>
+Changed Text: <td class="diff-addedline"><div>In the United States, [[Filipino-Americans]] have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE&lt;ref&gt;{{cite_web|url=https://https://www.healthleadersmedia.com/welcome-ad?toURL=/nursing/nursing-ranks-are-filled-filipino-americans-pandemic-taking-outsized-toll-them|title=The Pandemic Is Taking an Outsized Toll of Filipino American Nurses|accessdate=20 July 2020|website=Health Leaders}}&lt;/ref&gt;. Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease&lt;ref&gt;https://www.latimes.com/california/story/2020-07-21/filipino-americans-dying-covid&lt;/ref&gt;. </div></td>
+Printed Text: <td class="diff-addedline"><div>In the United States, Filipino-Americans have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE. Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease. </div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=974792822
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=974792822&oldid=974738732
+Fuzzy: In the United States, Filipino-Americans have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE.[69] Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease.[70]
+In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate.[71]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:52
+ID: 974792822
+Fulltext: <td class="diff-addedline"><div>In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate. </div></td>
+Changed Text: <td class="diff-addedline"><div>In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate&lt;ref&gt;https://www.pewresearch.org/hispanic/2020/08/04/coronavirus-economic-downturn-has-hit-latinos-especially-hard/&lt;/ref&gt;. </div></td>
+Printed Text: <td class="diff-addedline"><div>In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate. </div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=974792822
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=974792822&oldid=974738732
+Fuzzy: In the United States, Filipino-Americans have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE.[69] Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease.[70]
+In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate.[71]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:53
+ID: 975006183
+Fulltext: <td class="diff-addedline"><div>== Right to respect for private and family life ==</div></td>
+Changed Text: <td class="diff-addedline"><div>== Right to respect for private and family life ==</div></td>
+Printed Text: <td class="diff-addedline"><div>== Right to respect for private and family life ==</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=975006183
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=975006183&oldid=974792822
+Fuzzy: Right to respect for private and family life[edit]
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:53
+ID: 975801563
+Fulltext: <td class="diff-addedline"><div>Many [[injunction]] motions against state decrees proscribing measures against the spread of SARS-2 have been filed with the [[German constitutional court]] in 2020, but all have been rejected either in form or content. In most cases, the plaintiffs had been referred to the regular [[administrative court]]s.</div></td>
+Changed Text: <td class="diff-addedline"><div>Many [[injunction]] motions against state decrees proscribing measures against the spread of SARS-2 have been filed with the [[German constitutional court]] in 2020, but all have been rejected either in form or content. In most cases, the plaintiffs had been referred to the regular [[administrative court]]s.</div></td>
+Printed Text: <td class="diff-addedline"><div>Many injunction motions against state decrees proscribing measures against the spread of SARS-2 have been filed with the German constitutional court in 2020, but all have been rejected either in form or content. In most cases, the plaintiffs had been referred to the regular administrative courts.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=975801563
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=975801563&oldid=975266296
+Fuzzy: Many injunction motions against state decrees proscribing measures against the spread of SARS-2 have been filed with the German constitutional court in 2020, but all have been rejected either in form or content. In most cases, the plaintiffs had been referred to the regular administrative courts.
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:54
+ID: 979470443
+Fulltext: <td class="diff-addedline"><div>{{Main|Impact of the COVID-19 pandemic on human rights in Argentina#Freedom of movement}}</div></td>
+Changed Text: <td class="diff-addedline"><div>{{Main|Impact of the COVID-19 pandemic on human rights in Argentina#Freedom of movement}}</div></td>
+Printed Text: <td class="diff-addedline"><div>{{Main|Impact of the COVID-19 pandemic on human rights in Argentina#Freedom of movement}}</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=979470443
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=979470443&oldid=978818369
+Fuzzy: Freedom of movement[edit]
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:55
+ID: 980790350
+Fulltext: <td class="diff-addedline"><div>In the United States, [[Filipino-Americans]] have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE. Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease.</div></td>
+Changed Text: <td class="diff-addedline"><div>In the United States, [[Filipino-Americans]] have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE.&lt;ref&gt;{{cite_web|url=https://www.healthleadersmedia.com/welcome-ad?toURL=/nursing/nursing-ranks-are-filled-filipino-americans-pandemic-taking-outsized-toll-them|title=The Pandemic Is Taking an Outsized Toll of Filipino American Nurses|accessdate=20 July 2020|website=Health Leaders}}&lt;/ref&gt; Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease.&lt;ref&gt;{{Cite web|url=https://www.latimes.com/california/story/2020-07-21/filipino-americans-dying-covid|title=Little noticed, Filipino Americans are dying of COVID-19 at an alarming rate|date=21 July 2020|website=Los Angeles Times}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>In the United States, Filipino-Americans have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE. Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=980790350
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=980790350&oldid=980790322
+Fuzzy: In the United States, Filipino-Americans have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE.[69] Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease.[70]
+In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate.[71]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:56
+ID: 980790350
+Fulltext: <td class="diff-addedline"><div>In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate.</div></td>
+Changed Text: <td class="diff-addedline"><div>In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate.&lt;ref&gt;{{Cite web|url=https://www.pewresearch.org/hispanic/2020/08/04/coronavirus-economic-downturn-has-hit-latinos-especially-hard/|title=Coronavirus Economic Downturn Has Hit Latinos Especially Hard|date=4 August 2020 |website=pewresearch.org}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=980790350
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=980790350&oldid=980790322
+Fuzzy: In the United States, Filipino-Americans have been disproportionately affected by COVID-19. Many Filipino Americans work as nurses in the ICU where COVID patients are treated, and many of them are not provided with PPE.[69] Filipino Americans had a higher mortality rate, which has been attributed to their diet which has lead to higher cases of to obesity, high blood pressure and heart disease.[70]
+In certain industries in Utah between March and June, it is found that Hispanic and non-white workers made up 73% of cases in workplace outbreaks. Hispanics are also financially impacted, experiencing a higher-than-national-average unemployment rate.[71]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:57
+ID: 980790442
+Fulltext: <td class="diff-addedline"><div>During the [[COVID-19 pandemic]], human rights violations including censorship, discrimination, arbitrary detention, xenophobia were reported from different parts of the world. [[Amnesty International]] has responded that "Human rights violations hinder, rather than facilitate, responses to public health emergencies, and undercut their efficiency." The World Health Organization has stated that stay-at-home measures for slowing down the pandemic must not be done at the expense of human rights.</div></td>
+Changed Text: <td class="diff-addedline"><div>During the [[COVID-19 pandemic]], human rights violations including censorship, discrimination, arbitrary detention, xenophobia were reported from different parts of the world. [[Amnesty International]] has responded that "Human rights violations hinder, rather than facilitate, responses to public health emergencies, and undercut their efficiency."&lt;ref name="amnesty7"&gt;{{cite web |title=Here are seven ways the coronavirus affects human rights |url=https://www.amnesty.org/en/latest/news/2020/02/explainer-seven-ways-the-coronavirus-affects-human-rights/ |website=www.amnesty.org |accessdate=13 March 2020 |language=en}}&lt;/ref&gt; The World Health Organization has stated that stay-at-home measures for slowing down the pandemic must not be done at the expense of human rights.&lt;ref&gt;{{cite news |title=WHO Director-General's opening remarks at the media briefing on COVID-19 - 13 April 2020 |url=https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19--13-april-2020 |accessdate=13 April 2020 |work=www.who.int |language=en}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>During the COVID-19 pandemic, human rights violations including censorship, discrimination, arbitrary detention, xenophobia were reported from different parts of the world. Amnesty International has responded that "Human rights violations hinder, rather than facilitate, responses to public health emergencies, and undercut their efficiency." The World Health Organization has stated that stay-at-home measures for slowing down the pandemic must not be done at the expense of human rights.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=980790442
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=980790442&oldid=980790421
+Fuzzy: During the COVID-19 pandemic, human rights violations including censorship, discrimination, arbitrary detention and xenophobia were reported from different parts of the world. Amnesty International has responded that "Human rights violations hinder, rather than facilitate, responses to public health emergencies and undercut their efficiency."[1] The World Health Organization (WHO) has stated that stay-at-home responses for slowing the pandemic must not be mandated at the expense of human rights.[2] Broader concerns have been expressed about the effect of COVID-19 containment measures on human rights, democracy and governance.[3]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:58
+ID: 980790442
+Fulltext: <td class="diff-addedline"><div>Numerous experts reported that the COVID-19 pandemic is a situation when numerous issues are being experienced intersectionally, and thus, are no longer an issue of only one category.</div></td>
+Changed Text: <td class="diff-addedline"><div>Numerous experts reported that the COVID-19 pandemic is a situation when numerous issues are being experienced intersectionally, and thus, are no longer an issue of only one category.</div></td>
+Printed Text: <td class="diff-addedline"><div>Numerous experts reported that the COVID-19 pandemic is a situation when numerous issues are being experienced intersectionally, and thus, are no longer an issue of only one category.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=980790442
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=980790442&oldid=980790421
+Fuzzy: Numerous experts report that numerous issues intersect, and are no longer an issue of only one category.
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:59
+ID: 981703997
+Fulltext: <td class="diff-addedline"><div>During the [[COVID-19 pandemic]], human rights violations including censorship, discrimination, arbitrary detention, xenophobia were reported from different parts of the world. [[Amnesty International]] has responded that "Human rights violations hinder, rather than facilitate, responses to public health emergencies, and undercut their efficiency." The World Health Organization has stated that stay-at-home measures for slowing down the pandemic must not be done at the expense of human rights.<ins class="diffchange diffchange-inline"> Broader concerns have been expressed about the effect of COVID-19 containment measures on human rights, democracy and governance.</ins></div></td>
+Changed Text: <td class="diff-addedline"><div>During the [[COVID-19 pandemic]], human rights violations including censorship, discrimination, arbitrary detention, xenophobia were reported from different parts of the world. [[Amnesty International]] has responded that "Human rights violations hinder, rather than facilitate, responses to public health emergencies, and undercut their efficiency."&lt;ref name="amnesty7"&gt;{{cite web |title=Here are seven ways the coronavirus affects human rights |url=https://www.amnesty.org/en/latest/news/2020/02/explainer-seven-ways-the-coronavirus-affects-human-rights/ |website=www.amnesty.org |accessdate=13 March 2020 |language=en}}&lt;/ref&gt; The World Health Organization has stated that stay-at-home measures for slowing down the pandemic must not be done at the expense of human rights.&lt;ref&gt;{{cite news |title=WHO Director-General's opening remarks at the media briefing on COVID-19 - 13 April 2020 |url=https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19--13-april-2020 |accessdate=13 April 2020 |work=www.who.int |language=en<ins class="diffchange diffchange-inline">}}&lt;/ref&gt; Broader concerns have been expressed about the effect of COVID-19 containment measures on human rights, democracy and governance.&lt;ref&gt;{{cite web| url=https://academic.oup.com/jlb/advance-article/doi/10.1093/jlb/lsaa064/5912724|title=COVID-19 Emergency Measures and the Impending Authoritarian Pandemic|first1=Stephen|last1=Thomson|first2=Eric|last2=Ip|date=29 September 2020|access-date=3 October 2020|work=[[Oxford University Press]]</ins>}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>During the COVID-19 pandemic, human rights violations including censorship, discrimination, arbitrary detention, xenophobia were reported from different parts of the world. Amnesty International has responded that "Human rights violations hinder, rather than facilitate, responses to public health emergencies, and undercut their efficiency." The World Health Organization has stated that stay-at-home measures for slowing down the pandemic must not be done at the expense of human rights.<ins class="diffchange diffchange-inline"> Broader concerns have been expressed about the effect of COVID-19 containment measures on human rights, democracy and governance.</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=981703997
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=981703997&oldid=980790442
+Fuzzy: During the COVID-19 pandemic, human rights violations including censorship, discrimination, arbitrary detention and xenophobia were reported from different parts of the world. Amnesty International has responded that "Human rights violations hinder, rather than facilitate, responses to public health emergencies and undercut their efficiency."[1] The World Health Organization (WHO) has stated that stay-at-home responses for slowing the pandemic must not be mandated at the expense of human rights.[2] Broader concerns have been expressed about the effect of COVID-19 containment measures on human rights, democracy and governance.[3]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:44:59
+ID: 981789780
+Fulltext: <td class="diff-addedline"><div>On 3 October 2020, tens of thousands of Israelis came on streets in hundreds of regions across Israel, amidst [[COVID-19 pandemic|coronavirus]] lockdown to protest, following the parliament’s approval to a new law that curbed anti-government protests. People were barred from conducting such [[Demonstration (political)|demonstrations]] more than 1 km from their homes, under the new law, which forced stricter social distancing rules. Critics called it a blow to freedom of speech. The demonstrations flouted the law, as it kept pressure on [[Benjamin Netanyahu]] over his handling of the pandemic and [[corruption]] allegations.</div></td>
+Changed Text: <td class="diff-addedline"><div>On 3 October 2020, tens of thousands of Israelis came on streets in hundreds of regions across Israel, amidst [[COVID-19 pandemic|coronavirus]] lockdown to protest, following the parliament’s approval to a new law that curbed anti-government protests. People were barred from conducting such [[Demonstration (political)|demonstrations]] more than 1 km from their homes, under the new law, which forced stricter social distancing rules. Critics called it a blow to freedom of speech. The demonstrations flouted the law, as it kept pressure on [[Benjamin Netanyahu]] over his handling of the pandemic and [[corruption]] allegations.&lt;ref&gt;{{cite_web|url=https://www.voanews.com/middle-east/israelis-persist-rallies-against-pm-despite-lockdown|title=Israelis Persist in Rallies Against PM Despite Lockdown |accessdate=3 October 2020|website=The Voice of America}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>On 3 October 2020, tens of thousands of Israelis came on streets in hundreds of regions across Israel, amidst coronavirus lockdown to protest, following the parliament’s approval to a new law that curbed anti-government protests. People were barred from conducting such demonstrations more than 1 km from their homes, under the new law, which forced stricter social distancing rules. Critics called it a blow to freedom of speech. The demonstrations flouted the law, as it kept pressure on Benjamin Netanyahu over his handling of the pandemic and corruption allegations.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=981789780
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=981789780&oldid=981704076
+Fuzzy: On 3 October 2020, tens of thousands of Israelis came on streets in hundreds of regions across Israel, amidst coronavirus lockdown to protest, following the parliament's approval to a new law that curbed anti-government protests. People were barred from conducting such demonstrations more than 1 km from their homes, under the new law, which forced stricter social distancing rules. Critics called it a blow to freedom of speech. The demonstrations flouted the law, as it kept pressure on Benjamin Netanyahu over his handling of the pandemic and corruption allegations.[10]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:00
+ID: 982255203
+Fulltext: <td class="diff-addedline"><div>"[[Plague Inc.|Plague Inc]]", a mobile game that focuses on the simulation of global pandemics, was banned by the [[Cyberspace Administration of China]] on the grounds that it had "illegal content" and was promptly removed from all Chinese digital stores. [<ins class="diffchange diffchange-inline">https://www.google.com/search?ei=URp9X-6OFs7Y5gLn27PYCA&amp;q=Who+is+Ndemic+Creations&amp;oq=Who+is+Ndemic+Creations&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQRzoGCAAQBxAeOgQIABANOgYIABANEB5Q1h5YzTJg9kRoA3ACeACAAckBiAG8C5IBBTAuOS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwiu-8_WqqHsAhVOrFkKHeftDIsQ4dUDCA0&amp;uact=5 </ins>Ndemic Creations], the game developer, said that it is unclear whether this was in connection to the COVID-19 outbreak, but that they plan to work hard to get their game back into Chinese players' hands.</div></td>
+Changed Text: <td class="diff-addedline"><div>"[[Plague Inc.|Plague Inc]]", a mobile game that focuses on the simulation of global pandemics, was banned by the [[Cyberspace Administration of China]] on the grounds that it had "illegal content" and was promptly removed from all Chinese digital stores. [<ins class="diffchange diffchange-inline">https://www.google.com/search?ei=URp9X-6OFs7Y5gLn27PYCA&amp;q=Who+is+Ndemic+Creations&amp;oq=Who+is+Ndemic+Creations&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQRzoGCAAQBxAeOgQIABANOgYIABANEB5Q1h5YzTJg9kRoA3ACeACAAckBiAG8C5IBBTAuOS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwiu-8_WqqHsAhVOrFkKHeftDIsQ4dUDCA0&amp;uact=5 </ins>Ndemic Creations], the game developer, said that it is unclear whether this was in connection to the COVID-19 outbreak, but that they plan to work hard to get their game back into Chinese players' hands.&lt;ref&gt;{{Cite web|url=https://www.washingtonpost.com/video-games/2020/02/28/plague-inc-removed-chinas-app-store/|title=Plague Inc removed from China App Store|last=Hume|first=Mike|date=|website=Washington Post|url-status=live|archive-url=|archive-date=|access-date=}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>"Plague Inc", a mobile game that focuses on the simulation of global pandemics, was banned by the Cyberspace Administration of China on the grounds that it had "illegal content" and was promptly removed from all Chinese digital stores. [<ins class="diffchange diffchange-inline">https://www.google.com/search?ei=URp9X-6OFs7Y5gLn27PYCA&amp;q=Who+is+Ndemic+Creations&amp;oq=Who+is+Ndemic+Creations&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQRzoGCAAQBxAeOgQIABANOgYIABANEB5Q1h5YzTJg9kRoA3ACeACAAckBiAG8C5IBBTAuOS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwiu-8_WqqHsAhVOrFkKHeftDIsQ4dUDCA0&amp;uact=5 </ins>Ndemic Creations], the game developer, said that it is unclear whether this was in connection to the COVID-19 outbreak, but that they plan to work hard to get their game back into Chinese players' hands.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=982255203
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=982255203&oldid=982254084
+Fuzzy: "Plague Inc", a mobile game that focuses on the simulation of global pandemics, was banned by the Cyberspace Administration of China on the grounds that it had "illegal content" and was promptly removed from all Chinese digital stores. Ndemic Creations, the game developer, said that it is unclear whether this was in connection to the COVID-19 outbreak, but that they plan to work hard to get their game back into Chinese players' hands.[9]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:01
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>The government of China enforced early censorship to suppress information about COVID-19 and the dangers it poses to public health. There were criticisms that the epidemic was allowed to spread for weeks before efforts were undertaken to contain the virus.<ins class="diffchange diffchange-inline"> [[Li Wenliang]], a Chinese doctor who alerted his colleagues about coronavirus was censored and then detained for "spreading false rumors". He succumbed to the infection and later died. Amnesty International criticized that China's aggressive lobbying of the [[World Health Organization|W.H.O]]. included minimizing the severity of the outbreak.</ins></div></td>
+Changed Text: <td class="diff-addedline"><div>The government of China enforced early censorship to suppress information about COVID-19 and the dangers it poses to public health.&lt;ref name="aljazeera"&gt;{{cite news |title=How the coronavirus has deepened human rights abuses in China |url=https://www.aljazeera.com/news/2020/03/cloneofcloneofcoronavirus-deepened-human-right-200312074518781.html |work=www.aljazeera.com}}&lt;/ref&gt;&lt;ref name="guardianchina"&gt;{{cite news |last1=Eve |first1=Frances |title=China's reaction to the coronavirus violates human rights Frances Eve |url=https://www.theguardian.com/world/2020/feb/02/chinas-reaction-to-the-coronavirus-outbreak-violates-human-rights |accessdate=13 March 2020 |work=The Guardian |date=2 February 2020}}&lt;/ref&gt; There were criticisms that the epidemic was allowed to spread for weeks before efforts were undertaken to contain the virus.&lt;ref&gt;{{cite web |last1=Wuhan |first1=About<ins class="diffchange diffchange-inline"> The Author Da ShijiDa Shiji is the penname of a veteran journalist living in the city of |title=The Truth About "Dramatic Action" |url=https://chinamediaproject.org/2020/01/27/dramatic-actions/ |website=China Media Project |accessdate=13 March 2020 |date=27 January 2020}}&lt;/ref&gt; [[Li Wenliang]], a Chinese doctor who alerted his colleagues about coronavirus was censored and then detained for "spreading false rumors".&lt;ref&gt;{{cite news |last1=Yu |first1=Verna |title=Senior Wuhan doctor dies from coronavirus as authorities start to 'round up' patients |url=https://www.theguardian.com/global-development/2020/feb/18/senior-wuhan-doctor-dies-from-coronavirus-as-authorities-start-to-round-up-patients |accessdate=13 March 2020 |work=The Guardian |date=18 February 2020}}&lt;/ref&gt; He succumbed to the infection and later died.&lt;ref&gt;{{cite news |last1=Buckley |first1=Chris |last2=Myers |first2=Steven Lee |title=As New Coronavirus Spread, China's Old Habits Delayed Fight |url=https://www.nytimes.com/2020/02/01/world/asia/china-coronavirus.html |work=The New York Times |date=1 February 2020}}&lt;/ref&gt; Amnesty International criticized that China's aggressive lobbying of the [[World Health Organization|W.H.O]]. included minimizing the severity of the outbreak.&lt;ref name="amnesty7"/&gt;</ins></div></td>
+Printed Text: <td class="diff-addedline"><div>The government of China enforced early censorship to suppress information about COVID-19 and the dangers it poses to public health. There were criticisms that the epidemic was allowed to spread for weeks before efforts were undertaken to contain the virus.<ins class="diffchange diffchange-inline"> Li Wenliang, a Chinese doctor who alerted his colleagues about coronavirus was censored and then detained for "spreading false rumors". He succumbed to the infection and later died. Amnesty International criticized that China's aggressive lobbying of the W.H.O. included minimizing the severity of the outbreak.</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: The government of China enforced early censorship to suppress information about COVID-19 and the dangers it poses to public health.[4][5] There were criticisms that the epidemic was allowed to spread for weeks before efforts were undertaken to contain the virus.[6] Li Wenliang, a Chinese doctor who alerted his colleagues about coronavirus was censored and then detained for "spreading false rumors".[7] He succumbed to the infection and later died.[8] Amnesty International criticized that China's aggressive lobbying of the W.H.O. included minimizing the severity of the outbreak.[1]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:02
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>"[[Plague Inc.|Plague Inc]]", a mobile game that focuses on the simulation of global pandemics, was banned by the [[Cyberspace Administration of China]] on the grounds that it had "illegal content" and was promptly removed from all Chinese digital stores. [https://www.google.com/search?ei=URp9X-6OFs7Y5gLn27PYCA&amp;q=Who+is+Ndemic+Creations&amp;oq=Who+is+Ndemic+Creations&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQRzoGCAAQBxAeOgQIABANOgYIABANEB5Q1h5YzTJg9kRoA3ACeACAAckBiAG8C5IBBTAuOS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwiu-8_WqqHsAhVOrFkKHeftDIsQ4dUDCA0&amp;uact=5 Ndemic Creations], the game developer, said that it is unclear whether this was in connection to the COVID-19 outbreak, but that they plan to work hard to get their game back into Chinese players' hands.</div></td>
+Changed Text: <td class="diff-addedline"><div>"[[Plague Inc.|Plague Inc]]", a mobile game that focuses on the simulation of global pandemics, was banned by the [[Cyberspace Administration of China]] on the grounds that it had "illegal content" and was promptly removed from all Chinese digital stores. [https://www.google.com/search?ei=URp9X-6OFs7Y5gLn27PYCA&amp;q=Who+is+Ndemic+Creations&amp;oq=Who+is+Ndemic+Creations&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQRzoGCAAQBxAeOgQIABANOgYIABANEB5Q1h5YzTJg9kRoA3ACeACAAckBiAG8C5IBBTAuOS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwiu-8_WqqHsAhVOrFkKHeftDIsQ4dUDCA0&amp;uact=5 Ndemic Creations], the game developer, said that it is unclear whether this was in connection to the COVID-19 outbreak, but that they plan to work hard to get their game back into Chinese players' hands.&lt;ref&gt;{{Cite web|url=https://www.washingtonpost.com/video-games/2020/02/28/plague-inc-removed-chinas-app-store/|title=Plague Inc removed from China App Store|last=Hume|first=Mike|date=|website=Washington Post|url-status=live|archive-url=|archive-date=|access-date=}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>"Plague Inc", a mobile game that focuses on the simulation of global pandemics, was banned by the Cyberspace Administration of China on the grounds that it had "illegal content" and was promptly removed from all Chinese digital stores. [https://www.google.com/search?ei=URp9X-6OFs7Y5gLn27PYCA&amp;q=Who+is+Ndemic+Creations&amp;oq=Who+is+Ndemic+Creations&amp;gs_lcp=CgZwc3ktYWIQAzoECAAQRzoGCAAQBxAeOgQIABANOgYIABANEB5Q1h5YzTJg9kRoA3ACeACAAckBiAG8C5IBBTAuOS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&amp;sclient=psy-ab&amp;ved=0ahUKEwiu-8_WqqHsAhVOrFkKHeftDIsQ4dUDCA0&amp;uact=5 Ndemic Creations], the game developer, said that it is unclear whether this was in connection to the COVID-19 outbreak, but that they plan to work hard to get their game back into Chinese players' hands.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: "Plague Inc", a mobile game that focuses on the simulation of global pandemics, was banned by the Cyberspace Administration of China on the grounds that it had "illegal content" and was promptly removed from all Chinese digital stores. Ndemic Creations, the game developer, said that it is unclear whether this was in connection to the COVID-19 outbreak, but that they plan to work hard to get their game back into Chinese players' hands.[9]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:03
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>On 3 October 2020, tens of thousands of Israelis came on streets in hundreds of regions across Israel, amidst [[COVID-19 pandemic|coronavirus]] lockdown to protest, following the parliament's approval to a new law that curbed anti-government protests. People were barred from conducting such [[Demonstration (political)|demonstrations]] more than 1 km from their homes, under the new law, which forced stricter social distancing rules. Critics called it a blow to freedom of speech. The demonstrations flouted the law, as it kept pressure on [[Benjamin Netanyahu]] over his handling of the pandemic and [[corruption]] allegations.</div></td>
+Changed Text: <td class="diff-addedline"><div>On 3 October 2020, tens of thousands of Israelis came on streets in hundreds of regions across Israel, amidst [[COVID-19 pandemic|coronavirus]] lockdown to protest, following the parliament's approval to a new law that curbed anti-government protests. People were barred from conducting such [[Demonstration (political)|demonstrations]] more than 1 km from their homes, under the new law, which forced stricter social distancing rules. Critics called it a blow to freedom of speech. The demonstrations flouted the law, as it kept pressure on [[Benjamin Netanyahu]] over his handling of the pandemic and [[corruption]] allegations.&lt;ref&gt;{{cite web|url=https://www.voanews.com/middle-east/israelis-persist-rallies-against-pm-despite-lockdown|title=Israelis Persist in Rallies Against PM Despite Lockdown |accessdate=3 October 2020|website=The Voice of America}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>On 3 October 2020, tens of thousands of Israelis came on streets in hundreds of regions across Israel, amidst coronavirus lockdown to protest, following the parliament's approval to a new law that curbed anti-government protests. People were barred from conducting such demonstrations more than 1 km from their homes, under the new law, which forced stricter social distancing rules. Critics called it a blow to freedom of speech. The demonstrations flouted the law, as it kept pressure on Benjamin Netanyahu over his handling of the pandemic and corruption allegations.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: On 3 October 2020, tens of thousands of Israelis came on streets in hundreds of regions across Israel, amidst coronavirus lockdown to protest, following the parliament's approval to a new law that curbed anti-government protests. People were barred from conducting such demonstrations more than 1 km from their homes, under the new law, which forced stricter social distancing rules. Critics called it a blow to freedom of speech. The demonstrations flouted the law, as it kept pressure on Benjamin Netanyahu over his handling of the pandemic and corruption allegations.[10]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:04
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>An experienced midwife working [[COVID-19 pandemic in Poland|during the pandemic in a Polish hospital]] was fired after she published a report on [[Facebook]] on 18 March about the conditions of medical personnel and the hospital in relation to the pandemic. Reports came out afterwards that doctors were being forbidden from providing information to the media. On 25 March 2020, the [[Polish Ombudsman]] [[Adam Bodnar]] informed the Minister of Health that medical staff's freedom of speech and the public's right to know are guaranteed under [[:s:Constitution of the Republic of Poland/Chapter 1|Articles 2]], [[:s:Constitution of the Republic of Poland/Chapter 2|54 and 61 of the Polish Constitution]] and that firing or punishing doctors for informing the public during the pandemic could be a violation of the "obligatory standards".</div></td>
+Changed Text: <td class="diff-addedline"><div>An experienced midwife working [[COVID-19 pandemic in Poland|during the pandemic in a Polish hospital]] was fired after she published a report on [[Facebook]] on 18 March about the conditions of medical personnel and the hospital in relation to the pandemic. Reports came out afterwards that doctors were being forbidden from providing information to the media. On 25 March 2020, the [[Polish Ombudsman]] [[Adam Bodnar]] informed the Minister of Health that medical staff's freedom of speech and the public's right to know are guaranteed under [[:s:Constitution of the Republic of Poland/Chapter 1|Articles 2]], [[:s:Constitution of the Republic of Poland/Chapter 2|54 and 61 of the Polish Constitution]] and that firing or punishing doctors for informing the public during the pandemic could be a violation of the "obligatory standards".&lt;ref name="PortPielPoloz_fired" /&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>An experienced midwife working during the pandemic in a Polish hospital was fired after she published a report on Facebook on 18 March about the conditions of medical personnel and the hospital in relation to the pandemic. Reports came out afterwards that doctors were being forbidden from providing information to the media. On 25 March 2020, the Polish Ombudsman Adam Bodnar informed the Minister of Health that medical staff's freedom of speech and the public's right to know are guaranteed under Articles 2, 54 and 61 of the Polish Constitution and that firing or punishing doctors for informing the public during the pandemic could be a violation of the "obligatory standards".</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: An experienced midwife working during the pandemic in a Polish hospital was fired after she published a report on Facebook on 18 March about the conditions of medical personnel and the hospital in relation to the pandemic. Reports came out afterwards that doctors were being forbidden from providing information to the media. On 25 March 2020, the Polish Ombudsman Adam Bodnar informed the Minister of Health that medical staff's freedom of speech and the public's right to know are guaranteed under Articles 2, 54 and 61 of the Polish Constitution and that firing or punishing doctors for informing the public during the pandemic could be a violation of the "obligatory standards".[11]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:04
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>On 26 March, Poland's secretary of state of the Ministry of Health, {{ill|Józefa Szczurek-Żelazko|pl}}, published a written statement forbidding [[Voivodeships of Poland|voivodeship]] medical consultants from making statements related to the coronavirus unless they first consulted with the Ministry of Health or {{ill|Główny Inspektorat Sanitarny|pl}} (GIS, the national health agency). A doctors' group, ''Porozumieniu Chirurgów SKALPEL'', described the order as [[blackmail]] and said that it risked catastrophe.</div></td>
+Changed Text: <td class="diff-addedline"><div>On 26 March, Poland's secretary of state of the Ministry of Health, {{ill|Józefa Szczurek-Żelazko|pl}}, published a written statement forbidding [[Voivodeships of Poland|voivodeship]] medical consultants from making statements related to the coronavirus unless they first consulted with the Ministry of Health or {{ill|Główny Inspektorat Sanitarny|pl}} (GIS, the national health agency).&lt;ref name="GazWyb_MOH_to_censor_medicos" /&gt; A doctors' group, ''Porozumieniu Chirurgów SKALPEL'', described the order as [[blackmail]] and said that it risked catastrophe.&lt;ref name="GazWyb_MOH_to_censor_medicos" /&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>On 26 March, Poland's secretary of state of the Ministry of Health, {{ill|Józefa Szczurek-Żelazko|pl}}, published a written statement forbidding voivodeship medical consultants from making statements related to the coronavirus unless they first consulted with the Ministry of Health or {{ill|Główny Inspektorat Sanitarny|pl}} (GIS, the national health agency). A doctors' group, ''Porozumieniu Chirurgów SKALPEL'', described the order as blackmail and said that it risked catastrophe.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: On 26 March, Poland's secretary of state of the Ministry of Health, Józefa Szczurek-Żelazko [pl], published a written statement forbidding voivodeship medical consultants from making statements related to the coronavirus unless they first consulted with the Ministry of Health or Główny Inspektorat Sanitarny [pl] (GIS, the national health agency).[12] A doctors' group, Porozumieniu Chirurgów SKALPEL, described the order as blackmail and said that it risked catastrophe.[12]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:05
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>Law enforcement agencies detained 19 social media users whose posts were "[[Misinformation|unfounded]] and provocative", causing panic and fear according to the officials. Some newspapers considered these actions to be [[Censorship in Turkey|censorship]]. As of 6 April, at least seven journalists, who were each reporting for local media, were detained for how they covered the pandemic, and the state media watchdog had fined at least three channels for their coverage of the outbreak, including the mainstream channel Habertürk, which was penalized after its medical expert stated that the low level of testing and the high rate of transmission of the virus meant there were many undiagnosed cases, greatly exceeding the government's confirmed case figures.</div></td>
+Changed Text: <td class="diff-addedline"><div>Law enforcement agencies detained 19 social media users whose posts were "[[Misinformation|unfounded]] and provocative", causing panic and fear according to the officials.&lt;ref&gt;{{cite news |title=Turkey detains 19 people over 'provocative' coronavirus posts |url=https://www.reuters.com/article/us-health-coronavirus-turkey/turkey-detains-19-people-over-provocative-coronavirus-posts-idUSKBN2140T9 |accessdate=27 April 2020 |work=Reuters |date=17 March 2020 |language=en}}&lt;/ref&gt; Some newspapers considered these actions to be [[Censorship in Turkey|censorship]].&lt;ref&gt;{{cite news |title=Coronavirus Has Started a Censorship Pandemic |url=https://foreignpolicy.com/2020/04/01/coronavirus-censorship-pandemic-disinformation-fake-news-speech-freedom/ |work=The Foreign Policy |date=April 1, 2020}}&lt;/ref&gt; As of 6 April, at least seven journalists, who were each reporting for local media, were detained for how they covered the pandemic, and the state media watchdog had fined at least three channels for their coverage of the outbreak, including the mainstream channel Habertürk, which was penalized after its medical expert stated that the low level of testing and the high rate of transmission of the virus meant there were many undiagnosed cases, greatly exceeding the government's confirmed case figures.&lt;ref name=AlMonitorHospitals&gt;{{cite news|url=https://www.al-monitor.com/pulse/originals/2020/04/turkey-build-hospitals-coronavirus.html|title=Turkey builds more hospitals as coronavirus cases spike|date=April 6, 2020|author=Ayla Jean Yackley|agency=Al Monitor}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>Law enforcement agencies detained 19 social media users whose posts were "unfounded and provocative", causing panic and fear according to the officials. Some newspapers considered these actions to be censorship. As of 6 April, at least seven journalists, who were each reporting for local media, were detained for how they covered the pandemic, and the state media watchdog had fined at least three channels for their coverage of the outbreak, including the mainstream channel Habertürk, which was penalized after its medical expert stated that the low level of testing and the high rate of transmission of the virus meant there were many undiagnosed cases, greatly exceeding the government's confirmed case figures.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: Law enforcement agencies detained 19 social media users whose posts were "unfounded and provocative", causing panic and fear according to the officials.[13] Some newspapers considered these actions to be censorship.[14] As of 6 April, at least seven journalists, who were each reporting for local media, were detained for how they covered the pandemic, and the state media watchdog had fined at least three channels for their coverage of the outbreak, including the mainstream channel Habertürk, which was penalized after its medical expert stated that the low level of testing and the high rate of transmission of the virus meant there were many undiagnosed cases, greatly exceeding the government's confirmed case figures.[15]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:06
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>Due to the COVID-19 pandemic, the Turkish parliament accepted a bill which could enable the release of up to 100,000 prisoners, including people responsible for deaths. However, the law excludes Turkey's around 50,000 [[2016–present purges in Turkey|political prisoners]], including journalists and human rights defenders, who are said to remain jailed despite overcrowding and unsanitary living conditions already posing severe health threat.</div></td>
+Changed Text: <td class="diff-addedline"><div>Due to the COVID-19 pandemic, the Turkish parliament accepted a bill which could enable the release of up to 100,000 prisoners, including people responsible for deaths. However, the law excludes Turkey's around 50,000 [[2016–present purges in Turkey|political prisoners]],&lt;ref&gt;{{cite news |title=Turkey plans prisoner release, excluding those jailed on post-coup terrorism charges |url=https://www.reuters.com/article/us-health-coronavirus-turkey-prisoners/turkey-plans-prisoner-release-excluding-those-jailed-on-post-coup-terrorism-charges-idUSKBN21P1WW |agency=Reuters |date=7 April 2020}}&lt;/ref&gt; including journalists and human rights defenders, who are said to remain jailed despite overcrowding and unsanitary living conditions already posing severe health threat.&lt;ref&gt;{{cite web|url=https://www.amnesty.org/en/latest/news/2020/03/turkey-imprisoned-journalists-human-rights-defenders-and-others-now-at-risk-of-covid-19-must-be-urgently-released/|title=Turkey: Imprisoned journalists, human rights defenders and others, now at risk of Covid-19, must be urgently released|accessdate=30 March 2020|website=Amnesty International}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Turkey releasing murderers – but not political opponents – from prison amid coronavirus pandemic |url=https://theconversation.com/turkey-releasing-murderers-but-not-political-opponents-from-prison-amid-coronavirus-pandemic-136466 |work=[[The Conversation (website)]] |date=23 April 2020}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>Due to the COVID-19 pandemic, the Turkish parliament accepted a bill which could enable the release of up to 100,000 prisoners, including people responsible for deaths. However, the law excludes Turkey's around 50,000 political prisoners, including journalists and human rights defenders, who are said to remain jailed despite overcrowding and unsanitary living conditions already posing severe health threat.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: Due to the COVID-19 pandemic, the Turkish parliament accepted a bill which could enable the release of up to 100,000 prisoners, including people responsible for deaths. However, the law excludes Turkey's around 50,000 political prisoners,[16] including journalists and human rights defenders, who are said to remain jailed despite overcrowding and unsanitary living conditions already posing severe health threat.[17][18]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:07
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>The government of Turkmenistan outlawed the word "Coronavirus" on media.{{cite news|url=https://nypost.com/2020/03/31/turkmenistan-government-outlaws-use-of-word-coronavirus/|title=Turkmenistan government outlaws any mention of the word 'coronavirus'</div></td>
+Changed Text: <td class="diff-addedline"><div>The government of Turkmenistan outlawed the word "Coronavirus" on media.&lt;ref&gt;{{cite news|url=https://nypost.com/2020/03/31/turkmenistan-government-outlaws-use-of-word-coronavirus/|title=Turkmenistan government outlaws any mention of the word 'coronavirus'</div></td>
+Printed Text: <td class="diff-addedline"><div>The government of Turkmenistan outlawed the word "Coronavirus" on media.{{cite news|url=https://nypost.com/2020/03/31/turkmenistan-government-outlaws-use-of-word-coronavirus/|title=Turkmenistan government outlaws any mention of the word 'coronavirus'</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: The government of Turkmenistan outlawed the word "Coronavirus" on media.[19]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:08
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>Various [[social networking service|social networks]] applied anti-spam measures for content posted about SARS-CoV-2 and the pandemic. [[Facebook]] allegedly censored informative content about the virus. According to users, posts about the coronavirus from reliable sources of media were blocked and hidden from other users. Facebook claimed a bug was responsible for this, but conspiracies are circulating that this was done deliberately to suppress information.</div></td>
+Changed Text: <td class="diff-addedline"><div>Various [[social networking service|social networks]] applied anti-spam measures for content posted about SARS-CoV-2 and the pandemic. [[Facebook]] allegedly censored informative content about the virus. According to users, posts about the coronavirus from reliable sources of media were blocked and hidden from other users. Facebook claimed a bug was responsible for this, but conspiracies are circulating that this was done deliberately to suppress information.&lt;ref&gt;{{cite news|last1=Koetsier|first1=John|url=https://www.forbes.com/sites/johnkoetsier/2020/03/17/facebook-deleting-coronavirus-posts-leading-to-charges-of-censorship/#29a970be5962|title=Facebook Deleting Coronavirus Posts, Leading To Charges Of Censorship|date=17 March 2020|work=Forbes|last2=|first2=}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>Various social networks applied anti-spam measures for content posted about SARS-CoV-2 and the pandemic. Facebook allegedly censored informative content about the virus. According to users, posts about the coronavirus from reliable sources of media were blocked and hidden from other users. Facebook claimed a bug was responsible for this, but conspiracies are circulating that this was done deliberately to suppress information.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: Various social networks applied anti-spam measures for content posted about SARS-CoV-2 and the pandemic. Facebook allegedly censored informative content about the virus. According to users, posts about the coronavirus from reliable sources of media were blocked and hidden from other users. Facebook claimed a bug was responsible for this, but conspiracies are circulating that this was done deliberately to suppress information.[20]
+
+
+
+POST
+FUZZYWUZZY
+Title: Human rights issues related to the COVID-19 pandemic
+Date: 01/11/2020 10:45:08
+ID: 985379834
+Fulltext: <td class="diff-addedline"><div>[[YouTube]] demonetized several videos in which the term "corona" was used. The demonetization was cited under the rules of sensitive content.</div></td>
+Changed Text: <td class="diff-addedline"><div>[[YouTube]] demonetized several videos in which the term "corona" was used. The demonetization was cited under the rules of sensitive content.&lt;ref&gt;{{cite news|url=https://www.business-humanrights.org/en/youtube-reportedly-censors-videos-about-novel-coronavirus-by-removal-or-demonetization-company-says-they-fall-under-%E2%80%9Csensitive-topics%E2%80%9D|title=YouTube reportedly censors videos about novel coronavirus by removal or demonetization, company says they fall under 'sensitive topics'|date=20 March 2020|work=}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>YouTube demonetized several videos in which the term "corona" was used. The demonetization was cited under the rules of sensitive content.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=986017588&oldid=985379834
+Previous Link: https://en.wikipedia.org//w/index.php?title=Human_rights_issues_related_to_the_COVID-19_pandemic&diff=985379834&oldid=985379701
+Fuzzy: YouTube demonetized several videos in which the term "corona" was used. The demonetization was cited under the rules of sensitive content.[21]
+
+
+

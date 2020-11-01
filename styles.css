@@ -1,11 +1,9 @@
 body {
-  max-width: 450px;
+  max-width: 500px;
   font-family: monospace;
   font-size: x-large;
   text-align: center;
-  border: 1px solid #a3d3ff;
-  border-left: 4px solid#A3D3FF;
-  border-radius: 10px;
+  word-wrap: break-word;
 }
 
 p {
@@ -16,6 +14,16 @@ ins {
   text-decoration: none;
 }
 
+#header {
+  font-weight: bolder;
+}
+
 .diffchange-inline {
   background-color: #d8ecff;
+}
+
+.diff-addedline {
+  border: 1px solid #a3d3ff;
+  border-left: 4px solid#A3D3FF;
+  border-radius: 10px;
 }

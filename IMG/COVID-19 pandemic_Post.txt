@@ -1,0 +1,288 @@
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:33
+ID: 985386011
+Fulltext: <td class="diff-addedline"><div>A total of {{Cases in the COVID-19 pandemic|territories|editlink=}} countries and territories have had at least one case of COVID-19 so far. Due to the [[COVID-19 pandemic in Europe|pandemic in Europe]], many countries in the [[Schengen Area]] have restricted free movement and set up border controls. National reactions have included containment measures such as [[Curfews and lockdowns related to the COVID-19 pandemic|quarantines and curfews]] (known as [[stay-at-home orders]], shelter-in-place orders, or lockdowns).<ins class="diffchange diffchange-inline"> The WHO's recommendation on curfews and lockdowns is that they should be short-term measures to reorganize, regroup, rebalance resources, and protect health workers who are exhausted. To achieve a balance between restrictions and normal life, the long-term responses to the pandemic should consist of strict personal hygiene, effective contact tracing, and isolating when ill.{{cite web</ins></div></td>
+Changed Text: <td class="diff-addedline"><div>A total of {{Cases in the COVID-19 pandemic|territories|editlink=}} countries and territories have had at least one case of COVID-19 so far. Due to the [[COVID-19 pandemic in Europe|pandemic in Europe]], many countries in the [[Schengen Area]] have restricted free movement and set up border controls.&lt;ref name="iR2Oj"/&gt; National reactions have included containment measures such as [[Curfews and lockdowns related to the COVID-19 pandemic|quarantines and curfews]] (known as [[stay-at-home orders]], shelter-in-place orders, or lockdowns).&lt;ref name="IVdfl"/&gt;<ins class="diffchange diffchange-inline"> The WHO's recommendation on curfews and lockdowns is that they should be short-term measures to reorganize, regroup, rebalance resources, and protect health workers who are exhausted. To achieve a balance between restrictions and normal life, the long-term responses to the pandemic should consist of strict personal hygiene, effective contact tracing, and isolating when ill.&lt;ref&gt;{{cite web</ins></div></td>
+Printed Text: <td class="diff-addedline"><div>A total of {{Cases in the COVID-19 pandemic|territories|editlink=}} countries and territories have had at least one case of COVID-19 so far. Due to the pandemic in Europe, many countries in the Schengen Area have restricted free movement and set up border controls. National reactions have included containment measures such as quarantines and curfews (known as stay-at-home orders, shelter-in-place orders, or lockdowns).<ins class="diffchange diffchange-inline"> The WHO's recommendation on curfews and lockdowns is that they should be short-term measures to reorganize, regroup, rebalance resources, and protect health workers who are exhausted. To achieve a balance between restrictions and normal life, the long-term responses to the pandemic should consist of strict personal hygiene, effective contact tracing, and isolating when ill.{{cite web</ins></div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386011
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386011&oldid=985377116
+Fuzzy: COVID-19 pandemic
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:33
+ID: 985386011
+Fulltext: <td class="diff-addedline"><div> | url =https://www.abc.net.au/news/2020-10-12/world-health-organization-coronavirus-lockdown-advice/12753688</div></td>
+Changed Text: <td class="diff-addedline"><div> | url =https://www.abc.net.au/news/2020-10-12/world-health-organization-coronavirus-lockdown-advice/12753688</div></td>
+Printed Text: <td class="diff-addedline"><div> | url =https://www.abc.net.au/news/2020-10-12/world-health-organization-coronavirus-lockdown-advice/12753688</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386011
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386011&oldid=985377116
+Fuzzy: 2020
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:34
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>On 5 March 2020 the first confirmed case was announced, a South African returning from [[COVID-19 pandemic in Italy|Italy]]{{cite web</div></td>
+Changed Text: <td class="diff-addedline"><div>On 5 March 2020 the first confirmed case was announced, a South African returning from [[COVID-19 pandemic in Italy|Italy]]&lt;ref name="gov.za1"&gt;{{cite web</div></td>
+Printed Text: <td class="diff-addedline"><div>On 5 March 2020 the first confirmed case was announced, a South African returning from Italy{{cite web</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: COVID-19 pandemic
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:35
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|url=https://www.gov.za/speeches/health-reports-first-case-covid-19-coronavirus-5-mar-2020-0000</div></td>
+Changed Text: <td class="diff-addedline"><div>|url=https://www.gov.za/speeches/health-reports-first-case-covid-19-coronavirus-5-mar-2020-0000</div></td>
+Printed Text: <td class="diff-addedline"><div>|url=https://www.gov.za/speeches/health-reports-first-case-covid-19-coronavirus-5-mar-2020-0000</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: 2020
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:36
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200309062955/https://www.gov.za/speeches/health-reports-first-case-covid-19-coronavirus-5-mar-2020-0000</div></td>
+Changed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200309062955/https://www.gov.za/speeches/health-reports-first-case-covid-19-coronavirus-5-mar-2020-0000</div></td>
+Printed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200309062955/https://www.gov.za/speeches/health-reports-first-case-covid-19-coronavirus-5-mar-2020-0000</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: 2020
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:37
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|url=https://www.theguardian.com/global-development/2020/mar/16/african-nations-impose-stricter-measures-as-coronavirus-spreads</div></td>
+Changed Text: <td class="diff-addedline"><div>|url=https://www.theguardian.com/global-development/2020/mar/16/african-nations-impose-stricter-measures-as-coronavirus-spreads</div></td>
+Printed Text: <td class="diff-addedline"><div>|url=https://www.theguardian.com/global-development/2020/mar/16/african-nations-impose-stricter-measures-as-coronavirus-spreads</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: 2020
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:37
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200316215257/https://www.theguardian.com/global-development/2020/mar/16/african-nations-impose-stricter-measures-as-coronavirus-spreads</div></td>
+Changed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200316215257/https://www.theguardian.com/global-development/2020/mar/16/african-nations-impose-stricter-measures-as-coronavirus-spreads</div></td>
+Printed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200316215257/https://www.theguardian.com/global-development/2020/mar/16/african-nations-impose-stricter-measures-as-coronavirus-spreads</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: 2020
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:38
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|url=https://www.theguardian.com/world/2020/mar/25/coronavirus-cases-africa-pass-amid-fears-health-services-south-who</div></td>
+Changed Text: <td class="diff-addedline"><div>|url=https://www.theguardian.com/world/2020/mar/25/coronavirus-cases-africa-pass-amid-fears-health-services-south-who</div></td>
+Printed Text: <td class="diff-addedline"><div>|url=https://www.theguardian.com/world/2020/mar/25/coronavirus-cases-africa-pass-amid-fears-health-services-south-who</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: Cases
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:39
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|title=Coronavirus cases in Africa pass 2,400 amid fears for health services</div></td>
+Changed Text: <td class="diff-addedline"><div>|title=Coronavirus cases in Africa pass 2,400 amid fears for health services</div></td>
+Printed Text: <td class="diff-addedline"><div>|title=Coronavirus cases in Africa pass 2,400 amid fears for health services</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: Cases
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:40
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200325193740/https://www.theguardian.com/world/2020/mar/25/coronavirus-cases-africa-pass-amid-fears-health-services-south-who</div></td>
+Changed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200325193740/https://www.theguardian.com/world/2020/mar/25/coronavirus-cases-africa-pass-amid-fears-health-services-south-who</div></td>
+Printed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200325193740/https://www.theguardian.com/world/2020/mar/25/coronavirus-cases-africa-pass-amid-fears-health-services-south-who</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: Cases
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:41
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>}} From 1 May, a gradual and phased easing of the lockdown restrictions started, lowering the national alert [[COVID-19 pandemic in South Africa#Levels|level]] to 4,{{Cite web</div></td>
+Changed Text: <td class="diff-addedline"><div>}}&lt;/ref&gt; From 1 May, a gradual and phased easing of the lockdown restrictions started, lowering the national alert [[COVID-19 pandemic in South Africa#Levels|level]] to 4,&lt;ref name="sac2020-04-23ramaphosa"&gt;{{Cite web</div></td>
+Printed Text: <td class="diff-addedline"><div>}} From 1 May, a gradual and phased easing of the lockdown restrictions started, lowering the national alert level to 4,{{Cite web</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: COVID-19 pandemic
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:41
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|url=https://sacoronavirus.co.za/2020/04/23/statement-by-president-cyril-ramaphosa-on-south-africas-response-to-the-coronavirus-pandemic-union-buildings-tshwane/</div></td>
+Changed Text: <td class="diff-addedline"><div>|url=https://sacoronavirus.co.za/2020/04/23/statement-by-president-cyril-ramaphosa-on-south-africas-response-to-the-coronavirus-pandemic-union-buildings-tshwane/</div></td>
+Printed Text: <td class="diff-addedline"><div>|url=https://sacoronavirus.co.za/2020/04/23/statement-by-president-cyril-ramaphosa-on-south-africas-response-to-the-coronavirus-pandemic-union-buildings-tshwane/</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: 2020
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:42
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|title=Statement by president Cyril Ramaphosa on South Africa's response to the coronavirus pandemic, Union buildings, Tshwane</div></td>
+Changed Text: <td class="diff-addedline"><div>|title=Statement by president Cyril Ramaphosa on South Africa's response to the coronavirus pandemic, Union buildings, Tshwane</div></td>
+Printed Text: <td class="diff-addedline"><div>|title=Statement by president Cyril Ramaphosa on South Africa's response to the coronavirus pandemic, Union buildings, Tshwane</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: Africa
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:43
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200503124043/https://sacoronavirus.co.za/2020/04/23/statement-by-president-cyril-ramaphosa-on-south-africas-response-to-the-coronavirus-pandemic-union-buildings-tshwane/</div></td>
+Changed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200503124043/https://sacoronavirus.co.za/2020/04/23/statement-by-president-cyril-ramaphosa-on-south-africas-response-to-the-coronavirus-pandemic-union-buildings-tshwane/</div></td>
+Printed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200503124043/https://sacoronavirus.co.za/2020/04/23/statement-by-president-cyril-ramaphosa-on-south-africas-response-to-the-coronavirus-pandemic-union-buildings-tshwane/</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: 2020
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:44
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|url=https://www.gov.za/speeches/president-cyril-ramaphosa-developments-south-africa%E2%80%99s-risk-adjusted-strategy-manage-spread</div></td>
+Changed Text: <td class="diff-addedline"><div>|url=https://www.gov.za/speeches/president-cyril-ramaphosa-developments-south-africa%E2%80%99s-risk-adjusted-strategy-manage-spread</div></td>
+Printed Text: <td class="diff-addedline"><div>|url=https://www.gov.za/speeches/president-cyril-ramaphosa-developments-south-africa%E2%80%99s-risk-adjusted-strategy-manage-spread</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: Africa
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:45
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|title=President Cyril Ramaphosa: Developments in South Africa's risk-adjusted strategy to manage the spread of Coronavirus COVID-19</div></td>
+Changed Text: <td class="diff-addedline"><div>|title=President Cyril Ramaphosa: Developments in South Africa's risk-adjusted strategy to manage the spread of Coronavirus COVID-19</div></td>
+Printed Text: <td class="diff-addedline"><div>|title=President Cyril Ramaphosa: Developments in South Africa's risk-adjusted strategy to manage the spread of Coronavirus COVID-19</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: Africa
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:45
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200605192830/https://www.gov.za/speeches/president-cyril-ramaphosa-developments-south-africa%E2%80%99s-risk-adjusted-strategy-manage-spread</div></td>
+Changed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200605192830/https://www.gov.za/speeches/president-cyril-ramaphosa-developments-south-africa%E2%80%99s-risk-adjusted-strategy-manage-spread</div></td>
+Printed Text: <td class="diff-addedline"><div>|archive-url=https://web.archive.org/web/20200605192830/https://www.gov.za/speeches/president-cyril-ramaphosa-developments-south-africa%E2%80%99s-risk-adjusted-strategy-manage-spread</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: Africa
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:46
+ID: 985386762
+Fulltext: <td class="diff-addedline"><div>South Africa's infections doubled to 250,000 in the first two weeks of [[2020 in South Africa|July]] as public hospitals report shortages of [[Oxygen saturation (medicine)|medical oxygen]]. Treatment of coronavirus patients in South Africa is seen the most unequal in the world.</div></td>
+Changed Text: <td class="diff-addedline"><div>South Africa's infections doubled to 250,000 in the first two weeks of [[2020 in South Africa|July]] as public hospitals report shortages of [[Oxygen saturation (medicine)|medical oxygen]]. Treatment of coronavirus patients in South Africa is seen the most unequal in the world.&lt;ref name="inequality"&gt;{{cite web |title=Coronavirus Cases Spike in South Africa and India, Exposing Inequalities in Virus Treatment |url=https://time.com/5865891/global-coronavirus-treatment-inequality-south-africa-india/ |website=Time |accessdate=July 12, 2020}}&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>South Africa's infections doubled to 250,000 in the first two weeks of July as public hospitals report shortages of medical oxygen. Treatment of coronavirus patients in South Africa is seen the most unequal in the world.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=985386762
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=985386762&oldid=985386011
+Fuzzy: Treatment
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:47
+ID: 986134626
+Fulltext: <td class="diff-addedline"><div>The '''COVID-19 pandemic''', also known as the '''coronavirus pandemic''', is an ongoing [[pandemic]] of [[coronavirus disease 2019]] (COVID-19) caused by the transmission of<ins class="diffchange diffchange-inline"> the</ins> [[severe acute respiratory syndrome coronavirus 2]] (SARS-CoV-2),<ins class="diffchange diffchange-inline"> an  [[Infection#Contagiousness|extremely contagious]] [[Respiratory disease|respiratory]] and [[Vascular disease|vascular]] disease</ins> first identified in December 2019 in [[Wuhan]], China.<ins class="diffchange diffchange-inline"> [[Epidemiology|Epidemiological]] studies estimate each infection results in 5.7 new ones when no members of the community are [[Immunity (medical)|immune]] and are no [[Infection control|preventive measures]] taken.{{Cite journal|last=Sanche|first=Steven|last2=Lin|first2=Yen Ting|last3=Xu|first3=Chonggang|last4=Romero-Severson|first4=Ethan|last5=Hengartner|first5=Nick|last6=Ke|first6=Ruian|date=2020-07|title=High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2|url=http://wwwnc.cdc.gov/eid/article/26/7/20-0282_article.htm|journal=Emerging Infectious Diseases|volume=26|issue=7|pages=1470–1477|doi=10.3201/eid2607.200282|issn=1080-6040|pmc=PMC7323562|pmid=32255761}}&lt;/ref</ins>&gt; The outbreak was declared a [[Public Health Emergency of International Concern]] in January 2020 and a pandemic in March 2020. As of {{Cases in the COVID-19 pandemic|date|editlink=|ref=no}}, more than [[COVID-19 pandemic cases|&lt;!--These templates are updated regularly. DO NOT REPLACE THEM WITH STATIC FIGURES.--&gt;{{Cases in the COVID-19 pandemic|conround|editlink=|ref=no}} cases]] have been confirmed, with [[COVID-19 pandemic deaths|more than {{Cases in the COVID-19 pandemic|dround|editlink=|ref=no}} deaths]] attributed to COVID-19.{{Cases in the COVID-19 pandemic|ref=yes}}</div></td>
+Changed Text: <td class="diff-addedline"><div>The '''COVID-19 pandemic''', also known as the '''coronavirus pandemic''', is an ongoing [[pandemic]] of [[coronavirus disease 2019]] (COVID-19) caused by the transmission of<ins class="diffchange diffchange-inline"> the</ins> [[severe acute respiratory syndrome coronavirus 2]] (SARS-CoV-2),<ins class="diffchange diffchange-inline"> an  [[Infection#Contagiousness|extremely contagious]] [[Respiratory disease|respiratory]] and [[Vascular disease|vascular]] disease</ins> first identified in December 2019 in [[Wuhan]], China.&lt;ref name="auto" /<ins class="diffchange diffchange-inline">&gt;&lt;ref&gt;{{cite journal|year=2020|title=COVID-19 and vascular disease|journal=EBioMedicine|volume=58|page=102966|doi=10.1016/j.ebiom.2020.102966|pmc=7438984|pmid=32829782}}&lt;/ref&gt; [[Epidemiology|Epidemiological]] studies estimate each infection results in 5.7 new ones when no members of the community are [[Immunity (medical)|immune]] and are no [[Infection control|preventive measures]] taken.&lt;ref&gt;{{Cite journal|last=Sanche|first=Steven|last2=Lin|first2=Yen Ting|last3=Xu|first3=Chonggang|last4=Romero-Severson|first4=Ethan|last5=Hengartner|first5=Nick|last6=Ke|first6=Ruian|date=2020-07|title=High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2|url=http://wwwnc.cdc.gov/eid/article/26/7/20-0282_article.htm|journal=Emerging Infectious Diseases|volume=26|issue=7|pages=1470–1477|doi=10.3201/eid2607.200282|issn=1080-6040|pmc=PMC7323562|pmid=32255761}}&lt;/ref</ins>&gt; The outbreak was declared a [[Public Health Emergency of International Concern]] in January 2020 and a pandemic in March 2020. As of {{Cases in the COVID-19 pandemic|date|editlink=|ref=no}}, more than [[COVID-19 pandemic cases|&lt;!--These templates are updated regularly. DO NOT REPLACE THEM WITH STATIC FIGURES.--&gt;{{Cases in the COVID-19 pandemic|conround|editlink=|ref=no}} cases]] have been confirmed, with [[COVID-19 pandemic deaths|more than {{Cases in the COVID-19 pandemic|dround|editlink=|ref=no}} deaths]] attributed to COVID-19.{{Cases in the COVID-19 pandemic|ref=yes}}</div></td>
+Printed Text: <td class="diff-addedline"><div>The '''COVID-19 pandemic''', also known as the '''coronavirus pandemic''', is an ongoing pandemic of coronavirus disease 2019 (COVID-19) caused by the transmission of<ins class="diffchange diffchange-inline"> the</ins> severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),<ins class="diffchange diffchange-inline"> an  extremely contagious respiratory and vascular disease</ins> first identified in December 2019 in Wuhan, China.<ins class="diffchange diffchange-inline"> Epidemiological studies estimate each infection results in 5.7 new ones when no members of the community are immune and are no preventive measures taken.&lt;/ref</ins>&gt; The outbreak was declared a Public Health Emergency of International Concern in January 2020 and a pandemic in March 2020. As of {{Cases in the COVID-19 pandemic|date|editlink=|ref=no}}, more than [[COVID-19 pandemic cases|&lt;!--These templates are updated regularly. DO NOT REPLACE THEM WITH STATIC FIGURES.--&gt;{{Cases in the COVID-19 pandemic|conround|editlink=|ref=no}} cases]] have been confirmed, with [[COVID-19 pandemic deaths|more than {{Cases in the COVID-19 pandemic|dround|editlink=|ref=no}} deaths]] attributed to COVID-19.{{Cases in the COVID-19 pandemic|ref=yes}}</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=986134626
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986134626&oldid=986069814
+Fuzzy: COVID-19 pandemic
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:48
+ID: 986334985
+Fulltext: <td class="diff-addedline"><div>| image4 = <ins class="diffchange diffchange-inline">Temporary</ins> <ins class="diffchange diffchange-inline">graves</ins> <ins class="diffchange diffchange-inline">in</ins> <ins class="diffchange diffchange-inline">Iran</ins> <ins class="diffchange diffchange-inline">during</ins> <ins class="diffchange diffchange-inline">COVID-19</ins> <ins class="diffchange diffchange-inline">pandemic 1 cropped</ins>.jpg</div></td>
+Changed Text: <td class="diff-addedline"><div>| image4 = <ins class="diffchange diffchange-inline">Temporary</ins> <ins class="diffchange diffchange-inline">graves</ins> <ins class="diffchange diffchange-inline">in</ins> <ins class="diffchange diffchange-inline">Iran</ins> <ins class="diffchange diffchange-inline">during</ins> <ins class="diffchange diffchange-inline">COVID-19</ins> <ins class="diffchange diffchange-inline">pandemic 1 cropped</ins>.jpg</div></td>
+Printed Text: <td class="diff-addedline"><div>| image4 = <ins class="diffchange diffchange-inline">Temporary</ins> <ins class="diffchange diffchange-inline">graves</ins> <ins class="diffchange diffchange-inline">in</ins> <ins class="diffchange diffchange-inline">Iran</ins> <ins class="diffchange diffchange-inline">during</ins> <ins class="diffchange diffchange-inline">COVID-19</ins> <ins class="diffchange diffchange-inline">pandemic 1 cropped</ins>.jpg</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=986334985
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986334985&oldid=986333457
+Fuzzy: COVID-19 pandemic
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:49
+ID: 986334985
+Fulltext: <td class="diff-addedline"><div>More drastic actions aimed at containing the outbreak were taken in China once the severity of the outbreak became apparent, such as quarantining entire cities and imposing strict travel bans. Other countries also adopted a variety of measures aimed at limiting the spread of the virus. South Korea introduced mass screening and localised quarantines and issued alerts on the movements of infected individuals. Singapore provided financial support for those infected who quarantined themselves and imposed large fines for those who failed to do so<ins class="diffchange diffchange-inline">. Taiwan increased face mask production and penalised hoarding of medical supplies</ins>.</div></td>
+Changed Text: <td class="diff-addedline"><div>More drastic actions aimed at containing the outbreak were taken in China once the severity of the outbreak became apparent, such as quarantining entire cities and imposing strict travel bans.&lt;ref name="RwmYm"/&gt; Other countries also adopted a variety of measures aimed at limiting the spread of the virus. South Korea introduced mass screening and localised quarantines and issued alerts on the movements of infected individuals. Singapore provided financial support for those infected who quarantined themselves and imposed large fines for those who failed to do so<ins class="diffchange diffchange-inline">. Taiwan increased face mask production and penalised hoarding of medical supplies</ins>.&lt;ref name="shZdf"/&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>More drastic actions aimed at containing the outbreak were taken in China once the severity of the outbreak became apparent, such as quarantining entire cities and imposing strict travel bans. Other countries also adopted a variety of measures aimed at limiting the spread of the virus. South Korea introduced mass screening and localised quarantines and issued alerts on the movements of infected individuals. Singapore provided financial support for those infected who quarantined themselves and imposed large fines for those who failed to do so<ins class="diffchange diffchange-inline">. Taiwan increased face mask production and penalised hoarding of medical supplies</ins>.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=986334985
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986334985&oldid=986333457
+Fuzzy: 
+More
+
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic
+Date: 01/11/2020 10:42:50
+ID: 986334985
+Fulltext: <td class="diff-addedline"><div>{{As of|2020|4|30}}, cases have been reported in all Asian countries except for [[COVID-19 pandemic in Turkmenistan|Turkmenistan]] and [[COVID-19 pandemic in North Korea|North Korea]], although these countries likely also have cases. Despite being the first area of the world hit by the outbreak, the early wide-scale response of some Asian states<ins class="diffchange diffchange-inline">&lt;!-- Follow whatever word is used at Taiwan's article here. --&gt;</ins>, particularly [[COVID-19 pandemic in Mongolia|Mongolia]], [[COVID-19 pandemic in South Korea|South Korea]], has allowed them to fare comparatively well.</div></td>
+Changed Text: <td class="diff-addedline"><div>{{As of|2020|4|30}},&lt;ref name="Tajik1st"&gt;{{cite web |url=https://www.reuters.com/article/idUSL8N2CI5KW |title=UPDATE 1-Tajikistan confirms first coronavirus cases |website=[[Reuters|www.reuters.com]]|last=Pirnazarov |first=Nazarali |date=30 April 2020 |access-date=29 October 2020}}&lt;/ref&gt; cases have been reported in all Asian countries except for [[COVID-19 pandemic in Turkmenistan|Turkmenistan]] and [[COVID-19 pandemic in North Korea|North Korea]], although these countries likely also have cases.&lt;ref name="bbc52186521"&gt;{{cite news |url=https://www.bbc.com/news/world-asia-52186521 |title=Coronavirus: Why has Turkmenistan reported no cases? |first1=Abdujalil |last1=Abdurasulov |name-list-style=vanc |date=7 April 2020 |work=BBC News}}&lt;/ref&gt;&lt;ref name="bbc52146989"&gt;{{Cite news |url=https://www.bbc.com/news/world-asia-52146989 |title=Scepticism over N Korea's claim to be virus free |first1=Yvette |last1=Tan |work=BBC News |date=3 April 2020 |name-list-style=vanc}}&lt;/ref&gt; Despite being the first area of the world hit by the outbreak, the early wide-scale response of some Asian states<ins class="diffchange diffchange-inline">&lt;!-- Follow whatever word is used at Taiwan's article here. --&gt;</ins>, particularly [[COVID-19 pandemic in Mongolia|Mongolia]],&lt;ref&gt;{{Cite journal|url=https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30295-3/abstract|title=Early policy actions and emergency response to the COVID-19 pandemic in Mongolia: experiences and challenges|first1=Ryenchindorj|last1=Erkhembayar|first2=Emma|last2=Dickinson|first3=Darmaa|last3=Badarch|first4=Indermohan|last4=Narula|first5=Graham Neil|last5=Thomas|first6=Chimedsuren|last6=Ochir|first7=Semira|last7=Manaseki-Holland|date=23 July 2020|journal=The Lancet Global Health|volume=0|issue=9|pages=e1234–e1241|access-date=18 August 2020|via=www.thelancet.com|doi=10.1016/S2214-109X(20)30295-3|pmid=32711684|pmc=7377809}}&lt;/ref&gt; [[COVID-19 pandemic in South Korea|South Korea]],&lt;ref name="science20200317"/<ins class="diffchange diffchange-inline">&gt; [[COVID-19 pandemic in Taiwan|Taiwan]],&lt;ref name="Nation Taiwan"&gt;{{cite news |last1=Chan |first1=Wilfred |title=The WHO Ignores Taiwan. The World Pays the Price. |url=https://www.thenation.com/article/world/taiwan-who-coronavirus-china/ |access-date=24 May 2020 |work=The Nation |date=3 April 2020}}&lt;/ref</ins>&gt; and [[COVID-19 pandemic in Vietnam|Vietnam]],&lt;ref name="7news973119"&gt;{{cite news |url=https://7news.com.au/lifestyle/health-wellbeing/vietnam-praised-for-no-coronavirus-deaths-c-973119 |title=Vietnam's response to coronavirus crisis earns praise from WHO |last1=Humphrey |first1=Chris |last2=Pham |first2=Bac |date=14 April 2020 |work=7News |access-date=17 April 2020}}&lt;/ref&gt; has allowed them to fare comparatively well.</div></td>
+Printed Text: <td class="diff-addedline"><div>{{As of|2020|4|30}}, cases have been reported in all Asian countries except for Turkmenistan and North Korea, although these countries likely also have cases. Despite being the first area of the world hit by the outbreak, the early wide-scale response of some Asian states<ins class="diffchange diffchange-inline">&lt;!-- Follow whatever word is used at Taiwan's article here. --&gt;</ins>, particularly Mongolia, South Korea, has allowed them to fare comparatively well.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986531654&oldid=986334985
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic&diff=986334985&oldid=986333457
+Fuzzy: COVID-19 pandemic
+
+

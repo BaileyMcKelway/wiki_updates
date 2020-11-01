@@ -29,7 +29,6 @@ class WikiUpdate:
                        'COVID-19_pandemic_in_India',
                        'COVID-19_pandemic_in_Russia',
                        'COVID-19_pandemic_in_South_Africa',
-                       'COVID-19_pandemic_in_Peru',
                        'COVID-19_pandemic_in_Mexico',
                        'COVID-19_pandemic_in_Chile',
                        'COVID-19_pandemic_in_the_United_Kingdom',
@@ -40,7 +39,15 @@ class WikiUpdate:
                        'Coronavirus_disease_2019',
                        'Coronavirus_disease',
                        'COVID-19_recession',
-                       'List_of_unproven_methods_against_COVID-19']
+                       'Misinformation_related_to_the_COVID-19_pandemic',
+                       'COVID-19_drug_development',
+                       'Impact_of_the_COVID-19_pandemic_on_science_and_technology',
+                       'Impact_of_the_COVID-19_pandemic_on_the_environment',
+                       'Impact_of_the_COVID-19_pandemic_on_politics',
+                       'Financial_market_impact_of_the_COVID-19_pandemic',
+                       'Impact_of_the_COVID-19_pandemic_on_social_media',
+                       'Mental_health_during_the_COVID-19_pandemic',
+                       'Human_rights_issues_related_to_the_COVID-19_pandemic']
 
         self.mostRecent = {}
         self.queue = []
@@ -97,11 +104,11 @@ class WikiUpdate:
                 allRevisions = []
                 startChecking = False
 
-                self.queue.append(revisionAll)
+            self.queue.append(revisionAll)
 
-            # if len(self.queue) >= 5:
+            if len(self.queue) >= 5:
                 self.checkDeleted()
-
+            print(self.queue)
             # time.sleep(3600)
 
     def addQueue(self, curr):
@@ -121,6 +128,7 @@ class WikiUpdate:
             # find table
             revisionId = curr['data-mw-revid']
             title = soup.find("h1", id="firstHeading").get_text().split(":")[0]
+            date = soup.find(id="mw-diff-ntitle1").strong.a.get_text()
             table = soup.find('table')
             tableRows = table.find_all('tr')
 
@@ -137,38 +145,51 @@ class WikiUpdate:
                     continue
 
                 addedLineCleaned = str(addedLine)
-
                 clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
-                addedLineCleaned = re.sub(clean, '', addedLineCleaned)
+                w = re.findall(clean, addedLineCleaned)
+
+                clean = re.compile('&lt;ref.*?/&gt;')
+                x = re.findall(clean, addedLineCleaned)
+
+                clean = re.compile('&lt;ref.*?&gt;')
+                y = re.findall(clean, addedLineCleaned)
+
+                clean = re.compile('&lt;/ref&gt;')
+                z = re.findall(clean, addedLineCleaned)
+
+                refs = w + x + y + z
+
+                for ref in refs:
+                    ins = re.findall('(<ins|</ins>)', ref)
+                    length = len(ins) - 1
+                    if length == - 1:
+                        addedLineCleaned = addedLineCleaned.replace(ref, '')
+                    elif ins[0] == '</ins>' and ins[length] == '<ins':
+                        i = '</ins><ins class="diffchange diffchange-inline">'
+                        addedLineCleaned = addedLineCleaned.replace(ref, i)
+                    elif ins[0] == '</ins>':
+                        i = '</ins>'
+                        addedLineCleaned = addedLineCleaned.replace(ref, i)
+                    elif ins[length] == '<ins':
+                        i = '<ins class="diffchange diffchange-inline">'
+                        addedLineCleaned = addedLineCleaned.replace(ref, i)
+                    else:
+                        addedLineCleaned = addedLineCleaned.replace(ref, '')
+
+                if(addedLineCleaned.find('*') != -1):
+                    continue
+
+                if(addedLineCleaned.find('[[File') != -1):
+                    continue
+
+                if(len(addedLineCleaned.split(" ")) == 1):
+                    continue
+
                 addedLineCleaned = BeautifulSoup(
                     addedLineCleaned, 'html.parser')
 
                 highlightedLines = addedLineCleaned.find_all(
                     'ins', {"class": "diffchange-inline"})
-
-                # # Temp file maker
-                # pre = str(addedLine)
-                # now = datetime.now()
-                # dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-                # fileName = title + "_Pre" + '.txt'
-                # f = open(fileName, "a")
-                # f.write("PRE")
-                # f.write('\n')
-                # f.write("Title: " + title)
-                # f.write('\n')
-                # f.write("Date: " + dt_string)
-                # f.write('\n')
-                # f.write("ID: " + revisionId)
-                # f.write('\n')
-                # f.write('FULLTEXT: ' + pre)
-                # f.write('\n')
-                # f.write("Current Link: " + curHref)
-                # f.write('\n')
-                # f.write("Previous Link: " + prevHref)
-                # f.write('\n')
-                # f.write('\n')
-                # f.write('\n')
-                # f.close()
 
                 # Determines if edit is substantial
                 maxLength = 0
@@ -179,13 +200,14 @@ class WikiUpdate:
                         highlightedLine = highlightedLines[i]
                         maxLength += len(highlightedLine.get_text())
 
-                if maxLength <= 30:
+                if maxLength <= 40:
                     continue
 
                 revision = {
                     'revisionId': revisionId,
+                    'date': date,
                     'title': title,
-                    'fullText': str(addedLineCleaned.get_text()),
+                    'fullText': str(addedLineCleaned),
                     'changedText': str(addedLine),
                     'curLink': curHref,
                     'prevLink': prevHref
@@ -195,115 +217,119 @@ class WikiUpdate:
 
     def checkDeleted(self):
         checkRevisions = self.queue.pop(0)
+        i = 0
         for title in self.titles:
             mainUrl = 'https://en.wikipedia.org/wiki/' + title
             article = requests.get(mainUrl, self.headers)
             urlsoup = BeautifulSoup(article.content, 'lxml')
 
-            paragraphs = urlsoup.find_all('p')
+            paragraphs = urlsoup.find_all(['p', 'h1', 'h2', 'h3'])
             for i in range(len(paragraphs)):
-                paragraphs[i] = paragraphs[i].text
+                text = paragraphs[i].text
+                element = paragraphs[i]
+                paragraphs[i] = {'text': text, 'element': element}
 
             if title in checkRevisions:
                 checkCurrentTitle = checkRevisions[title]
                 for revision in checkCurrentTitle:
                     query = revision['fullText']
                     fuzzyMatches = []
-                    for paragraph in paragraphs:
+                    for i in range(len(paragraphs)):
+                        paragraph = paragraphs[i]
                         Token_Set_Ratio = fuzz.token_set_ratio(
-                            query, paragraph)
+                            query, paragraph['text'])
                         fuzzyRes = {
-                            'paragraph': paragraph,
-                            'Token_Set_Ratio': Token_Set_Ratio
+                            'paragraph': paragraph['text'],
+                            'Token_Set_Ratio': Token_Set_Ratio,
+                            'index': i
                         }
                         fuzzyMatches.append(fuzzyRes)
 
-                    # fuzzy = process.extract(
-                    #     query, paragraphs, limit=3, scorer='ratio')
                     fuzzyMatches = sorted(
                         fuzzyMatches, key=lambda i: i['Token_Set_Ratio'], reverse=True)
-                    # if(fuzzy[0][1] > 50):
-                    #     # Temp file maker
-                    #     now = datetime.now()
-                    #     dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-                    #     fileName = title + "_Post" + '.txt'
-                    #     f = open(fileName, "a")
-                    #     f.write("POST")
-                    #     f.write('\n')
-                    #     f.write("FUZZY_MATCHER")
-                    #     f.write('\n')
-                    #     f.write("Title: " + title)
-                    #     f.write('\n')
-                    #     f.write("Date: " + dt_string)
-                    #     f.write('\n')
-                    #     f.write("ID: " + revision['revisionId'])
-                    #     f.write('\n')
-                    #     f.write(revision['fullText'])
-                    #     f.write('\n')
-                    #     f.write(revision['changedText'])
-                    #     f.write('\n')
-                    #     f.write("Current Link: " + revision['curLink'])
-                    #     f.write('\n')
-                    #     f.write("Previous Link: " + revision['prevLink'])
-                    #     f.write('\n')
-                    #     f.write("Fuzzy: " + fuzzy[0][0])
-                    #     f.write('\n')
-                    #     f.write('\n')
-                    #     f.write('\n')
-                    #     f.close()
+
                     if(fuzzyMatches[0]['Token_Set_Ratio'] >= 85):
-                        options = {'width': 475,
+                        options = {'width': 525,
                                    'disable-smart-width': '', 'quality': 100}
                         css = 'styles.css'
 
-                        fullText = revision['changedText']
-                        clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
-                        fullText = re.sub(clean, '', fullText)
+                        changedText = revision['fullText']
 
-                        fileName = revision['revisionId'] + ".jpg"
-                        mainTitles = '''<h2>Article: ARTICLE_NAME</h2><h5>Title_____</h5>'''
+                        if(changedText.find('|{{') != -1):
+                            continue
+
+                        clean = re.compile('{{(c|C)ite.*?}}')
+                        changedText = re.sub(clean, '', changedText)
+
+                        brackets = re.findall(r'\[\[(.*?)\]\]', changedText)
+                        for i in range(len(brackets)):
+                            split = brackets[i].split('|')
+                            name = split[1] if len(split) > 1 else split[0]
+
+                            search = '[[' + split[0] + \
+                                '|' + \
+                                split[1] + \
+                                ']]' if len(
+                                split) > 1 else '[[' + split[0] + ']]'
+
+                            changedText = changedText.replace(search, name)
+                        if len(changedText) < 90:
+                            continue
+
+                        fileName = revision['revisionId'] + str(i) + ".jpg"
+                        date = revision['date']
+                        i += 1
+                        # FIND TITLE
+                        title = re.sub('_', ' ', title)
+                        subTitle = self.findTitle(fuzzyMatches[0], paragraphs)
+                        mainTitles = '''<div id="header"><p>Article: {}</p><p>Title: {}</p><p>{}</p></div>'''.format(
+                            title, subTitle, date)
                         html = '''<html lang="en">
-<head>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-type">
-    <meta content="jpg" name="imgkit-format">   
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-    <body>
-        {}
-        {}
-    </body>
-</html>'''.format(mainTitles, fullText)
+                                    <head>
+                                        <meta content="text/html; charset=utf-8" http-equiv="Content-type">
+                                        <meta content="jpg" name="imgkit-format">   
+                                        <meta charset="UTF-8">
+                                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                    </head>
+                                    <body>
+                                        {}
+                                        <div class="diff-addedline">
+                                        {}
+                                        </div>
+                                    </body>
+                                </html>'''.format(mainTitles, changedText)
                         imgkit.from_string(html, fileName,
                                            options=options, css=css)
                         # # Temp file maker
-                        # now = datetime.now()
-                        # dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-                        # fileName = title + "_Post" + '.txt'
-                        # f = open(fileName, "a")
-                        # f.write("POST")
-                        # f.write('\n')
-                        # f.write("FUZZYWUZZY")
-                        # f.write('\n')
-                        # f.write("Title: " + title)
-                        # f.write('\n')
-                        # f.write("Date: " + dt_string)
-                        # f.write('\n')
-                        # f.write("ID: " + revision['revisionId'])
-                        # f.write('\n')
-                        # f.write(revision['fullText'])
-                        # f.write('\n')
-                        # f.write(revision['changedText'])
-                        # f.write('\n')
-                        # f.write("Current Link: " + revision['curLink'])
-                        # f.write('\n')
-                        # f.write("Previous Link: " + revision['prevLink'])
-                        # f.write('\n')
-                        # f.write("Fuzzy: " + fuzzyMatches[0]['paragraph'])
-                        # f.write('\n')
-                        # f.write('\n')
-                        # f.write('\n')
-                        # f.close()
+                        now = datetime.now()
+                        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+                        fileName = title + "_Post" + '.txt'
+                        f = open(fileName, "a")
+                        f.write("POST")
+                        f.write('\n')
+                        f.write("FUZZYWUZZY")
+                        f.write('\n')
+                        f.write("Title: " + title)
+                        f.write('\n')
+                        f.write("Date: " + dt_string)
+                        f.write('\n')
+                        f.write("ID: " + revision['revisionId'])
+                        f.write('\n')
+                        f.write('Fulltext: ' + revision['fullText'])
+                        f.write('\n')
+                        f.write('Changed Text: ' + revision['changedText'])
+                        f.write('\n')
+                        f.write('Printed Text: ' + changedText)
+                        f.write('\n')
+                        f.write("Current Link: " + revision['curLink'])
+                        f.write('\n')
+                        f.write("Previous Link: " + revision['prevLink'])
+                        f.write('\n')
+                        f.write("Fuzzy: " + fuzzyMatches[0]['paragraph'])
+                        f.write('\n')
+                        f.write('\n')
+                        f.write('\n')
+                        f.close()
 
     def checkSize(self, curr):
         diffBytes = curr.find_all(
@@ -315,6 +341,19 @@ class WikiUpdate:
             return int(size) >= 300
         else:
             return
+
+    def findTitle(self, match, paragraphs):
+        i = match['index']
+        while(i >= 0):
+            currTag = paragraphs[i]['element'].name
+            if(currTag == 'h1' or currTag == 'h2' or currTag == 'h3'):
+                if paragraphs[i]['element'].span != None:
+                    return paragraphs[i]['element'].span.get_text()
+                else:
+                    return paragraphs[i]['element'].get_text()
+            i -= 1
+
+        return
 
 
 Scraper = WikiUpdate()

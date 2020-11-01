@@ -1,0 +1,29 @@
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic in Russia
+Date: 01/11/2020 10:41:54
+ID: 981836817
+Fulltext: <td class="diff-addedline"><div>On 2 October, it was published that in total, more than 45,000 people died with coronavirus in Russia. The fatality rate in Russia is 4,6% At the end of the august 2020.</div></td>
+Changed Text: <td class="diff-addedline"><div>On 2 October, it was published that in total, more than 45,000 people died with coronavirus in Russia. The fatality rate in Russia is 4,6% At the end of the august 2020.&lt;ref&gt;https://www.rbc.ru/economics/02/10/2020/5f771fd19a794716a5dce126&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>On 2 October, it was published that in total, more than 45,000 people died with coronavirus in Russia. The fatality rate in Russia is 4,6% At the end of the august 2020.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Russia&diff=986347138&oldid=981836817
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Russia&diff=981836817&oldid=981836298
+Fuzzy: 
+More
+
+
+
+POST
+FUZZYWUZZY
+Title: COVID-19 pandemic in Russia
+Date: 01/11/2020 10:41:55
+ID: 981836817
+Fulltext: <td class="diff-addedline"><div>On 4 October there were confirmed 10,499 and it was the highest number since May 2020.</div></td>
+Changed Text: <td class="diff-addedline"><div>On 4 October there were confirmed 10,499 and it was the highest number since May 2020.&lt;ref&gt;https://стопкоронавирус.рф&lt;/ref&gt;</div></td>
+Printed Text: <td class="diff-addedline"><div>On 4 October there were confirmed 10,499 and it was the highest number since May 2020.</div></td>
+Current Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Russia&diff=986347138&oldid=981836817
+Previous Link: https://en.wikipedia.org//w/index.php?title=COVID-19_pandemic_in_Russia&diff=981836817&oldid=981836298
+Fuzzy: On 4 October there were confirmed 10,499 and it was the highest number since May 2020.[89]
+
+
+
