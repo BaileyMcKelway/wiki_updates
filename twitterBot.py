@@ -11,4 +11,4 @@ auth.set_access_token(token, tokenSecret)
 
 api = tweepy.API(auth)
 api.update_with_media(
-    './985417966.jpg', 'https://en.wikipedia.org//w/index.php?title=National_responses_to_the_COVID-19_pandemic&diff=985417966&oldid=985052321')
+    './out.jpg')

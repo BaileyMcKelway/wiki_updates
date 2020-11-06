@@ -1,6 +1,7 @@
 import re
 import requests
 import imgkit
+import tweepy
 import time
 import sys
 from bs4 import BeautifulSoup
@@ -8,6 +9,15 @@ from datetime import datetime
 from fuzzy_matcher import process
 from datetime import datetime
 from fuzzywuzzy import fuzz
+
+key = 'NSkKvBJI7UHeUdWAlvsYknQEm'
+secret = 'oBD3k0uczP5nkTcVnNkmKkuF0tel4vtAzYEHQHSj7gHRdmP1kG'
+
+token = '1321211489278173186-9GrEzJ3CT1XKEhS1wEav2FiFBAVCKj'
+tokenSecret = '2cqLHWi9vE6hDeLOKobZFDD3h5NnUIR24biOCTxDVbLAu'
+
+auth = tweepy.OAuthHandler(key, secret)
+auth.set_access_token(token, tokenSecret)
 
 
 class WikiUpdate:
@@ -51,6 +61,7 @@ class WikiUpdate:
 
         self.mostRecent = {}
         self.queue = []
+        self.api = tweepy.API(auth)
 
     def mainFunc(self):
         while True:
@@ -108,7 +119,7 @@ class WikiUpdate:
 
             if len(self.queue) >= 5:
                 self.checkDeleted()
-            print(self.queue)
+
             # time.sleep(3600)
 
     def addQueue(self, curr):
@@ -217,6 +228,7 @@ class WikiUpdate:
 
     def checkDeleted(self):
         checkRevisions = self.queue.pop(0)
+        final = []
         i = 0
         for title in self.titles:
             mainUrl = 'https://en.wikipedia.org/wiki/' + title
@@ -278,6 +290,7 @@ class WikiUpdate:
 
                         fileName = revision['revisionId'] + str(i) + ".jpg"
                         date = revision['date']
+                        dateStrip = date.split('of')[1]
                         i += 1
                         # FIND TITLE
                         title = re.sub('_', ' ', title)
@@ -298,38 +311,16 @@ class WikiUpdate:
                                         </div>
                                     </body>
                                 </html>'''.format(mainTitles, changedText)
-                        imgkit.from_string(html, fileName,
-                                           options=options, css=css)
-                        # # Temp file maker
-                        now = datetime.now()
-                        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-                        fileName = title + "_Post" + '.txt'
-                        f = open(fileName, "a")
-                        f.write("POST")
-                        f.write('\n')
-                        f.write("FUZZYWUZZY")
-                        f.write('\n')
-                        f.write("Title: " + title)
-                        f.write('\n')
-                        f.write("Date: " + dt_string)
-                        f.write('\n')
-                        f.write("ID: " + revision['revisionId'])
-                        f.write('\n')
-                        f.write('Fulltext: ' + revision['fullText'])
-                        f.write('\n')
-                        f.write('Changed Text: ' + revision['changedText'])
-                        f.write('\n')
-                        f.write('Printed Text: ' + changedText)
-                        f.write('\n')
-                        f.write("Current Link: " + revision['curLink'])
-                        f.write('\n')
-                        f.write("Previous Link: " + revision['prevLink'])
-                        f.write('\n')
-                        f.write("Fuzzy: " + fuzzyMatches[0]['paragraph'])
-                        f.write('\n')
-                        f.write('\n')
-                        f.write('\n')
-                        f.close()
+                        res = {'html': html, 'date': dateStrip}
+
+                        final.append(res)
+
+        final.sort(key=lambda each_dict: datetime.strptime(
+            each_dict['date'], ' %H:%M, %d %B %Y'))
+        for tweet in final:
+            html = tweet['html']
+            imgkit.from_string(html, 'out.jpg', options=options, css=css)
+            self.api.update_with_media('./out.jpg')
 
     def checkSize(self, curr):
         diffBytes = curr.find_all(
