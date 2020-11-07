@@ -9,41 +9,6 @@ from datetime import datetime
 from datetime import datetime
 from fuzzywuzzy import fuzz
 
-key = 'NSkKvBJI7UHeUdWAlvsYknQEm'
-secret = 'oBD3k0uczP5nkTcVnNkmKkuF0tel4vtAzYEHQHSj7gHRdmP1kG'
-
-token = '1321211489278173186-9GrEzJ3CT1XKEhS1wEav2FiFBAVCKj'
-tokenSecret = '2cqLHWi9vE6hDeLOKobZFDD3h5NnUIR24biOCTxDVbLAu'
-
-
-wikiTitles = ['National_responses_to_the_COVID-19_pandemic',
-              'COVID-19_vaccine',
-              'Workplace_hazard_controls_for_COVID-19',
-              'COVID-19_pandemic_in_the_United_States',
-              'COVID-19_pandemic_in_Brazil',
-              'COVID-19_pandemic_in_India',
-              'COVID-19_pandemic_in_Russia',
-              'COVID-19_pandemic_in_South_Africa',
-              'COVID-19_pandemic_in_Mexico',
-              'COVID-19_pandemic_in_Chile',
-              'COVID-19_pandemic_in_the_United_Kingdom',
-              'COVID-19_pandemic_in_Iran',
-              'Severe_acute_respiratory_syndrome_coronavirus_2',
-              'Coronavirus',
-              'COVID-19_pandemic',
-              'Coronavirus_disease_2019',
-              'Coronavirus_disease',
-              'COVID-19_recession',
-              'Misinformation_related_to_the_COVID-19_pandemic',
-              'COVID-19_drug_development',
-              'Impact_of_the_COVID-19_pandemic_on_science_and_technology',
-              'Impact_of_the_COVID-19_pandemic_on_the_environment',
-              'Impact_of_the_COVID-19_pandemic_on_politics',
-              'Financial_market_impact_of_the_COVID-19_pandemic',
-              'Impact_of_the_COVID-19_pandemic_on_social_media',
-              'Mental_health_during_the_COVID-19_pandemic',
-              'Human_rights_issues_related_to_the_COVID-19_pandemic']
-
 
 class WikiUpdate:
 
@@ -161,39 +126,13 @@ class WikiUpdate:
                 if addedLine != None and addedLine.find('div') == None or addedLine == None:
                     continue
 
-                # Finds references from text
                 addedLineCleaned = str(addedLine)
-                clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
-                w = re.findall(clean, addedLineCleaned)
 
-                clean = re.compile('&lt;ref.*?/&gt;')
-                x = re.findall(clean, addedLineCleaned)
-
-                clean = re.compile('&lt;ref.*?&gt;')
-                y = re.findall(clean, addedLineCleaned)
-
-                clean = re.compile('&lt;/ref&gt;')
-                z = re.findall(clean, addedLineCleaned)
-
-                refs = w + x + y + z
+                # Finds refs in addedline
+                refs = self.findRef(addedLineCleaned)
 
                 # Preserves text highlighting that extends from inside a ref tag out to plain text
-                for ref in refs:
-                    ins = re.findall('(<ins|</ins>)', ref)
-                    length = len(ins) - 1
-                    if length == - 1:
-                        addedLineCleaned = addedLineCleaned.replace(ref, '')
-                    elif ins[0] == '</ins>' and ins[length] == '<ins':
-                        i = '</ins><ins class="diffchange diffchange-inline">'
-                        addedLineCleaned = addedLineCleaned.replace(ref, i)
-                    elif ins[0] == '</ins>':
-                        i = '</ins>'
-                        addedLineCleaned = addedLineCleaned.replace(ref, i)
-                    elif ins[length] == '<ins':
-                        i = '<ins class="diffchange diffchange-inline">'
-                        addedLineCleaned = addedLineCleaned.replace(ref, i)
-                    else:
-                        addedLineCleaned = addedLineCleaned.replace(ref, '')
+                addedLineCleaned = self.removeRef(refs, addedLineCleaned)
 
                 # Filtering unwanted text
                 if(addedLineCleaned.find('*') != -1):
@@ -211,13 +150,9 @@ class WikiUpdate:
                 # Determines if edit is substantial based off of the amount of text highlighted
                 highlightedLines = addedLineCleaned.find_all(
                     'ins', {"class": "diffchange-inline"})
-                maxLength = 0
-                if len(highlightedLines) == 0 and deletedLine == None:
-                    maxLength += len(addedLineCleaned.get_text())
-                else:
-                    for i in range(len(highlightedLines)):
-                        highlightedLine = highlightedLines[i]
-                        maxLength += len(highlightedLine.get_text())
+
+                maxLength = self.getMaxLength(
+                    highlightedLines, addedLineCleaned, deletedLine)
 
                 if maxLength <= 40:
                     continue
@@ -239,7 +174,6 @@ class WikiUpdate:
         i = 0
         final = []
         checkRevisions = self.queue.pop(0)
-
         # Loops through titles checking if current title has revisions added to queue
         for title in self.titles:
             mainUrl = 'https://en.wikipedia.org/wiki/' + title
@@ -247,11 +181,8 @@ class WikiUpdate:
             urlsoup = BeautifulSoup(article.content, 'lxml')
 
             # Scrapes text from current title article
-            paragraphs = urlsoup.find_all(['p', 'h1', 'h2', 'h3'])
-            for i in range(len(paragraphs)):
-                text = paragraphs[i].text
-                element = paragraphs[i]
-                paragraphs[i] = {'text': text, 'element': element}
+            paragraphs = self.getText(
+                urlsoup.find_all(['p', 'h1', 'h2', 'h3']))
 
             if title in checkRevisions:
                 checkCurrentTitle = checkRevisions[title]
@@ -278,30 +209,23 @@ class WikiUpdate:
                     fuzzyMatches = sorted(
                         fuzzyMatches, key=lambda i: i['Token_Set_Ratio'], reverse=True)
                     if(fuzzyMatches[0]['Token_Set_Ratio'] >= 85):
+
                         options = {'width': 525,
                                    'disable-smart-width': '', 'quality': 100}
                         css = 'styles.css'
 
                         # Filtering out citations
                         changedText = revision['fullText']
-                        if(changedText.find('|{{') != -1):
-                            continue
+
                         clean = re.compile('{{(c|C)ite.*?}}')
                         changedText = re.sub(clean, '', changedText)
 
+                        if(changedText.find('|{{') != -1):
+                            continue
+
                         # Handles link formating
-                        brackets = re.findall(r'\[\[(.*?)\]\]', changedText)
-                        for i in range(len(brackets)):
-                            split = brackets[i].split('|')
-                            name = split[1] if len(split) > 1 else split[0]
+                        changedText = self.getNameInLink(changedText)
 
-                            search = '[[' + split[0] + \
-                                '|' + \
-                                split[1] + \
-                                ']]' if len(
-                                split) > 1 else '[[' + split[0] + ']]'
-
-                            changedText = changedText.replace(search, name)
                         if len(changedText) < 90:
                             continue
 
@@ -318,7 +242,7 @@ class WikiUpdate:
                         html = '''<html lang="en">
                                     <head>
                                         <meta content="text/html; charset=utf-8" http-equiv="Content-type">
-                                        <meta content="jpg" name="imgkit-format">   
+                                        <meta content="jpg" name="imgkit-format">
                                         <meta charset="UTF-8">
                                         <meta name="viewport" content="width=device-width, initial-scale=1.0">
                                     </head>
@@ -329,8 +253,8 @@ class WikiUpdate:
                                         </div>
                                     </body>
                                 </html>'''.format(mainTitles, changedText)
-                        res = {'html': html, 'date': dateStrip}
 
+                        res = {'html': html, 'date': dateStrip}
                         final.append(res)
 
         # Sorts revisions by date creates from earliest to most recent
@@ -367,7 +291,109 @@ class WikiUpdate:
 
         return
 
+    # Finds references from text
+    def findRef(self, addedLineCleaned):
+        clean = re.compile('&lt;ref.*?&lt;/ref&gt;')
+        w = re.findall(clean, addedLineCleaned)
 
-Scraper = WikiUpdate()
+        clean = re.compile('&lt;ref.*?/&gt;')
+        x = re.findall(clean, addedLineCleaned)
+
+        clean = re.compile('&lt;ref.*?&gt;')
+        y = re.findall(clean, addedLineCleaned)
+
+        clean = re.compile('&lt;/ref&gt;')
+        z = re.findall(clean, addedLineCleaned)
+
+        refs = w + x + y + z
+        return refs
+
+    # Preserves text highlighting that extends from inside a ref tag out to plain text
+    def removeRef(self, refs, addedLineCleaned):
+        for ref in refs:
+            ins = re.findall('(<ins|</ins>)', ref)
+            length = len(ins) - 1
+            if length == - 1:
+                return addedLineCleaned.replace(ref, '')
+            elif ins[0] == '</ins>' and ins[length] == '<ins':
+                i = '</ins><ins class="diffchange diffchange-inline">'
+                return addedLineCleaned.replace(ref, i)
+            elif ins[0] == '</ins>':
+                i = '</ins>'
+                return addedLineCleaned.replace(ref, i)
+            elif ins[length] == '<ins':
+                i = '<ins class="diffchange diffchange-inline">'
+                return addedLineCleaned.replace(ref, i)
+            else:
+                return addedLineCleaned.replace(ref, '')
+
+    def getMaxLength(self, highlightedLines, addedLineCleaned, deletedLine):
+        maxLength = 0
+        if len(highlightedLines) == 0 and deletedLine == None:
+            maxLength += len(addedLineCleaned.get_text())
+        else:
+            for i in range(len(highlightedLines)):
+                highlightedLine = highlightedLines[i]
+                maxLength += len(highlightedLine.get_text())
+        return maxLength
+
+    def getText(self, paragraphs):
+        for i in range(len(paragraphs)):
+            text = paragraphs[i].text
+            element = paragraphs[i]
+            paragraphs[i] = {'text': text, 'element': element}
+        return paragraphs
+
+    def getNameInLink(self, changedText):
+        brackets = re.findall(r'\[\[(.*?)\]\]', changedText)
+        for i in range(len(brackets)):
+            split = brackets[i].split('|')
+            name = split[1] if len(split) > 1 else split[0]
+
+            search = '[[' + split[0] + \
+                '|' + \
+                split[1] + \
+                ']]' if len(
+                split) > 1 else '[[' + split[0] + ']]'
+
+            return changedText.replace(search, name)
+
+
+key = 'NSkKvBJI7UHeUdWAlvsYknQEm'
+secret = 'oBD3k0uczP5nkTcVnNkmKkuF0tel4vtAzYEHQHSj7gHRdmP1kG'
+
+token = '1321211489278173186-9GrEzJ3CT1XKEhS1wEav2FiFBAVCKj'
+tokenSecret = '2cqLHWi9vE6hDeLOKobZFDD3h5NnUIR24biOCTxDVbLAu'
+
+
+wikiTitles = ['National_responses_to_the_COVID-19_pandemic',
+              'COVID-19_vaccine',
+              'Workplace_hazard_controls_for_COVID-19',
+              'COVID-19_pandemic_in_the_United_States',
+              'COVID-19_pandemic_in_Brazil',
+              'COVID-19_pandemic_in_India',
+              'COVID-19_pandemic_in_Russia',
+              'COVID-19_pandemic_in_South_Africa',
+              'COVID-19_pandemic_in_Mexico',
+              'COVID-19_pandemic_in_Chile',
+              'COVID-19_pandemic_in_the_United_Kingdom',
+              'COVID-19_pandemic_in_Iran',
+              'Severe_acute_respiratory_syndrome_coronavirus_2',
+              'Coronavirus',
+              'COVID-19_pandemic',
+              'Coronavirus_disease_2019',
+              'Coronavirus_disease',
+              'COVID-19_recession',
+              'Misinformation_related_to_the_COVID-19_pandemic',
+              'COVID-19_drug_development',
+              'Impact_of_the_COVID-19_pandemic_on_science_and_technology',
+              'Impact_of_the_COVID-19_pandemic_on_the_environment',
+              'Impact_of_the_COVID-19_pandemic_on_politics',
+              'Financial_market_impact_of_the_COVID-19_pandemic',
+              'Impact_of_the_COVID-19_pandemic_on_social_media',
+              'Mental_health_during_the_COVID-19_pandemic',
+              'Human_rights_issues_related_to_the_COVID-19_pandemic']
+
+Scraper = WikiUpdate(wikiTitles, key, secret, token, tokenSecret)
 
 Scraper.mainFunc()
