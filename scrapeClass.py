@@ -230,7 +230,8 @@ class WikiUpdate:
                             continue
 
                         # Creates html for image
-                        fileName = revision['revisionId'] + str(i) + ".jpg"
+                        fileName = title + \
+                            revision['revisionId'] + str(i) + ".jpg"
                         date = revision['date']
                         dateStrip = date.split('of')[1]
                         i += 1
@@ -254,7 +255,8 @@ class WikiUpdate:
                                     </body>
                                 </html>'''.format(mainTitles, changedText)
 
-                        res = {'html': html, 'date': dateStrip}
+                        res = {'html': html, 'date': dateStrip,
+                               'fileName': fileName}
                         final.append(res)
 
         # Sorts revisions by date creates from earliest to most recent
@@ -262,8 +264,9 @@ class WikiUpdate:
             each_dict['date'], ' %H:%M, %d %B %Y'))
         for tweet in final:
             html = tweet['html']
-            imgkit.from_string(html, 'out.jpg', options=options, css=css)
-            self.api.update_with_media('./out.jpg')
+            fileName = tweet['fileName']
+            imgkit.from_string(html, fileName, options=options, css=css)
+            # self.api.update_with_media('./out.jpg')
 
     # Checks size of revision returning True or False
     def checkSize(self, curr):
