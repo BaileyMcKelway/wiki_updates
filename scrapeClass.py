@@ -9,7 +9,6 @@ from datetime import datetime
 from datetime import datetime
 from fuzzywuzzy import fuzz
 
-
 class WikiUpdate:
 
     def __init__(self, titles, key, secret, token, tokenSecret):
