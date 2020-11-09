@@ -89,9 +89,9 @@ class WikiUpdate:
                 startChecking = False
 
             # Pushes all revisions, stored by title, matching size and content checks
-            self.queue.append(revisionAll)
+                self.queue.append(revisionAll)
 
-            if len(self.queue) >= 5:
+            # if len(self.queue) >= 5:
                 self.checkDeleted()
 
             time.sleep(3600)
@@ -123,7 +123,9 @@ class WikiUpdate:
                 addedLine = tableRow.find(class_='diff-addedline')
                 deletedLine = tableRow.find(class_='diff-deletedline')
 
-                if addedLine != None and addedLine.find('div') == None or addedLine == None:
+                if addedLine == None:
+                    continue
+                if addedLine.find('div') == None:
                     continue
 
                 addedLineCleaned = str(addedLine)
@@ -141,12 +143,11 @@ class WikiUpdate:
                 if(addedLineCleaned.find('[[File') != -1):
                     continue
 
-                if(len(addedLineCleaned.split(" ")) == 1):
-                    continue
-
                 addedLineCleaned = BeautifulSoup(
                     addedLineCleaned, 'html.parser')
 
+                if(len(addedLineCleaned.get_text().split(" ")) == 1):
+                    continue
                 # Determines if edit is substantial based off of the amount of text highlighted
                 highlightedLines = addedLineCleaned.find_all(
                     'ins', {"class": "diffchange-inline"})
@@ -216,6 +217,7 @@ class WikiUpdate:
 
                         # Filtering out citations
                         changedText = revision['fullText']
+                        prevLink = revision['prevLink']
 
                         clean = re.compile('{{(c|C)ite.*?}}')
                         changedText = re.sub(clean, '', changedText)
@@ -256,7 +258,7 @@ class WikiUpdate:
                                 </html>'''.format(mainTitles, changedText)
 
                         res = {'html': html, 'date': dateStrip,
-                               'fileName': fileName}
+                               'fileName': fileName, 'prevLink': prevLink}
                         final.append(res)
 
         # Sorts revisions by date creates from earliest to most recent
@@ -264,11 +266,15 @@ class WikiUpdate:
             each_dict['date'], ' %H:%M, %d %B %Y'))
         for tweet in final:
             html = tweet['html']
+            link = tweet['prevLink']
             fileName = tweet['fileName']
-            imgkit.from_string(html, fileName, options=options, css=css)
-            # self.api.update_with_media('./out.jpg')
+            tweetText = '''{} \n ##COVID19 #coronavirus'''.format(link)
+            imgkit.from_string(html, './out.jpg', options=options, css=css)
+            mediaIds = [self.api.media_upload('./out.jpg').media_id_string]
+            self.api.update_status(status=tweetText, media_ids=mediaIds)
 
     # Checks size of revision returning True or False
+
     def checkSize(self, curr):
         diffBytes = curr.find_all(
             ['span', 'strong'], class_='mw-diff-bytes', dir='ltr')[0]
@@ -317,18 +323,20 @@ class WikiUpdate:
             ins = re.findall('(<ins|</ins>)', ref)
             length = len(ins) - 1
             if length == - 1:
-                return addedLineCleaned.replace(ref, '')
+                addedLineCleaned = addedLineCleaned.replace(ref, '')
             elif ins[0] == '</ins>' and ins[length] == '<ins':
                 i = '</ins><ins class="diffchange diffchange-inline">'
-                return addedLineCleaned.replace(ref, i)
+                addedLineCleaned = addedLineCleaned.replace(ref, i)
             elif ins[0] == '</ins>':
                 i = '</ins>'
-                return addedLineCleaned.replace(ref, i)
+                addedLineCleaned = addedLineCleaned.replace(ref, i)
             elif ins[length] == '<ins':
                 i = '<ins class="diffchange diffchange-inline">'
-                return addedLineCleaned.replace(ref, i)
+                addedLineCleaned = addedLineCleaned.replace(ref, i)
             else:
-                return addedLineCleaned.replace(ref, '')
+                addedLineCleaned = addedLineCleaned.replace(ref, '')
+
+        return addedLineCleaned
 
     def getMaxLength(self, highlightedLines, addedLineCleaned, deletedLine):
         maxLength = 0
@@ -343,6 +351,7 @@ class WikiUpdate:
     def getText(self, paragraphs):
         for i in range(len(paragraphs)):
             text = paragraphs[i].text
+            text = re.sub(r"\[.*?\]+", '', text)
             element = paragraphs[i]
             paragraphs[i] = {'text': text, 'element': element}
         return paragraphs
@@ -359,7 +368,9 @@ class WikiUpdate:
                 ']]' if len(
                 split) > 1 else '[[' + split[0] + ']]'
 
-            return changedText.replace(search, name)
+            changedText = changedText.replace(search, name)
+
+        return changedText
 
 
 key = 'NSkKvBJI7UHeUdWAlvsYknQEm'
@@ -376,9 +387,6 @@ wikiTitles = ['National_responses_to_the_COVID-19_pandemic',
               'COVID-19_pandemic_in_Brazil',
               'COVID-19_pandemic_in_India',
               'COVID-19_pandemic_in_Russia',
-              'COVID-19_pandemic_in_South_Africa',
-              'COVID-19_pandemic_in_Mexico',
-              'COVID-19_pandemic_in_Chile',
               'COVID-19_pandemic_in_the_United_Kingdom',
               'COVID-19_pandemic_in_Iran',
               'Severe_acute_respiratory_syndrome_coronavirus_2',
