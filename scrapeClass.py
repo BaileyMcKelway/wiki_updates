@@ -89,9 +89,9 @@ class WikiUpdate:
                 startChecking = False
 
             # Pushes all revisions, stored by title, matching size and content checks
-                self.queue.append(revisionAll)
+            self.queue.append(revisionAll)
 
-            # if len(self.queue) >= 5:
+            if len(self.queue) >= 5:
                 self.checkDeleted()
 
             time.sleep(3600)
