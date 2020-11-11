@@ -6,7 +6,6 @@ import time
 import sys
 from bs4 import BeautifulSoup
 from datetime import datetime
-from datetime import datetime
 from fuzzywuzzy import fuzz
 
 class WikiUpdate:
