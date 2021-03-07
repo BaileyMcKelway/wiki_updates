@@ -7,8 +7,19 @@ A web scraping script that continually checks revisions made to Wikipedia articl
 ![alt text](https://i.imgur.com/zX2nk4N.png)
 
 # Getting Started
+1. Download repo
+2. Open repo
+3. pip3 install
+4. Create new WikiUpdate class
+```
+Scraper = WikiUpdate(wikiTitles, twitter_key, twitter_secret, twitter_token, twitter_tokenSecret)
+```
+5. Call mainFunc() in class
+```
+Scraper.mainFunc()
+```
 
-
+Example Usage:
 ```
 wikiTitles = [
 'National_responses_to_the_COVID-19_pandemic',
