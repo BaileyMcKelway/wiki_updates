@@ -6,9 +6,5 @@ A web scraping script that continually checks revisions made to Wikipedia articl
 ![alt text](https://i.imgur.com/wVXjGWC.png)
 ![alt text](https://i.imgur.com/zX2nk4N.png)
 
-# How It Works
-
 # Getting Started
 
-# Diagram
-![alt text](https://i.imgur.com/hfAjbsY.png)
